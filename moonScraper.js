@@ -25,12 +25,12 @@ function grabem() {
 // 	})
 // }
 
-var file = fs.createWriteStream('moons-data2.txt');
+// var file = fs.createWriteStream('moons-data2.txt');
 
-file.on('error', function(err) { console.log("error") });
+// file.on('error', function(err) { console.log("error") });
 
-moon.forEach(function(v) { file.write(v.join(', ') + '\n'); });
-file.end();
+// moon.forEach(function(v) { file.write(v.join(', ') + '\n'); });
+// file.end();
 
 
-grabem();
+// grabem();
