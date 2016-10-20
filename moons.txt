@@ -1,0 +1,4602 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head profile="http://www.w3.org/2005/10/profile">
+
+<!-- template_regular -->
+
+<meta http-equiv = "Content-Type" content = "text/html; charset=iso-8859-1">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+
+<title>Table of Moons in Solar System: Discovery, Size and Orbital Period - Windows to the Universe</title>
+
+<link rel='stylesheet' type='text/css' href='/redesign/style_main.css' media="screen">
+
+<link rel="stylesheet" href="/redesign/print.css" type="text/css" media="print" />
+
+<link rel='stylesheet' type='text/css' href='/redesign/colorbox1.css'>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+
+
+
+
+<!--[if lt IE 8]>
+
+<link rel="stylesheet" media="screen" type="text/css" href="/redesign/IE7.css" /> 
+
+<script src="https://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+
+<![endif]-->
+
+<!--[if IE 6]><link rel="stylesheet" media="screen" type="text/css" href="/redesign/IE6.css" /><![endif]--> 
+
+<link rel="stylesheet" href="/redesign/horiz-nav.css" type="text/css" media="screen" />
+
+<script type="text/javascript" src="/JavaScript/jquery.min.js"></script>
+
+<!--<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.js"></script>-->
+
+<script type="text/JavaScript" src="/JavaScript/zrssfeed/jquery.zrssfeed.min.js"></script>
+
+<script type="text/javascript" src="/JavaScript/zrssfeed/jquery.vticker.js"></script>
+
+<script type="text/javascript" src="/redesign/hoverIntent/jquery.hoverIntent.minified.js"></script>
+
+<script type="text/JavaScript" src="/redesign/jquery.colorbox.js"></script>
+
+<script type="text/javascript" src="/JavaScript/win_main_jquery.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+var feeds = [ 'http://www.nasa.gov/rss/solar_system.rss','http://apod.nasa.gov/apod.rss','http://hubblesite.org/newscenter/newscenter_rss.php' ];
+
+for( var i=0; i<feeds.length; i++ ) {
+
+$('#news_left').append('<div id="ticker'+i+'"> </div>');
+
+$('#ticker'+i).rssfeed(feeds[i], { content: false }, function(e) {
+
+$(e).find(' div.rssBody').vTicker({ showItems: 1, pause: 20000, height: 0, speed: 1000});
+
+});
+
+}
+
+
+
+/*if ( $('#events_scroll').find('li').length > 2 ) {
+
+$('#events_scroll').vTicker({
+
+speed: 1000,
+
+pause: 20000,
+
+showItems: 2
+
+});
+
+}*/
+
+
+
+$('#bookmark_button').click( function() {
+
+$.get( '/php/bookmark.php', $(this).attr('name'), function(data) {
+
+$('#bookmark_result').append(data).show();
+
+});
+
+});
+
+
+
+$('#bookmark_result_close').live( 'click',function() {
+
+$('#bookmark_result').hide().html('<a href="#" id="bookmark_result_close">x</a>') ;
+
+}); 
+
+
+
+$('#bookmark_remove').live( 'click',function() {
+
+$.get( '/php/bookmark.php', $(this).attr('name') + '&action=remove', function(data) {
+
+$('#bookmark_result').html('<a href="#" id="bookmark_result_close">x</a>').append(data).show();
+
+}); 
+
+});
+
+
+
+$('.current_events_item').live( 'click', function() {
+
+$(this).parent('li').children('.current_events_detail').fadeIn('slow'); 
+
+});
+
+
+
+$('.current_events_close').click( function() {
+
+$(this).parent().hide();
+
+});
+
+
+
+$('#closewindow').live( 'click', function() {
+
+$('#donation_ad').hide();
+
+$.get( '/php/ad_close.php');
+
+});
+
+$('a[href*="quiz.php"]').colorbox1({width:"700", height:"800", opacity:0.5, iframe:true, overlayClose: false});
+
+$('a[href*="reg_donate.php"]').colorbox1({width:"600", height:"700", opacity:0.5, iframe:true, overlayClose: false});
+
+
+
+/*$(document).bind('cbox_closed', function () {
+
+$('#cboxOverlay').remove();
+
+$('#colorbox').remove();
+
+});*/
+
+});
+
+</script>
+
+<script type='text/javascript'>
+
+var googletag = googletag || {};
+
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+
+var gads = document.createElement('script');
+
+gads.async = true;
+
+gads.type = 'text/javascript';
+
+var useSSL = 'https:' == document.location.protocol;
+
+gads.src = (useSSL ? 'https:' : 'http:') + 
+
+'//www.googletagservices.com/tag/js/gpt.js';
+
+var node = document.getElementsByTagName('script')[0];
+
+node.parentNode.insertBefore(gads, node);
+
+})();
+
+</script>
+
+
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/2612394/156x192_rectangle', [156, 192], 'div-gpt-ad-1380047489534-0').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/156x90_bottom_left', [156, 90], 'div-gpt-ad-1380047489534-1').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/156x90_bottom_right', [156, 90], 'div-gpt-ad-1380047489534-2').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/156x90_top_left', [156, 90], 'div-gpt-ad-1380047489534-3').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/156x90_top_right', [156, 90], 'div-gpt-ad-1380047489534-4').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/bottom_leaderboard', [728, 90], 'div-gpt-ad-1380047489534-5').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/content_rectangle', [300, 250], 'div-gpt-ad-1380047489534-6').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/left_skyscraper', [160, 600], 'div-gpt-ad-1380047489534-7').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/right_skyscraper', [160, 600], 'div-gpt-ad-1380047489534-8').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/top_leaderboard', [728, 90], 'div-gpt-ad-1380047489534-9').addService(googletag.pubads());
+
+googletag.defineSlot('/2612394/Large_rectangle', [336, 280], 'div-gpt-ad-1380053204220-0').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+
+googletag.enableServices();
+
+});
+
+</script>
+
+<!-- Begin comScore Tag for Mode-->
+
+<script>
+
+var _comscore = _comscore || [];
+
+_comscore.push({ c1: "2", c2: "6035233" });
+
+(function() {
+
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+
+el.parentNode.insertBefore(s, el);
+
+})();
+
+</script>
+
+<noscript>
+
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035233&cv=2.0&cj=1" />
+
+</noscript>
+
+<!-- End comScore Tag -->
+
+
+
+
+
+<!-- Multiview tag -->
+
+<script type="text/javascript">var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".multiview.com/ados.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);</script>
+
+<script type="text/javascript">
+
+var ados = ados || {};
+
+ados.run = ados.run || [];
+
+ados.run.push(function() {
+
+/* load placement for account: Multiview, site: NESTAweb - National Earth Science Teachers Association - MultiWeb, size: 156x230 - 156 x 230, zone: NESTAweb - Block Ad*/
+
+ados_add_placement(4466, 54248, "mvBoxAd", 1453).setZone(55869);
+
+ados_setDomain('engine.multiview.com');
+
+ados_load();
+
+});</script>
+
+
+
+<!-- End Multiview tag -->
+
+
+
+<script type="text/JavaScript">
+
+$(document).ready(function() {
+
+
+
+var len1 = $('#column_left').height();
+
+var len2 = $('#column_right').height() - 65;
+
+var num = Math.max( len1, len2 ) - $('#content').height()-30 ;
+
+num = Math.round(num/132)-1;
+
+if ( num <= 0 ) $('#features').hide();
+
+else $('#features .feature').slice( num ).hide(); 
+
+
+
+$fwidth = + 40; 
+
+$fheight = + 200; 
+
+$('#content_image a').colorbox1({transition:'elastic', speed:500, innerWidth:$fwidth, innerHeight:$fheight, maxHeight:"100%", opacity:0.8, iframe:true});
+
+$('#content a[href*="image.html"]').not('#content_image a').colorbox1({transition:'elastic', speed:500, width:"850", height:"550", opacity:0.8, iframe:true});
+
+});
+
+
+
+</script>
+
+<script language='javascript' src='/our_solar_system/moon_counts.js'></script>
+
+<!-- Start Google Analytics -->
+
+
+
+<script type="text/javascript">
+
+
+
+var _gaq = _gaq || [];
+
+_gaq.push(['_setAccount', 'UA-8361503-3']);
+
+_gaq.push(['_trackPageview']);
+
+
+
+
+
+(function() {
+
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+})();
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+})(window,document,'script','//www.google-analytics.com/analytics.js','hewlettOERTracker');
+
+hewlettOERTracker('create', 'UA-5033010-1', 'auto');
+
+hewlettOERTracker('send', 'pageview');
+
+
+
+</script>
+
+<!-- End Google Analytics -->
+
+
+
+<!-- Quantcast Tag -->
+
+<script type="text/javascript">
+
+var _qevents = _qevents || [];
+
+
+
+(function() {
+
+var elem = document.createElement('script');
+
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+
+elem.async = true;
+
+elem.type = "text/javascript";
+
+var scpt = document.getElementsByTagName('script')[0];
+
+scpt.parentNode.insertBefore(elem, scpt);
+
+})();
+
+
+
+_qevents.push({
+
+qacct:"p-674DE8hxF_rfA"
+
+});
+
+</script>
+
+
+
+<noscript>
+
+<div style="display:none;">
+
+<img src="//pixel.quantserve.com/pixel/p-674DE8hxF_rfA.gif" border="0" height="1" width="1" alt="Quantcast"/>
+
+</div>
+
+</noscript>
+
+<!-- End Quantcast tag -->
+
+</head>
+
+<body >
+
+<!-- Facebook SDK -->
+
+<div id="fb-root"></div>
+
+<script>(function(d, s, id) {
+
+var js, fjs = d.getElementsByTagName(s)[0];
+
+if (d.getElementById(id)) return;
+
+js = d.createElement(s); js.id = id;
+
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=379806758743145";
+
+fjs.parentNode.insertBefore(js, fjs);
+
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<div id="frame">
+
+
+
+
+
+<!-- Compete XL Code for windows2universe.org -->
+
+<script type="text/javascript">
+
+__compete_code = '1d3a8cb11daf54e5c6ac580623fdf64c';
+
+/* Set control variables below this line. */ 
+
+</script>
+
+<script type="text/javascript" src="//c.compete.com/bootstrap/s/1d3a8cb11daf54e5c6ac580623fdf64c/windows2universe-org/bootstrap.js"></script>
+
+<noscript>
+
+<img width="1" height="1" src="https://ssl-windows2universe-org-1d3a8c.c-col.com"/>
+
+</noscript>
+
+
+
+<div id="ad_top"><!-- top_leaderboard -->
+
+<div id='div-gpt-ad-1380047489534-9' style='width:728px; height:90px;'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380047489534-9'); });
+
+</script>
+
+</div></div>
+
+<div id="header">
+
+<div id="logo"><a href="http://www.windows2universe.org"><img src="/images/lg0.gif" border=0></a></div>
+
+
+
+<div id="level_buttons">
+
+<div id="language_buttons"> <img src="/redesign/language.gif" usemap="#language" border=0>
+
+<map name="language">
+
+<area shape="rect" href="/our_solar_system/moons_table.html&lang=en" coords="14,11,61,49" alt="English">
+
+<area shape="rect" href="/our_solar_system/moons_table.html&lang=sp" coords="64,0,118,36" alt="Spanish">
+
+</map>
+
+</div>
+
+<ul>
+
+<li><a href="/our_solar_system/moons_table.html&edu=elem">Beginner</a></li>
+
+<li class="active"><a href="/our_solar_system/moons_table.html&edu=mid" >Intermediate</a></li>
+
+<li><a href="/our_solar_system/moons_table.html&edu=high">Advanced</a></li>
+
+</ul>
+
+
+
+<div id="search_form">
+
+<form method=get action="/php/search/search_new.php">
+
+<input class="bordered" size=20 name="search_phrase">
+
+<input type="submit" name="submit" value="Search" class="search_button">
+
+<input type=hidden name="search_level" value="mid">
+
+<input type=hidden name="edu" value="mid">
+
+<input type=hidden name="lang" value="en">
+
+</form>
+
+<div id="member_link"><a href="/membership.html">Become a Member</a><br><a href="/gen_member_benefits.html">Member Benefits, No Ads</a></div>
+
+</div>
+
+
+
+</div>
+
+<div id="nesta_blurb"><a href="http://www.nestanet.org">Brought to you by the National Earth Science Teachers Association</a></div>
+
+</div>
+
+<div id="enclose">
+
+<!-- <div id="links_main"> -->
+
+<ul id="topnav"><li><a href="/sun/sun.html" class="parentLink">Sun</a>
+
+<div class="sub"><ul><li><a href="/sun/solar_interior_new.html">Interior </a>
+
+<li><a href="/sun/solar_atmosphere.html">Atmosphere</a>
+
+<li><a href="/sun/solar_activity.html">Activity</a>
+
+<li><a href="/sun/atmosphere/sunspots.html">Sunspots</a>
+
+<li><a href="/sun/sun_polar_regions.html">Poles</a>
+
+<li><a href="/sun/atmosphere/solar_eclipse.html">Eclipses</a>
+
+<li><a href="/sun/sun_magnetic_field.html">Magnetic Field</a>
+
+<li><a href="/physical_science/physics/radiation.html">Radiation</a>
+
+<li><a href="/sun/fate.html">Fate</a>
+
+<li><a href="/mythology/planets/sun.html">Culture</a>
+
+<li class='more'><a href='#'>more...</a><ul><li class="more_item"><a href="/space_weather/space_weather.html">Space Weather</a>
+
+<li class="more_item"><a href="/sun/sun_il.html">Multimedia</a>
+
+<li class="more_item"><a href="/sun/recent_images.html">Recent Images</a>
+
+<li class="more_item"><a href="/sun/mission.html">Missions</a>
+
+<li class="more_item"><a href="/sun/statistics.html">Facts</a>
+
+<li class="more_item"><a href="/php/headline_universe/solar_system/sun_news.php">News</a>
+
+<li class="more_item"><a href="/sun/links.html">Links</a>
+
+</ul></li></ul></div></li><li><a href="/earth/earth.html" class="parentLink">Earth</a>
+
+<div class="sub"><ul><li><a href="/earth/interior_surface.html">Interior/Surface</a>
+
+<li><a href="/earth/Atmosphere/overview.html">Atmosphere</a>
+
+<li><a href="/earth/Magnetosphere/overview.html">Magnetosphere</a>
+
+<li><a href="/earth/moons_and_rings.html">Moon</a>
+
+<li><a href="/earth/polar/polar.html">Poles</a>
+
+<li><a href="/earth/climate/climate.html">Climate</a>
+
+<li><a href="/earth/Water/overview.html">Water</a>
+
+<li><a href="/earth/Life/life.html">Life</a>
+
+<li><a href="/earth/natural_hazards/when_nature_strikes.html">Natural Hazards</a>
+
+<li class='more'><a href='#'>more...</a><ul><li class="more_item"><a href="/earth/changing_planet/changing_planet.html">Our Changing Planet</a>
+
+<li class="more_item"><a href="/mythology/planets/Earth/earth.html">Myth</a>
+
+<li class="more_item"><a href="/earth/research_expeditions.html">Exploration</a>
+
+<li class="more_item"><a href="/earth/ess1.html">Earth System</a>
+
+<li class="more_item"><a href="/earth/statistics.html">Facts</a>
+
+<li class="more_item"><a href="/php/gallery/gallery.php?id=7">Multimedia</a>
+
+<li class="more_item"><a href="/earth/links.html">Links</a>
+
+<li class="more_item"><a href="/php/headline_universe/earth_science/earth_news.php">News</a>
+
+<li class="more_item"><a href="/cool_stuff/tours_main.html">Tours</a>
+
+</ul></li></ul></div></li><li class="active"><a href="/our_solar_system/solar_system.html" class="parentLink">Solar System</a>
+
+<div class="sub"><ul><li><a href="/our_solar_system/solar_system_1.html">Formation</a>
+
+<li><a href="/sun/sun.html">Sun</a>
+
+<li><a href="/our_solar_system/planets.html">Planets</a>
+
+<li><a href="/our_solar_system/dwarf_planets/dwarf_planets.html">Dwarf Planets</a>
+
+<li><a href="/our_solar_system/asteroids.html">Asteroids</a>
+
+<li><a href="/our_solar_system/meteors/meteors.html">Meteors</a>
+
+<li><a href="/comets/comets.html">Comets</a>
+
+<li><a href="/our_solar_system/solar_system_poles.html">Poles </a>
+
+<li><a href="/mythology/planets/planets.html">Culture</a>
+
+<li><a href="/our_solar_system/discovery.html">Discovery</a>
+
+<li class='more'><a href='#'>more...</a><ul><li class="more_item"><a href="/comets/Kuiper_belt.html">Kuiper Belt</a>
+
+<li class="more_item"><a href="/our_solar_system/reference_data.html">Facts</a>
+
+<li class="more_item"><a href="/php/headline_universe/solar_system/solar_system.php">News</a>
+
+<li class="more_item"><a href="/php/gallery/gallery.php?id=66">Multimedia</a>
+
+<li class="more_item"><a href="/cool_stuff/tours_main.html">Tours</a>
+
+</ul></li></ul></div></li><li><a href="/the_universe/the_universe.html" class="parentLink">Space</a>
+
+<div class="sub"><ul><li><a href="/the_universe/uts/ast_history.html">History</a>
+
+<li><a href="/the_universe/uts/intro.html">Our Sky</a>
+
+<li><a href="/the_universe/Constellations/constnavi.html">Constellations</a>
+
+<li><a href="/the_universe/sky_maps.html">Sky Maps</a>
+
+<li><a href="/the_universe/Stars.html">Stars</a>
+
+<li><a href="/the_universe/Stars/exoplanets.html">Exoplanets </a>
+
+<li><a href="/the_universe/Strange.html">Strange Stuff</a>
+
+<li><a href="/the_universe/Galaxy.html">Galaxies</a>
+
+<li><a href="/the_universe/Cosmology.html">Cosmos</a>
+
+<li class='more'><a href='#'>more...</a><ul><li class="more_item"><a href="/the_universe/Nebula.html">Star Dust</a>
+
+<li class="more_item"><a href="/php/headline_universe/universe/universe_news.php">News</a>
+
+<li class="more_item"><a href="/php/gallery/gallery.php?id=78">Multimedia</a>
+
+<li class="more_item"><a href="/the_universe/links.html">Links</a>
+
+<li class="more_item"><a href="/space_missions/space_missions.html">Missions</a>
+
+<li class="more_item"><a href="/cool_stuff/tours_main.html">Tours</a>
+
+</ul></li></ul></div></li><li><a href="/physical_science/sciences.html" class="parentLink">Sciences</a>
+
+<div class="sub"><ul><li><a href="/earth/geology/geology.html">Geology</a>
+
+<li><a href="/physical_science/physics/physics.html">Physics</a>
+
+<li><a href="/physical_science/chemistry/chemistry.html">Chemistry</a>
+
+<li><a href="/earth/Life/biology.html">Biology</a>
+
+<li><a href="/olpa/nsf_olpa_portal.html">Research</a>
+
+<li><a href="/people/people.html">Scientists</a>
+
+<li><a href="/earth/research_expeditions.html">Expeditions</a>
+
+<li><a href="/people/scientific_process.html">Scientific Process </a>
+
+<li><a href="/cool_stuff/tour_evolution_0.html">Evolution</a>
+
+<li class='more'><a href='#'>more...</a><ul><li class="more_item"><a href="/teacher_resources/main/frameworks/frameworks_main.html">Frameworks </a>
+
+<li class="more_item"><a href="/teacher_resources/sci_schools/ss_home.html">Scientists in Schools</a>
+
+</ul></li></ul></div></li><li><a href="/mythology/myths_stories_art.html" class="parentLink">Culture</a>
+
+<div class="sub"><ul><li><a href="/mythology/mythology.html">Myth</a>
+
+<li><a href="/art_and_music/storyfolk.html">Stories</a>
+
+<li><a href="/art_and_music/poems.html">Poetry</a>
+
+<li><a href="/php/poetry_pictures/poetry_pictures.php">Poetry & Pictures</a>
+
+<li><a href="/art_and_music/books.html">Books</a>
+
+<li><a href="/art_and_music/films.html">Movies</a>
+
+<li><a href="/art_and_music/cloud_art/cloud_art_main.html">Clouds in Art</a>
+
+<li><a href="/art_and_music/art_archive.html">Mythology Art </a>
+
+<li><a href="/mythology/links.html">Links</a>
+
+<li><a href="/art_and_music/people_art_archive.html">People Art </a>
+
+</ul></div></li><li><a href="/people/people.html" class="parentLink">People</a>
+
+<div class="sub"><ul><li><a href="/people/ancient_epoch.html">Ancient</a>
+
+<li><a href="/people/middle_ages.html">Middle Ages</a>
+
+<li><a href="/people/ren_epoch.html">Renaissance</a>
+
+<li><a href="/people/enlightenment.html">Enlightenment </a>
+
+<li><a href="/people/modern_era.html">Modern Era</a>
+
+<li><a href="/people/today.html">Today</a>
+
+<li><a href="/people/astronauts.html">Astronauts</a>
+
+<li><a href="/people/scientific_process.html">Scientific Process</a>
+
+<li class='more'><a href='#'>more...</a><ul><li class="more_item"><a href="/people/blogs/scientist.html">Blogs</a>
+
+<li class="more_item"><a href="/people/observatory.html">The Observatory</a>
+
+<li class="more_item"><a href="/bio/bio_entry.html">Windows People</a>
+
+<li class="more_item"><a href="/coloring_book/index_people.html">Coloring Book</a>
+
+<li class="more_item"><a href="/people/links.html">Links</a>
+
+</ul></li></ul></div></li><li><a href="/games/fun.html" class="parentLink">Just Fun</a>
+
+<div class="sub"><ul><li><a href="/games/games.html">Fun & Games</a>
+
+<li><a href="/multimedia_gallery/multimedia_gallery.html">Multimedia</a>
+
+<li><a href="/kids_space/ask.html">Ask a Scientist</a>
+
+<li><a href="javascript:wb_onclick();">Windows Journal</a>
+
+<li><a href="/php/postcard/postcard.php">Virtual Postcards</a>
+
+<li><a href="/citizen_science/citizen_science.html">Citizen Science</a>
+
+</ul></div></li><li><a href="/teacher_resources/main/teacher_resources.html" class="parentLink">Teachers</a>
+
+<div class="sub"><ul><li><a href="/teacher_resources/main/webinars.html">Web Seminars</a>
+
+<li><a href="/teacher_resources/main/frameworks/frameworks_main.html">Frameworks</a>
+
+<li><a href="/php/teacher_resources/activity.php">Activities</a>
+
+<li><a href="javascript:wb_onclick();">Journal</a>
+
+<li><a href="/teacher_resources/main/w2u_workshops.html">Workshops</a>
+
+<li><a href="/php/teacher_resources/enewsletter.php"> E-Newsletter</a>
+
+<li><a href="/olpa/nsf_olpa_portal.html">Research </a>
+
+<li><a href="/teacher_resources/motivational_quotes.html">Quotations</a>
+
+<li class='more'><a href='#'>more...</a><ul><li class="more_item"><a href="/teacher_resources/sci_schools/ss_home.html">Scientists in Schools</a>
+
+<li class="more_item"><a href="/teacher_resources/climate.html">Climate Resources </a>
+
+<li class="more_item"><a href="/cool_stuff/tours_main.html">Tours</a>
+
+<li class="more_item"><a href="/teacher_resources/online_courses/courses_content_menu.html">Online Courses Content Pages</a>
+
+<li class="more_item"><a href="/teacher_resources/main/edu_links.html">Links</a>
+
+</ul></li></ul></div></li><li><a href="/more_links.html" class="parentLink">more...</a>
+
+<div class="sub"><ul><li><a href="/space_weather/space_weather.html">Space Weather</a>
+
+<li><a href="/headline_universe/headline_universe.html">News</a>
+
+<li><a href="/olpa/nsf_olpa_portal.html">Research</a>
+
+<li><a href="/multimedia_gallery/multimedia_gallery.html">Multimedia</a>
+
+<li><a href="/people/postcards/postcards_menu.html">Postcards</a>
+
+<li><a href="/citizen_science/citizen_science.html">Citizen Science</a>
+
+<li><a href="/teacher_resources/motivational_quotes.html">Quotations</a>
+
+</ul></div></li></ul>
+
+<!-- </div> --> <!-- links_main -->
+
+<!-- <div id="links_sub"> </div> -->
+
+<div id="column_left">
+
+<div id="links_left">
+
+
+
+<!-- AddThis Button BEGIN -->
+
+<script type="text/javascript">
+
+var addthis_config = { ui_click: true };
+
+
+
+</script>
+
+<div id="share" class="addthis_toolbox addthis_default_style">
+
+<a href="https://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c44c1d374d06de9" class="addthis_button">Share this page</a>
+
+</div>
+
+
+
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c44c1d374d06de9"></script>
+
+<!-- AddThis Button END -->
+
+<ul><li class='leftnav_title'>SOLAR SYSTEM</li><li><a href="/our_solar_system/solar_system_1.html">Formation</a>
+
+</li><li><a href="/sun/sun.html">Sun</a>
+
+</li><li><a href="/our_solar_system/planets.html">Planets</a>
+
+</li><li><a href="/our_solar_system/dwarf_planets/dwarf_planets.html">Dwarf Planets</a>
+
+</li><li><a href="/our_solar_system/asteroids.html">Asteroids</a>
+
+</li><li><a href="/our_solar_system/meteors/meteors.html">Meteors</a>
+
+</li><li><a href="/comets/comets.html">Comets</a>
+
+</li><li><a href="/our_solar_system/solar_system_poles.html">Poles </a>
+
+</li><li><a href="/mythology/planets/planets.html">Culture</a>
+
+</li><li><a href="/our_solar_system/discovery.html">Discovery</a>
+
+</li><li><a href="/comets/Kuiper_belt.html">Kuiper Belt</a>
+
+</li><li><a href="/our_solar_system/reference_data.html">Facts</a>
+
+</li><li><a href="/php/headline_universe/solar_system/solar_system.php">News</a>
+
+</li><li><a href="/php/gallery/gallery.php?id=66">Multimedia</a>
+
+</li><li><a href="/cool_stuff/tours_main.html">Tours</a>
+
+</li></ul>
+
+</div> <!-- links_left -->
+
+
+
+<div id="hotchalk"><!-- left_skyscraper -->
+
+<div id='div-gpt-ad-1380047489534-7' style='width:160px; height:600px;'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380047489534-7'); });
+
+</script>
+
+</div>
+
+</div>
+
+<div id="shop" class="highlight">
+
+<h2>Shop Windows to the Universe</h2><a href='/store/product.php?productid=261' target='_blank'><img src='/store/images/T/xctmpXC8ENE.png' height=90 border=0></a>With <a href="/store/product.php?productid=261">Explore the Planets</a>, investigate the planets, their moons, and understand the processes that shape them. By G. Jeffrey Taylor, Ph.D. See our <a href="/store/home.php?cat=90">DVD collection</a>. 
+
+</div>
+
+<div id="news_left">
+
+<div id="ticker"> <h4><a href='/multimedia_gallery/rss_feeds.html'>RSS Feeds</a></h4> </div> 
+
+</div>
+
+
+
+
+
+<div class="dfp_ad">
+
+<!-- 156x90_bottom_right -->
+
+<div id='div-gpt-ad-1380047489534-2' style='width:156px; height:90px;'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380047489534-2'); });
+
+</script>
+
+</div>
+
+</div> 
+
+
+
+</div> <!-- column_left -->
+
+
+
+<div id="column_main">
+
+
+
+<div id="content">
+
+
+
+
+
+<h1>Moons in our Solar System 
+
+<!--<div id="quick_donate"><a href="/php/registration/reg_donate.php"><img src="/images/QD1.jpg" border=0></a></div>-->
+
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.windows2universe.org/our_solar_system/moons_table.html&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=325911867506691" 
+
+scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px; float:right;" allowTransparency="true"></iframe></h1> 
+
+<p>As of October 2008, there are 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('entire solar system'); 
+
+</SCRIPT> 
+
+known natural moons orbiting planets in our Solar System. 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('planets not dwarf'); 
+
+</SCRIPT> 
+
+moons orbit the "full-size" planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune), while 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('dwarf planets'); 
+
+</SCRIPT> 
+
+moons orbit the smaller "<a href="#dwarf_planets">dwarf planets</a>" (<a href="/asteroids/ceres.html" >Ceres</a>, <a href="/pluto/pluto.html" >Pluto</a>, <a href="/our_solar_system/dwarf_planets/haumea.html" >Haumea</a>, <a href="/our_solar_system/dwarf_planets/makemake.html" >Makemake</a>, and <a href="/our_solar_system/dwarf_planets/eris.html" >Eris</a>). </p> 
+
+
+
+<table width="100%" border=5 cellpadding=5 > 
+
+
+
+<tr align=center valign=top> 
+
+<th> </th> 
+
+<th>year<br>discovered</th> 
+
+<th>discoverer</th> 
+
+<th>distance from<br>planet <nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>diameter<br><nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>orbital period<br><nobr>(<font size=-1>days</font>)</nobr></th> 
+
+</tr> 
+
+
+
+<tr align=left valign=top> 
+
+<td colspan=6> 
+
+<img border="0" src="/our_solar_system/images/mercury_icon.gif" width="30" height="20"> 
+
+<strong>Mercury - 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('mercury'); 
+
+</SCRIPT> 
+
+Moons</strong></td> 
+
+</tr> 
+
+
+
+<tr align=left valign=top> 
+
+<td colspan=6> 
+
+<img border="0" src="/our_solar_system/images/venus_icon.gif" width="30" height="20"> 
+
+<strong>Venus - 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('venus'); 
+
+</SCRIPT> 
+
+Moons</strong></td> 
+
+</tr> 
+
+
+
+
+
+<tr align=left valign=top> 
+
+<td colspan=6> 
+
+<img border="0" src="/our_solar_system/images/earth_icon.gif" width="30" height="20"> 
+
+<strong>Earth - 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('earth'); 
+
+</SCRIPT> 
+
+Moon</strong></td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/earth/moons_and_rings.html" >Moon</a> (or Luna)</strong></td> 
+
+<td>?</td> 
+
+<td>?</td> 
+
+<td>384,400</td> 
+
+<td>3476</td> 
+
+<td>27.322</td> 
+
+</tr> 
+
+
+
+
+
+<tr align=left valign=top> 
+
+<td colspan=6> 
+
+<img border="0" src="/our_solar_system/images/mars_icon.gif" width="30" height="20"> 
+
+<strong>Mars - 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('mars'); 
+
+</SCRIPT> Moons</strong></td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/mars/deimos.html" >Deimos</a></strong></td> 
+
+<td>1877</td> 
+
+<td>A. Hall</td> 
+
+<td>23,460</td> 
+
+<td>8</td> 
+
+<td>1.263</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/mars/phobos.html" >Phobos</a></strong></td> 
+
+<td>1877</td> 
+
+<td>A. Hall</td> 
+
+<td>9,270</td> 
+
+<td>28 X 20</td> 
+
+<td>0.319</td> 
+
+</tr> 
+
+</table> 
+
+<br> 
+
+
+
+
+
+
+
+<table width="100%" border=5 cellpadding=5 > 
+
+
+
+<tr align=left valign=top> 
+
+<td colspan=6> 
+
+<img border="0" src="/our_solar_system/images/jupiter_icon.gif" width="30" height="20"> 
+
+<strong>Jupiter - 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('jupiter'); 
+
+</SCRIPT> Moons</strong></td> 
+
+</tr> 
+
+
+
+<tr align=center valign=top> 
+
+<th> </th> 
+
+<th>year<br> 
+
+discovered</th> 
+
+<th>discoverer</th> 
+
+<th>distance from<br> 
+
+planet <nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>diameter<br> 
+
+<nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>orbital period<br> 
+
+<nobr>(<font size=-1>days</font>)</nobr></th> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Adrastea</a></strong></td> 
+
+<td>1979</td> 
+
+<td>Jewitt & Danielson</td> 
+
+<td>128,980</td> 
+
+<td>26 X 16</td> 
+
+<td>0.298</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Aitne</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>23,547,000</td> 
+
+<td>3</td> 
+
+<td>736</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons/amalthea.html" >Amalthea</a></strong></td> 
+
+<td>1892</td> 
+
+<td>E. Barnard</td> 
+
+<td>181,300</td> 
+
+<td>262 X 134</td> 
+
+<td>0.498</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Ananke</a></strong></td> 
+
+<td>1951</td> 
+
+<td>S. Nicholson</td> 
+
+<td>21,200,000</td> 
+
+<td>20</td> 
+
+<td>631</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >Aoede</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>23,807,655</td> 
+
+<td>4</td> 
+
+<td>748.8</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Arche</strong></td> 
+
+<td>2002</td> 
+
+<td>S. Sheppard</td> 
+
+<td>23,064,000</td> 
+
+<td>3</td> 
+
+<td>715.6</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Autonoe</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>24,122,000</td> 
+
+<td>4</td> 
+
+<td>753</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons/callisto.html" >Callisto</a></strong></td> 
+
+<td>1610</td> 
+
+<td><a href="/people/ren_epoch/galilei.html" >Galileo</a></td> 
+
+<td>1,883,000</td> 
+
+<td>4,800</td> 
+
+<td>16.689</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Carme</a></strong></td> 
+
+<td>1938</td> 
+
+<td>S. Nicholson</td> 
+
+<td>22,600,000</td> 
+
+<td>30</td> 
+
+<td>692</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Callirrhoe</strong></td> 
+
+<td>2000</td> 
+
+<td>Spacewatch Project<br>Minor Planet Center</td> 
+
+<td>24,200,000</td> 
+
+<td>10</td> 
+
+<td>774</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_april_2003.html" >Carpo</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>17,100,000</td> 
+
+<td>3</td> 
+
+<td>456.5</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Chaldene</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>23,179,000</td> 
+
+<td>3.8</td> 
+
+<td>741</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_april_2003.html" >Cyllene</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>24,000,000</td> 
+
+<td>2</td> 
+
+<td>737.8</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Elara</a></strong></td> 
+
+<td>1905</td> 
+
+<td>C. Perrine</td> 
+
+<td>11,737,000</td> 
+
+<td>80</td> 
+
+<td>259.65</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Erinome</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>23,279,000</td> 
+
+<td>3.2</td> 
+
+<td>672</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Euanthe</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>21,017,000</td> 
+
+<td>3</td> 
+
+<td>622</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >Eukelade</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>24,557,295</td> 
+
+<td>4</td> 
+
+<td>746.4</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Euporie</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>19,394,000</td> 
+
+<td>2</td> 
+
+<td>534</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons/europa.html" >Europa</a></strong></td> 
+
+<td>1610</td> 
+
+<td><a href="/people/ren_epoch/galilei.html" >Galileo</a></td> 
+
+<td>670,900</td> 
+
+<td>3126</td> 
+
+<td>3.551</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Eurydome</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>23,219,000</td> 
+
+<td>3</td> 
+
+<td>713</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons/ganymede.html" >Ganymede</a></strong></td> 
+
+<td>1610</td> 
+
+<td><a href="/people/ren_epoch/galilei.html" >Galileo</a></td> 
+
+<td>1,070,000</td> 
+
+<td>5276</td> 
+
+<td>7.155</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Harpalyke</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>21,105,000</td> 
+
+<td>4.3</td> 
+
+<td>595</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >Hegemone</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>24,514,095</td> 
+
+<td>3</td> 
+
+<td>781.6</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >Helike</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>10,972,830</td> 
+
+<td>4</td> 
+
+<td>233.8</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Hermippe</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>21,252,000</td> 
+
+<td>4</td> 
+
+<td>630</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Himalia</a></strong></td> 
+
+<td>1904</td> 
+
+<td>C. Perrine</td> 
+
+<td>11,480,000</td> 
+
+<td>170</td> 
+
+<td>250.57</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons/io.html" >Io</a></strong></td> 
+
+<td>1610</td> 
+
+<td><a href="/people/ren_epoch/galilei.html" >Galileo</a></td> 
+
+<td>421,600</td> 
+
+<td>3,629</td> 
+
+<td>1.769</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Iocaste</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>21,269,000</td> 
+
+<td>5.2</td> 
+
+<td>657</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Isonone</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>23,217,000</td> 
+
+<td>3.8</td> 
+
+<td>712</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Kale</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>23,124,000</td> 
+
+<td>2</td> 
+
+<td>609</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >Kallichore</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>22,395,390</td> 
+
+<td>2</td> 
+
+<td>683.0</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Kalyke</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>23,583,000</td> 
+
+<td>5.2</td> 
+
+<td>760</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_april_2003.html" >Kore</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>24,543,000</td> 
+
+<td>2</td> 
+
+<td>779.2</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Leda</a></strong></td> 
+
+<td>1974</td> 
+
+<td>C. Kowal</td> 
+
+<td>11,094,000</td> 
+
+<td>10</td> 
+
+<td>238.72</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Lysithea</a></strong></td> 
+
+<td>1938</td> 
+
+<td>S. Nicholson</td> 
+
+<td>11,720,000</td> 
+
+<td>24</td> 
+
+<td>259.22</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Magaclite</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>23,806,000</td> 
+
+<td>5.4</td> 
+
+<td>771</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Metis</a></strong></td> 
+
+<td>1979</td> 
+
+<td>S. Sunnott</td> 
+
+<td>127,960</td> 
+
+<td>40</td> 
+
+<td>0.295</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_apr_2003.html" >Mneme</a></strong></td> 
+
+<td>2003</td> 
+
+<td>Scott S. Sheppard & B. Gladman</td> 
+
+<td>21,069,000</td> 
+
+<td>2</td> 
+
+<td>620.04</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Orthosie</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>21,168,000</td> 
+
+<td>2</td> 
+
+<td>617</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Pasiphae</a></strong></td> 
+
+<td>1908</td> 
+
+<td>P. Melotte</td> 
+
+<td>23,500,000</td> 
+
+<td>36</td> 
+
+<td>735</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Pasithee</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>23,029,000</td> 
+
+<td>2</td> 
+
+<td>715</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Praxidike</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>21,147,000</td> 
+
+<td>6.8</td> 
+
+<td>632</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Sinope</a></strong></td> 
+
+<td>1914</td> 
+
+<td>S. Nicholson</td> 
+
+<td>23,700,700</td> 
+
+<td>28</td> 
+
+<td>758</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Sponde</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>23,808,000</td> 
+
+<td>2</td> 
+
+<td>732</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>S/2000 J11</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>12,555,000</td> 
+
+<td>4.0</td> 
+
+<td>284.3</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >S/2003 J2</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>28,570,410</td> 
+
+<td>2</td> 
+
+<td>982.5</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >S/2003 J3</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>18,339,885</td> 
+
+<td>2</td> 
+
+<td>504.0</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >S/2003 J4</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>23,257,920</td> 
+
+<td>2</td> 
+
+<td>723.2</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >S/2003 J5</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>24,084,180</td> 
+
+<td>4</td> 
+
+<td>759.7</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >S/2003 J9</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>22,441,680</td> 
+
+<td>1</td> 
+
+<td>683.0</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >S/2003 J10</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>24,249,600</td> 
+
+<td>2</td> 
+
+<td>767.0</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_moons_march_2003.html" >S/2003 J12</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>19,002,480</td> 
+
+<td>1</td> 
+
+<td>533.3</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_april_2003.html" >S/2003 J15</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>22,000,000</td> 
+
+<td>2</td> 
+
+<td>668.4</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_april_2003.html" >S/2003 J16</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>21,000,000</td> 
+
+<td>2</td> 
+
+<td>595.4</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_april_2003.html" >S/2003 J17</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>22,000,000</td> 
+
+<td>2</td> 
+
+<td>690.3</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_april_2003.html" >S/2003 J18</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>20,700,000</td> 
+
+<td>2</td> 
+
+<td>606.3</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_april_2003.html" >S/2003 J19</a></strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>22,800,000</td> 
+
+<td>2</td> 
+
+<td>701.3</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_apr_2003.html" >S/2003 J 23</a></strong></td> 
+
+<td>2003</td> 
+
+<td>Scott S. Sheppard</td> 
+
+<td><p>23,563,000</p> </td> 
+
+<td>2</td> 
+
+<td>732.44</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Taygete</strong></td> 
+
+<td>2000</td> 
+
+<td>S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier</td> 
+
+<td>23,360,000</td> 
+
+<td>5.0</td> 
+
+<td>687</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/jupiter/moons_and_rings.html" >Thebe</a></strong></td> 
+
+<td>1979</td> 
+
+<td>S. Synnott</td> 
+
+<td>221,900</td> 
+
+<td>100</td> 
+
+<td>0.675</td> 
+
+</tr> 
+
+
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_apr_2003.html" >Thelxinoe</a></strong></td> 
+
+<td>2003</td> 
+
+<td>Scott S. Sheppard & B. Gladman</td> 
+
+<td>21,162,000</td> 
+
+<td>2</td> 
+
+<td>628.09</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Themisto</strong></td> 
+
+<td>1975</td> 
+
+<td>C. Kowal & E. Roemer</td> 
+
+<td>7,507,000</td> 
+
+<td>8</td> 
+
+<td>130.07</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Thyone</strong></td> 
+
+<td>2001</td> 
+
+<td>S. Sheppard, D. Jewitt, & J. Kleyna</td> 
+
+<td>21,312,000</td> 
+
+<td>4</td> 
+
+<td>615</td> 
+
+</tr> 
+
+</table> 
+
+<br> 
+
+
+
+
+
+
+
+<table width="100%" border=5 cellpadding=5 > 
+
+<tr align=left valign=top> 
+
+<td colspan=6> <img border="0" src="/our_solar_system/images/saturn_icon.gif" width="30" height="20"> <strong>Saturn 
+
+- 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('saturn'); 
+
+</SCRIPT> 
+
+Moons</strong></td> 
+
+</tr> 
+
+<tr align=center valign=top> 
+
+<th></th> 
+
+<th>year<br> 
+
+discovered</th> 
+
+<th>discoverer</th> 
+
+<th>distance from<br> 
+
+planet <nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>diameter<br> 
+
+<nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>orbital period<br> 
+
+<nobr>(<font size=-1>days</font>)</nobr></th> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Aegir</strong></div></td> 
+
+<td>2005</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>20,735,000</td> 
+
+<td>6</td> 
+
+<td>1,116.5</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Albiorix</strong></td> 
+
+<td>2000</td> 
+
+<td>Gladman <i>et al.</i></td> 
+
+<td>16,392,000</td> 
+
+<td>30</td> 
+
+<td>783</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Anthe</strong></td> 
+
+<td>2004</td> 
+
+<td>Cassini Imaging Team</td> 
+
+<td>197,700</td> 
+
+<td>1</td> 
+
+<td>1.04</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons_and_rings.html" >Atlas</a></strong></td> 
+
+<td>1980</td> 
+
+<td>R. Terrile</td> 
+
+<td>137,640</td> 
+
+<td>37 X 27</td> 
+
+<td>0.602</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Bebhionn</strong></div></td> 
+
+<td>2005</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>17,119,000</td> 
+
+<td>6</td> 
+
+<td>834.8</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Bergelmir</strong></div></td> 
+
+<td>2005</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>19,338,000</td> 
+
+<td>6</td> 
+
+<td>1,005.9</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Bestla</strong></div></td> 
+
+<td>2005</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>20,129,000</td> 
+
+<td>7</td> 
+
+<td>1,083.6</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons_and_rings.html" >Calypso</a></strong></td> 
+
+<td>1980</td> 
+
+<td>B. Smith</td> 
+
+<td>294,660</td> 
+
+<td>30 X 16</td> 
+
+<td>1.888</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><p align="left"><strong>Daphnis</strong> </p></td> 
+
+<td>2005</td> 
+
+<td>Cassini Imaging Science Team</td> 
+
+<td>136,500</td> 
+
+<td>7</td> 
+
+<td>0.594</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/dione.html" >Dione</a></strong></td> 
+
+<td>1684</td> 
+
+<td>G. <a href="/people/enlightenment/cassini.html" >Cassini</a></td> 
+
+<td>377,400</td> 
+
+<td>1120</td> 
+
+<td>2.737</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/enceladus.html" >Enceladus</a></strong></td> 
+
+<td>1789</td> 
+
+<td>W. <a href="/people/enlightenment/herschel.html" >Herschel</a></td> 
+
+<td>238,020</td> 
+
+<td>498</td> 
+
+<td>1.370</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/epimetheus.html" >Epimetheus</a></strong></td> 
+
+<td>1966</td> 
+
+<td>R. Walker</td> 
+
+<td>151,422</td> 
+
+<td>138 X 110</td> 
+
+<td>0.694</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn_2.html" >Erriapo</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>17,611,000 </td> 
+
+<td>10</td> 
+
+<td>871.17 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Farbauti</strong></div></td> 
+
+<td>2005</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>20,390,000</td> 
+
+<td>5</td> 
+
+<td>1,086.1</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Fenrir</strong></div></td> 
+
+<td>2005</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>22,453,000</td> 
+
+<td>4</td> 
+
+<td>1,260.3</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Fornjot</strong></div></td> 
+
+<td>2005</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>25,108,000</td> 
+
+<td>6</td> 
+
+<td>1,490.9</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Greip</strong></div></td> 
+
+<td>2006</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>18,206,000</td> 
+
+<td>6</td> 
+
+<td>921.2</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Hati</strong></div></td> 
+
+<td>2005</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>19,856,000</td> 
+
+<td>6</td> 
+
+<td>1,038.7</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/helene.html" >Helene</a></strong></td> 
+
+<td>1980</td> 
+
+<td>Laques & Lecacheux</td> 
+
+<td>377,400</td> 
+
+<td>36 X 28</td> 
+
+<td>2.737</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/hyperion.html" >Hyperion</a></strong></td> 
+
+<td>1848</td> 
+
+<td>W. Bond</td> 
+
+<td>1,481,000</td> 
+
+<td>360 X 226</td> 
+
+<td>21.277</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Hyrokkin</strong></div></td> 
+
+<td>2006</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>18,437,000</td> 
+
+<td>8</td> 
+
+<td>931.8</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/iapetus.html" >Iapetus</a></strong></td> 
+
+<td>1671</td> 
+
+<td>G. <a href="/people/enlightenment/cassini.html" >Cassini</a></td> 
+
+<td>3,561,300</td> 
+
+<td>1436</td> 
+
+<td>79.3215</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn_2.html" >Ijiraq</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>11,440,000 </td> 
+
+<td>14</td> 
+
+<td>451.48 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/janus.html" >Janus</a></strong></td> 
+
+<td>1966</td> 
+
+<td>A. Dollfus</td> 
+
+<td>151,472</td> 
+
+<td>190 X 154</td> 
+
+<td>0.695</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Jarnsaxa</strong></div></td> 
+
+<td>2006</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>18,811,000</td> 
+
+<td>6</td> 
+
+<td>964.7</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Kari</strong></div></td> 
+
+<td>2006</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>22,118,000</td> 
+
+<td>7</td> 
+
+<td>1,233.6</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn_2.html" >Kiviuq</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>11,365,000 </td> 
+
+<td>17</td> 
+
+<td>449.22 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Loge</strong></div></td> 
+
+<td>2006</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>23,065,000</td> 
+
+<td>6</td> 
+
+<td>1,312.0</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_apr_2003.html" >Methone</a></strong></td> 
+
+<td>2004</td> 
+
+<td>C.C. Porco et al./Cassini</td> 
+
+<td>194,000</td> 
+
+<td>3</td> 
+
+<td>1.01</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/mimas.html" >Mimas</a></strong></td> 
+
+<td>1789</td> 
+
+<td>W. <a href="/people/enlightenment/herschel.html" >Herschel</a></td> 
+
+<td>185,520</td> 
+
+<td>398</td> 
+
+<td>0.942</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn_2.html" >Mundilfari</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>18,709,000 </td> 
+
+<td>7</td> 
+
+<td>951.38 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2003/jupiter_saturn_moons_april_2003.html" >Narvi</a></strong></td> 
+
+<td>2003</td> 
+
+<td>Scott S. Sheppard, David Jewitt, and Jan Kleyna</td> 
+
+<td>18,719,000</td> 
+
+<td>8</td> 
+
+<td>956.2</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn.html" >Paaliaq</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>15,199,000</td> 
+
+<td>25</td> 
+
+<td>686.92 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2005/jupiter_saturn_moons_apr_2005.html" >Pallene</a></strong></td> 
+
+<td>2004</td> 
+
+<td>C.C. Porco et al./Cassini</td> 
+
+<td>211,000</td> 
+
+<td>4</td> 
+
+<td>1.14</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons_and_rings.html" >Pan</a></strong></td> 
+
+<td>1990</td> 
+
+<td>M. Showalter</td> 
+
+<td>133,630</td> 
+
+<td>19.32</td> 
+
+<td>0.5750</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons_and_rings.html" >Pandora</a></strong></td> 
+
+<td>1980</td> 
+
+<td>S. Collins</td> 
+
+<td>141,700</td> 
+
+<td>110 X 62</td> 
+
+<td>0.629</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons_and_rings.html" >Phoebe</a></strong></td> 
+
+<td>1898</td> 
+
+<td>W. Pickering</td> 
+
+<td>12,952,000</td> 
+
+<td>220</td> 
+
+<td>550.48</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/solar_system/stories_2005/jupiter_saturn_moons_apr_2005.html" >Polydeuces</a></strong></td> 
+
+<td>2004</td> 
+
+<td>C.C. Porco et al./Cassini</td> 
+
+<td>377,400</td> 
+
+<td>4</td> 
+
+<td>2.74</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons_and_rings.html" >Prometheus</a></strong></td> 
+
+<td>1980</td> 
+
+<td>S. Collins</td> 
+
+<td>139,350</td> 
+
+<td>148 X 68</td> 
+
+<td>0.613</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/rhea.html" >Rhea</a></strong></td> 
+
+<td>1672</td> 
+
+<td>G. <a href="/people/enlightenment/cassini.html" >Cassini</a></td> 
+
+<td>527,040</td> 
+
+<td>1528</td> 
+
+<td>4.518</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn.html" >Siarnaq</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>18,160,000</td> 
+
+<td>45</td> 
+
+<td>893.07 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn_2.html" >Skathi</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>15,645,000 </td> 
+
+<td>8</td> 
+
+<td>728.93 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Skoll</strong></div></td> 
+
+<td>2006</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>17,665,000</td> 
+
+<td>6</td> 
+
+<td>878.3</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><p align="left"><strong>Surtur</strong> </p></td> 
+
+<td>2006</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>22,707,000</td> 
+
+<td>6</td> 
+
+<td>1,297.7</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Suttungr</strong></td> 
+
+<td>2000</td> 
+
+<td>Gladman <i>et al.</i></td> 
+
+<td>19,470,000</td> 
+
+<td>7</td> 
+
+<td>1016.8</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>S/2004 S07</strong></div></td> 
+
+<td>2004</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>19,800,000</td> 
+
+<td>6</td> 
+
+<td>1,103</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>S/2004 S12</strong></div></td> 
+
+<td>2004</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>19,650,000</td> 
+
+<td>5</td> 
+
+<td>1,048</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>S/2004 S13</strong></div></td> 
+
+<td>2004</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>18,450,000</td> 
+
+<td>6</td> 
+
+<td>906</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>S/2004 S17</strong></div></td> 
+
+<td>2004</td> 
+
+<td>D. Jewitt, S. Sheppard, J. Kleyna</td> 
+
+<td>18,600,000</td> 
+
+<td>4</td> 
+
+<td>986</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>S/2006 S1</strong></div></td> 
+
+<td>2006</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>18,981,135</td> 
+
+<td>6</td> 
+
+<td>970</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>S/2006 S3</strong></div></td> 
+
+<td>2006</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>21,132,000</td> 
+
+<td>6</td> 
+
+<td>1,142</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>S/2007 S2</strong></div></td> 
+
+<td>2007</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>16,560,000</td> 
+
+<td>6</td> 
+
+<td>800</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>S/2007 S3</strong></div></td> 
+
+<td>2007</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>20,518,500</td> 
+
+<td>5</td> 
+
+<td>1,100</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td><div align="left"><strong>Tarqeq</strong></div></td> 
+
+<td>2007</td> 
+
+<td>S. Sheppard, D. Jewitt, J. Kleyna</td> 
+
+<td>18,009,000</td> 
+
+<td>7</td> 
+
+<td>887.5</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn.html" >Tarvos</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>18,239,000</td> 
+
+<td>16</td> 
+
+<td>925.70 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons_and_rings.html" >Telesto</a></strong></td> 
+
+<td>1980</td> 
+
+<td>B. Smith</td> 
+
+<td>294,660</td> 
+
+<td>30 X 16</td> 
+
+<td>1.888</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/tethys.html" >Tethys</a></strong></td> 
+
+<td>1684</td> 
+
+<td>G. <a href="/people/enlightenment/cassini.html" >Cassini</a></td> 
+
+<td>294,660</td> 
+
+<td>1060</td> 
+
+<td>1.888</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn_2.html" >Thrymr</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>20,470,000 </td> 
+
+<td>7</td> 
+
+<td>1088.89 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/saturn/moons/titan.html" >Titan</a></strong></td> 
+
+<td>1655</td> 
+
+<td>C. <a href="/people/enlightenment/huygens.html" >Huygens</a></td> 
+
+<td>1,221,850</td> 
+
+<td>5150</td> 
+
+<td>15.945</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/headline_universe/moons_saturn.html" >Ymir</a></strong></td> 
+
+<td>2000</td> 
+
+<td>Intl. Team of 8 Astronomers</td> 
+
+<td>23,096,000</td> 
+
+<td>20</td> 
+
+<td>1312.37 </td> 
+
+</tr> 
+
+</table> 
+
+
+
+<br> 
+
+
+
+
+
+
+
+<table width="100%" border=5 cellpadding=5 > 
+
+<tr align=left valign=top> 
+
+<td colspan=6> <img border="0" src="/our_solar_system/images/uranus_icon.gif" width="30" height="20"> <strong>Uranus 
+
+- 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('uranus'); 
+
+</SCRIPT> 
+
+Moons</strong></td> 
+
+</tr> 
+
+<tr align=center valign=top> 
+
+<th></th> 
+
+<th>year<br> 
+
+discovered</th> 
+
+<th>discoverer</th> 
+
+<th>distance from<br> 
+
+planet <nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>diameter<br> 
+
+<nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>orbital period<br> 
+
+<nobr>(<font size=-1>days</font>)</nobr></th> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons/ariel.html" >Ariel</a></strong></td> 
+
+<td>1851</td> 
+
+<td>W. Lassell</td> 
+
+<td>191,240</td> 
+
+<td>1160</td> 
+
+<td>2.520</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Belinda</a></strong></td> 
+
+<td>1986</td> 
+
+<td>Voyager 2</td> 
+
+<td>75,260</td> 
+
+<td>66</td> 
+
+<td>0.624</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Bianca</a></strong></td> 
+
+<td>1986</td> 
+
+<td>Voyager 2</td> 
+
+<td>75,260</td> 
+
+<td>42</td> 
+
+<td>0.433</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Caliban</a></strong></td> 
+
+<td>1997</td> 
+
+<td>Gladman, Nicholson, Burns, & Kavelaars</td> 
+
+<td>7,200,000</td> 
+
+<td>80</td> 
+
+<td>579.5</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Cordelia</a></strong></td> 
+
+<td>1986</td> 
+
+<td>Voyager 2</td> 
+
+<td>49,750</td> 
+
+<td>26</td> 
+
+<td>0.335</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Cressida</a></strong></td> 
+
+<td>1986</td> 
+
+<td>Voyager 2</td> 
+
+<td>61,770</td> 
+
+<td>62</td> 
+
+<td>0.464</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Cupid</strong></td> 
+
+<td>2003</td> 
+
+<td>M. Showalter & J. Lissauer</td> 
+
+<td>74,800</td> 
+
+<td>12</td> 
+
+<td>0.618</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Desdemona</a></strong></td> 
+
+<td>1986</td> 
+
+<td>Voyager 2</td> 
+
+<td>62,660</td> 
+
+<td>54</td> 
+
+<td>0.474</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Ferdinand</strong></td> 
+
+<td>2001</td> 
+
+<td>M. Holman & B. Gladman et al</td> 
+
+<td>20,901,000</td> 
+
+<td>21</td> 
+
+<td>2,823.4</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Francisco</strong></td> 
+
+<td>2001</td> 
+
+<td>M. Holman & B. Gladman et al</td> 
+
+<td>4,276,000</td> 
+
+<td>22</td> 
+
+<td>266.6</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Juliet</a></strong></td> 
+
+<td>1986</td> 
+
+<td>Voyager 2</td> 
+
+<td>64,360</td> 
+
+<td>84</td> 
+
+<td>0.493</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Mab</strong></td> 
+
+<td>2003</td> 
+
+<td>M. Showalter & J. Lissauer</td> 
+
+<td>97,734</td> 
+
+<td>16</td> 
+
+<td>0.923</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Margaret</strong></td> 
+
+<td>2003</td> 
+
+<td>S. Sheppard</td> 
+
+<td>14,688,700</td> 
+
+<td>11</td> 
+
+<td>1,694.8</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons/miranda.html" >Miranda</a></strong></td> 
+
+<td>1948</td> 
+
+<td>G. <a href="/people/today/kuiper.html" >Kuiper</a></td> 
+
+<td>129,780</td> 
+
+<td>472</td> 
+
+<td>1.414</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons/oberon.html" >Oberon</a></strong></td> 
+
+<td>1787</td> 
+
+<td>W. <a href="/people/enlightenment/herschel.html" >Herschel</a></td> 
+
+<td>582,600</td> 
+
+<td>1526</td> 
+
+<td>13.463</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons/ophelia.html" >Ophelia</a></strong></td> 
+
+<td>1986</td> 
+
+<td>Voyager 2</td> 
+
+<td>53,440</td> 
+
+<td>30.4</td> 
+
+<td>0.3764</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Perdita</strong></td> 
+
+<td>1986</td> 
+
+<td>E. Karkoschka/Voyager 2</td> 
+
+<td>76,420</td> 
+
+<td>20</td> 
+
+<td>0.638</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Portia</a></strong></td> 
+
+<td>1986</td> 
+
+<td>Voyager 2</td> 
+
+<td>66,085</td> 
+
+<td>108</td> 
+
+<td>0.513</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Prospero</strong></td> 
+
+<td>1999</td> 
+
+<td>Kavelaars, Gladman, Holman et al</td> 
+
+<td>16,256,000</td> 
+
+<td>30</td> 
+
+<td>5.346</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons/puck.html" >Puck</a></strong></td> 
+
+<td>1985</td> 
+
+<td>Voyager 2</td> 
+
+<td>86,010</td> 
+
+<td>154</td> 
+
+<td>0.762</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Rosalind</a></strong></td> 
+
+<td>1986</td> 
+
+<td>Voyager 2</td> 
+
+<td>69,941</td> 
+
+<td>54</td> 
+
+<td>0.558</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Setebos</strong></td> 
+
+<td>1999</td> 
+
+<td>Kavelaars, Gladman, Holman et al</td> 
+
+<td>17,418,000</td> 
+
+
+
+<td>47</td> 
+
+<td>2,234.8</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Stephano</strong></td> 
+
+<td>1999</td> 
+
+<td>Kavelaars, Gladman, Holman et al</td> 
+
+<td>8,004,000</td> 
+
+<td>32</td> 
+
+<td>677.4</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons_and_rings.html" >Sycorax</a></strong></td> 
+
+<td>1997</td> 
+
+<td>Gladman, Nicholson, Burns, & Kavelaars</td> 
+
+<td>12,200,000</td> 
+
+<td>160</td> 
+
+<td>1283.39 </td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons/titania.html" >Titania</a></strong></td> 
+
+<td>1787</td> 
+
+<td>W. <a href="/people/enlightenment/herschel.html" >Herschel</a></td> 
+
+<td>435,840</td> 
+
+<td>1,578</td> 
+
+<td>8.706</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Trinculo</strong></td> 
+
+<td>2001</td> 
+
+<td>M. Holman, J. Kavelaars & D. Milisavljevic</td> 
+
+<td>8,578,000</td> 
+
+<td>10</td> 
+
+<td>759.0</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/uranus/moons/umbriel.html" >Umbriel</a></strong></td> 
+
+<td>1851</td> 
+
+<td>W. Lassel</td> 
+
+<td>265,970</td> 
+
+<td>1190</td> 
+
+<td>4.144</td> 
+
+</tr> 
+
+</table> 
+
+<br> 
+
+
+
+
+
+<table width="100%" border=5 cellpadding=5 > 
+
+<tr align=left valign=top> 
+
+<td colspan=6> <img border="0" src="/our_solar_system/images/neptune_icon.gif" width="30" height="20"> <strong>Neptune 
+
+- 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('neptune'); 
+
+</SCRIPT> 
+
+Moons</strong></td> 
+
+</tr> 
+
+<tr align=center valign=top> 
+
+<th></th> 
+
+<th>year<br> 
+
+discovered</th> 
+
+<th>discoverer</th> 
+
+<th>distance from<br> 
+
+planet <nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>diameter<br> 
+
+<nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>orbital period<br> 
+
+<nobr>(<font size=-1>days</font>)</nobr></th> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/neptune/moons_and_rings.html" >Despina</a></strong></td> 
+
+<td>1989</td> 
+
+<td>Voyager 2</td> 
+
+<td>62,000</td> 
+
+<td>160</td> 
+
+<td>0.40</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/neptune/moons_and_rings.html" >Galatea</a></strong></td> 
+
+<td>1989</td> 
+
+<td>Voyager 2</td> 
+
+<td>52,500</td> 
+
+<td>140</td> 
+
+<td>0.33</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Halimede</strong></td> 
+
+<td>2002</td> 
+
+<td>M. Holman & J.J. Kavelaars</td> 
+
+<td>15,686,000</td> 
+
+<td>60</td> 
+
+<td>1,874.83</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/neptune/moons_and_rings.html" >Larissa</a></strong></td> 
+
+<td>1989</td> 
+
+<td>Voyager 2</td> 
+
+<td>73,600</td> 
+
+<td>200</td> 
+
+<td>0.56</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Laomedeia</strong></td> 
+
+<td>2002</td> 
+
+<td>M. Holman & J.J. Kavelaars</td> 
+
+<td>22,613,200</td> 
+
+<td>38</td> 
+
+<td>2,980.4</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/neptune/moons_and_rings.html" >Naiad</a></strong></td> 
+
+<td>1989</td> 
+
+<td>Voyager 2</td> 
+
+<td>48,200</td> 
+
+<td>50</td> 
+
+<td>0.30</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/neptune/moons/nereid.html" >Nereid</a></strong></td> 
+
+<td>1949</td> 
+
+<td>G. <a href="/people/today/kuiper.html" >Kuiper</a></td> 
+
+<td>5,513,400</td> 
+
+<td>340</td> 
+
+<td>360.16</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Neso</strong></td> 
+
+<td>2002</td> 
+
+<td>Holman & Gladman et al</td> 
+
+<td>47,279,670</td> 
+
+<td>60</td> 
+
+<td>9,007.1</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/neptune/moons_and_rings.html" >Proteus</a></strong></td> 
+
+<td>1989</td> 
+
+<td>Voyager 2</td> 
+
+<td>117,600</td> 
+
+<td>420</td> 
+
+<td>1.12</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Psamathe</strong></td> 
+
+<td>2003</td> 
+
+<td>D. Jewitt, J. Kleyna & S. Sheppard</td> 
+
+<td>46,738,000</td> 
+
+<td>38</td> 
+
+<td>9,136.11</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong>Sao</strong></td> 
+
+<td>2002</td> 
+
+<td>M. Holman & J.J. Kavelaars</td> 
+
+<td>22,337,190</td> 
+
+<td>38</td> 
+
+<td>2,925.6</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/neptune/moons_and_rings.html" >Thalassa</a></strong></td> 
+
+<td>1989</td> 
+
+<td>Voyager 2</td> 
+
+<td>50,000</td> 
+
+<td>90</td> 
+
+<td>0.31</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/neptune/moons/triton.html" >Triton</a></strong></td> 
+
+<td>1846</td> 
+
+<td>W. Lassel</td> 
+
+<td>354,800</td> 
+
+<td>2705</td> 
+
+<td>5.877</td> 
+
+</tr> 
+
+</table> 
+
+<br> 
+
+
+
+
+
+<h2><a name="dwarf_planets"></a>Dwarf Planets</h2> 
+
+<p><img border="0" src="/asteroids/images/ceres_icon.jpg" width="30" height="20"><a href="/asteroids/ceres.html" ><strong>Ceres</strong></a><strong> - 0 Moons</strong></p> 
+
+
+
+<table width="100%" border=5 cellpadding=5 > 
+
+<tr align=left valign=top> 
+
+<td colspan=6> <img border="0" src="/our_solar_system/images/pluto_icon.gif" width="30" height="20"> <strong>Pluto 
+
+- 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('pluto'); 
+
+</SCRIPT> 
+
+Moons</strong></td> 
+
+</tr> 
+
+<tr align=center valign=top> 
+
+<th></th> 
+
+<th>year<br> 
+
+discovered</th> 
+
+<th>discoverer</th> 
+
+<th>distance from<br> 
+
+planet <nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>diameter<br> 
+
+<nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>orbital period<br> 
+
+<nobr>(<font size=-1>days</font>)</nobr></th> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left><strong><a href="/pluto/moons_and_rings.html" >Charon</a></strong></td> 
+
+<td>1978</td> 
+
+<td>J. Christy</td> 
+
+<td>19,571</td> 
+
+<td>1,207</td> 
+
+<td>6.387</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left>Nix</td> 
+
+<td>2005</td> 
+
+<td>H.A. Weaver, S.A. Stern, et al.</td> 
+
+<td>48,675</td> 
+
+<td>44-130 </td> 
+
+<td>24.856</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left>Hydra</td> 
+
+<td>2005</td> 
+
+<td>H.A. Weaver, S.A. Stern, et al.</td> 
+
+<td>64,780</td> 
+
+<td>44-130</td> 
+
+<td>38.206</td> 
+
+</tr> 
+
+</table> 
+
+<br> 
+
+
+
+
+
+<table width="100%" border=5 cellpadding=5 > 
+
+<tr align=left valign=top> 
+
+<td colspan=6> 
+
+<img border="0" src="/our_solar_system/dwarf_planets/images/haumea_icon.jpg" width="30" height="20"> 
+
+<strong><a href="/our_solar_system/dwarf_planets/haumea.html" >Haumea</a> - 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('haumea'); 
+
+</SCRIPT> 
+
+Moons</strong></td> 
+
+</tr> 
+
+<tr align=center valign=top> 
+
+<th></th> 
+
+<th>year<br> 
+
+discovered</th> 
+
+<th>discoverer</th> 
+
+<th>distance from<br> 
+
+planet <nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>diameter<br> 
+
+<nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>orbital period<br> 
+
+<nobr>(<font size=-1>days</font>)</nobr></th> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left>Namaka</td> 
+
+<td>2005</td> 
+
+<td>H.A. Weaver, S.A. Stern, et al.</td> 
+
+<td>~39,000</td> 
+
+<td>~170</td> 
+
+<td>34.7</td> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left>Hi'iaka</td> 
+
+<td>2005</td> 
+
+<td>H.A. Weaver, S.A. Stern, et al.</td> 
+
+<td>49,500</td> 
+
+<td>~310</td> 
+
+<td>49.12</td> 
+
+</tr> 
+
+</table> 
+
+
+
+<p><img border="0" src="/our_solar_system/dwarf_planets/images/makemake_icon.jpg" width="30" height="20"><a href="/our_solar_system/dwarf_planets/makemake.html" ><strong>Makemake</strong></a><strong> - 0 Moons</strong></p> 
+
+
+
+<table width="100%" border=5 cellpadding=5 > 
+
+<tr align=left valign=top> 
+
+<td colspan=6><img border="0" src="/our_solar_system/dwarf_planets/images/eris_icon.jpg" width="30" height="20"><strong><a href="/our_solar_system/dwarf_planets/eris.html" >Eris</a> - 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+
+// Call the moon count function defined in the document head 
+
+print_moon_count('eris'); 
+
+</SCRIPT> 
+
+Moon</strong></td> 
+
+</tr> 
+
+<tr align=center valign=top> 
+
+<th></th> 
+
+<th>year<br> 
+
+discovered</th> 
+
+<th>discoverer</th> 
+
+<th>distance from<br> 
+
+planet <nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>diameter<br> 
+
+<nobr>(<font size=-1>km</font>)</nobr></th> 
+
+<th>orbital period<br> 
+
+<nobr>(<font size=-1>days</font>)</nobr></th> 
+
+</tr> 
+
+<tr align=center valign=center> 
+
+<td align=left>Dysnomia</td> 
+
+<td>2005</td> 
+
+<td>M. Brown, M. van Dam, A. Bouches, D. Le Mignant</td> 
+
+<td>30,000-36,000</td> 
+
+<td>~300</td> 
+
+<td>~14</td> 
+
+</tr> 
+
+</table> 
+
+<br> 
+
+
+
+<p> 
+
+<div id="last_updated">Last modified October 9, 2008 by <a href="/bio/randy_russell.html">Randy Russell</a>.</div> 
+
+
+
+<div class="ad_store_content"><a href='/store/product.php?productid=12' target='_blank'><img src='/store/images/T/xctmpSPZhiL.png' border=0 class='left'></a><img src='/images/cart_earth.jpg' class='right'><p><h4>Shop Windows to the Universe Science Store!</h4>The <a href="/store/product.php?productid=12&cat=5&page=1">Summer 2010 issue of <i>The Earth Scientist</i></a>, available in our <a href="/store/home.php">online store</a>, includes articles on rivers and snow, classroom planetariums, satellites and oceanography, hands-on astronomy, and global warming.</div> 
+
+
+
+</div> <!-- content-->
+
+<div id="community"> <div id='adrect' >
+
+<!-- Large_rectangle -->
+
+<div id='div-gpt-ad-1380053204220-0' style='width:336px; height:280px;'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380053204220-0'); });
+
+</script>
+
+</div>
+
+</div>
+
+
+
+<table border=0>
+
+<tr><td colspan=2 align='center' > <h3>Windows to the Universe Community </h3></td></tr>
+
+<tr><td width='50%' align='center'><h3>News</h3></td><td align='center'><h3>Opportunities</h3></td></tr>
+
+<tr><td><div class="community_link"><img src="/newsletters/images/10_2006_5.jpg"> <a href="/teacher_resources/main/w2u_workshops.html">Upcoming W2U Events</a></div></td>
+
+<td><div class="community_link"><img src="/newsletters/images/11_2006_6.jpg"> <a href="/membership.html">Join Today - Benefits,<br> No Ads!</a></div></td></tr>
+
+<tr><td><div class="community_link"><img src="/newsletters/images/4_2009_Corner3.jpg"> <a href="/offers.html">Special Offers for Teachers</a></div></td>
+
+<td><div class="community_link"><img src="/images/icons/earthatm_atmoptics.jpg"> <a href="/gen_member_benefits.html">Member Benefits</a></div></td></tr>
+
+<tr><td><div class="community_link"><img src="/images/icons/teacher_newsletter.jpg" > <a href="/teacher_resources/main/enewsletter.html">Teacher Newsletter</a></div></td>
+
+<td><div class="community_link"><img src="/images/icons/schools_aboutsciedu.jpg"> <a href="/partnership_opportunities.html" >Partnership Opportunities</a></div></td></tr>
+
+</table>
+
+</div>
+
+
+
+
+
+</div> <!-- column_main -->
+
+</div> <!-- enclose -->
+
+
+
+<div id="column_right">
+
+
+
+<div id="mvBoxAd"></div>
+
+
+
+
+
+<div id="login">
+
+<h2>Please log in</h2>
+
+<form method=post action="https://www.windows2universe.org/php/registration/reg_login_new.php?lang=en">
+
+Username:<br/><input size=17 name="login" class="bordered" ><br/>
+
+Password:<br/><input size=17 name="password" type="password" class="bordered" >
+
+<br/><input type="submit" name="submit" value="Log in" class="login_button"> <span id='forgot_pass'><a href="/php/registration/reg_new_password_new.php?lang=en">Forgot password?</a></span>
+
+<input type=hidden name="lang" value="en">
+
+<input type=hidden name="location" value="/our_solar_system/moons_table.html">
+
+</form>
+
+<p><a href="/php/registration/reg_login_und.php">Undergrad Student Login</a><br>
+
+<a href="/php/registration/reg_login_und.php?teacher=1">Undergrad Faculty Login</a></p>
+
+<p><a href="/membership.html">Become a member</a><br><a href="/gen_member_benefits.html">Member Benefits, No Ads</a></p>
+
+<!-- <a href="/php/registration/reg_school.php">School Subscriptions</a><br>
+
+<a href="/php/registration/reg_menu_school.php">School/Classroom Login</a></p> -->
+
+</div> 
+
+<div class="dfp_double_ad">
+
+<!-- 156x192_rectangle -->
+
+<div id='div-gpt-ad-1380047489534-0' style='width:156px; height:192px;'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380047489534-0'); });
+
+</script>
+
+</div>
+
+</div> 
+
+<div id="google_mockup">
+
+<!-- right_skyscraper -->
+
+<div id='div-gpt-ad-1380047489534-8' style='width:160px; height:600px;'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380047489534-8'); });
+
+</script>
+
+</div>
+
+</div>
+
+<div id="blogs"> <h4>Science Blogs</h4>
+
+<!--<p><a href="/blog" target="_blank">Perspectives on Earth and Space Science Education</a></p>-->
+
+<p><a href="http://www.realclimate.org/" target="_blank">Real Climate: climate science from climate scientists</a></p>
+
+<!-- <p><a href="http://starstuff.blogspot.com/" target="_blank">Star Stuff: science news from an astronomer's perspective</a></p>-->
+
+<p><a href="http://www.epa.gov/greenversations/" target="_blank">EPA Greenversations</a></p>
+
+<p><a href="http://globe.gov/explore-science/scientists-blog/overview/current-posts" target="_blank">Global Learning and Observations to Benefit the Environment</a></p>
+
+<p><a href="http://www.talkingscience.org/category/citizen-science-buzz/" target="_blank">Citizen Science Buzz</a></p></div>
+
+
+
+
+
+<div id="sponsors" class="highlight">
+
+<img src='/redesign/sponsors1.jpg' usemap="#m_sponsors1" border=0><br> Windows to the Universe, a project of the <a href='http://www.nestanet.org'>National Earth Science Teachers Association</a>, 
+
+is sponsored in part is sponsored in part through grants from federal agencies (<a href='http://www.nasa.gov'>NASA</a> and
+
+<a href='http://www.noaa.gov/'>NOAA</a>), and partnerships with affiliated organizations, including the 
+
+<a href='http://www.agu.org'>American Geophysical Union</a>, the <a href='http://www.hhmi.org/'>Howard Hughes Medical Institute</a>, 
+
+the <a href='http://www.esipfed.org/'>Earth System Information Partnership</a>, the <a href='http://www.ametsoc.org/'>American Meteorological Society</a>, 
+
+the <a href='http://www.ncse.com/'>National Center for Science Education</a>, and TERC. 
+
+The <a href='http://www.agu.org/'>American Geophysical Union</a> and the <a href='http://www.agiweb.org/'>American Geosciences Institute</a>
+
+are Windows to the Universe Founding Partners. NESTA welcomes new Institutional Affiliates in support of our ongoing programs, as well as
+
+collaborations on new projects. <a href='mailto:carla_mcauliffe@terc.edu'>Contact NESTA</a> for more information. <img src='/redesign/sponsors2.jpg' align=center usemap="#m_sponsors2" border=0>
+
+<map name="m_sponsors2">
+
+<area shape="rect" coords="90,0,126,36" href="http://www.nasa.gov" target="_blank" title="NASA" alt="NASA" >
+
+<area shape="rect" coords="7,42,51,66" href="http://www.esipfed.org" target="_blank" title="ESIP" alt="ESIP" >
+
+<area shape="rect" coords="57,42,91,66" href="http://ncse.com" target="_blank" title="NCSE" alt="NCSE" >
+
+<area shape="rect" coords="98,42,142,66" href="https://www.hhmi.org" target="_blank" title="HHMI" alt="HHMI" > 
+
+<area shape="rect" coords="7,6,72,30" href="http://www.agu.org" target="_blank" title="AGU" alt="AGU" >
+
+</map>
+
+<map name="m_sponsors1">
+
+<area shape="rect" coords="106,2,143,43" href="http://www.americangeosciences.org" target="_blank" title="AGI" alt="AGI" >
+
+<area shape="rect" coords="58,2,93,41" href="http://www.ametsoc.org" target="_blank" title="AMS" alt="AMS" >
+
+<area shape="rect" coords="10,2,45,41" href="http://www.noaa.gov" target="_blank" title="NOAA" alt="NOAA" >
+
+</map> 
+
+</div>
+
+
+
+</div> <!-- column_right -->
+
+
+
+<div id="footer">
+
+<div id="adsense_bottom" style="margin-left: 130px;"><!-- bottom_leaderboard -->
+
+<div id='div-gpt-ad-1380047489534-5' style='width:728px; height:90px;'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380047489534-5'); });
+
+</script>
+
+</div> </div> 
+
+<!-- Mode logo -->
+
+<script type="text/javascript" language="JavaScript">
+
+glam_affiliate_id = '1775698976';
+
+</script>
+
+<script src="http://www8.glam.com/js/widgets/glammedia_logo.js"></script>
+
+<!-- end Mode logo -->
+
+<div id="footer_content">
+
+<ul>
+
+<li><a href="/about_windows.html">About Us</a></li>
+
+<li><a href="/comments/comments.html">Contact Us</a></li>
+
+<li><a href="/disclaimer.html">Disclaimers</a></li>
+
+<li><a href="/image_linking.html">Policies</a></li>
+
+<li><a href="/copyright.html">Copyright</a></li>
+
+<!-- <li><a href="/donation.html">Donate</a></li>-->
+
+<li><a href="/advertising.html">Advertise</a></li>
+
+<li><a href="/credits.html">Credits</a></li>
+
+<li><a href="/privacy_policy.html">Privacy Policy</a></li>
+
+<li><a href="/bibliography.html">Bibliography</a></li>
+
+</ul>
+
+</div>
+
+<div id="copyright">The source of this material is <em>Windows to the Universe</em>, at <a href="http://windows2universe.org">http://windows2universe.org/</a> from the <a href="http://nestanet.org">National Earth Science Teachers Association (NESTA)</a>. The Website was developed in part with the support of <a href="http://www.ucar.edu">UCAR</a> and <a href="http://www.ncar.ucar.edu">NCAR</a>, where it resided from 2000 - 2010. &copy; 2012 National Earth Science Teachers Association. <em>Windows to the Universe</em>&reg; is a registered trademark of NESTA. All Rights Reserved. See our <a href="/copyright.html">copyright and licenses</a> page for information about how you can use our materials.<a href="/image_linking.html">Site policies</a> and <a href="/disclaimer.html">disclaimer.</a></div>
+
+<!-- Multiview pixel tag -->
+
+<script async src="https://i.simpli.fi/dpx.js?cid=1543&action=100&segment=MW-NESTAweb&m=1"></script>
+
+</div>
+
+</div> <!-- frame -->
+
+
+
+
+
+<IMG SRC="/bug/our_solar_system/moons_table.html" WIDTH="1" HEIGHT="1">
+
+
+
+
+
+
+
+</body>
+
+</html>
