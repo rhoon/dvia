@@ -1,6 +1,7 @@
 var fs = require('fs');
 var cheerio = require('cheerio');
 var request = require('request');
+var async = require('async');
 
 var races = [];
 
@@ -26,32 +27,31 @@ function getCountries() {
 
 // function input() {
 	
-//     for (var i=1896; i<2015; i++) { 
-//         //loops not working, probably async.
-// 		console.log('loop: '+i);
-// 		//skip WWI (no races)
-// 		// if (i=1915) { i+=4; }
-// 		//skip WWII (no races)
-// 		// if (i=1940) { i+=3; }
+//     for (var item in years) {
+    	
+//     	console.log('looping ' + years[item])
+// 		var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+years[item];
+// 		console.log(url);
 		
-// 		var year = i;
-// 		var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+year+'.html';
-		
-// 		getBikes(url);
+// 		request(url, function(err, resp, body) {  //request is working and returns body
+//     	    if (err) {throw err;}
+//     	    // console.log(body);
+    	    
+// 		    getBikes(body, years[item]); 
+		    
+// 		});
 		
 //     }
     
 // }
 
-function getBikes(url) {
-	
-		// var $ = cheerio.load(fs.readFileSync(url+year));
+function getBikes(body, year) {
+			// console.log(body);
 
-		request(url, function(err, resp, body) {  
-        	if (err) { throw err; } 
         	var $ = cheerio.load(body);
         	
 			var distance = $('.entryHeader h2 span.red').html().replace(/[()]/g, '');
+			// console.log('distance: ' + distance);
 			
 			$('div.result').find('div.line').each(function(j, elem){
 			
@@ -66,21 +66,19 @@ function getBikes(url) {
 				
 				Result.year = year;
 				Result.distance = distance;
-		
+				
+				console.log(Result);
 				races.push(Result);
 			
 			}); //end .each
-		
-		});
-	
-	// }
 
-	//calculate actual times
-	//calculate speed
 }
 
 getCountries();
-input();
+// input();
+
+var content = fs.readFileSync('paris-roubaix-testPage2.html');
+getBikes(content, 1981);
 
 	fs.writeFile('races.txt', JSON.stringify(races), function(err) {
         if (err) {throw err;}
@@ -88,4 +86,4 @@ input();
     });
 
 
-// console.log(races);
+console.log(races);
