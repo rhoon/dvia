@@ -25,28 +25,26 @@ function getCountries() {
 } // end getCountries
 
 
-// function input() {
+function input() {
 	
-//     for (var item in years) {
+    for (var item in years) {
     	
-//     	console.log('looping ' + years[item])
-// 		var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+years[item];
-// 		console.log(url);
+		var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+years[item];
+		console.log(url); // this returns correct
 		
-// 		request(url, function(err, resp, body) {  //request is working and returns body
-//     	    if (err) {throw err;}
-//     	    // console.log(body);
+		request(url, function(err, resp, body) {  //request is working and returns body
+    	    if (err) {throw err;}
+    	    // console.log(body);
     	    
-// 		    getBikes(body, years[item]); 
+		    // getBikes(body, years[item]); 
 		    
-// 		});
+		});
 		
-//     }
+    }
     
-// }
+}
 
-function getBikes(body, year) {
-			// console.log(body);
+function getBikes(body, year) { // this function works, independently
 
         	var $ = cheerio.load(body);
         	
@@ -67,7 +65,7 @@ function getBikes(body, year) {
 				Result.year = year;
 				Result.distance = distance;
 				
-				console.log(Result);
+				
 				races.push(Result);
 			
 			}); //end .each
@@ -75,10 +73,11 @@ function getBikes(body, year) {
 }
 
 getCountries();
-// input();
+input();
 
-var content = fs.readFileSync('paris-roubaix-testPage2.html');
-getBikes(content, 1981);
+// getBikes test
+// var content = fs.readFileSync('paris-roubaix-testPage2.html');
+// getBikes(content, 1981);
 
 	fs.writeFile('races.txt', JSON.stringify(races), function(err) {
         if (err) {throw err;}
@@ -86,4 +85,4 @@ getBikes(content, 1981);
     });
 
 
-console.log(races);
+// console.log(races);
