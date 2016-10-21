@@ -16,7 +16,7 @@ function getCountries() {
 	
 	countriesRaw = countriesRaw.split('\n');
 	
-	for (i in countriesRaw) { // create country objects
+	for (var i in countriesRaw) { // create country objects
 		var country = {};
 		country.name = countriesRaw[i].split(';')[0];
 		country.abbr = countriesRaw[i].split(';')[1];
@@ -27,62 +27,66 @@ function getCountries() {
 
 function input() {
 	
-    for (var item in years) {
+    // for (var item in years) {
+    async.each(years, function(item, callback) {
     	
-		var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+years[item];
+		var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+item;
 		console.log(url); // this returns correct
 		
 		request(url, function(err, resp, body) {  //request is working and returns body
     	    if (err) {throw err;}
     	    // console.log(body);
-    	    
+    	    	fs.writeFile('race-data/race'+item +'.txt', body, function(errWriting) {
+        			if (errWriting) {throw errWriting;}
+        			console.log("done");
+    			});
 		    // getBikes(body, years[item]); 
 		    
 		});
-		
-    }
+	
+    });
     
 }
 
-function getBikes(body, year) { // this function works, independently
+// function getBikes(body, year) { // this function works, independently
 
-        	var $ = cheerio.load(body);
+//         	var $ = cheerio.load(body);
         	
-			var distance = $('.entryHeader h2 span.red').html().replace(/[()]/g, '');
-			// console.log('distance: ' + distance);
+// 			var distance = $('.entryHeader h2 span.red').html().replace(/[()]/g, '');
+// 			// console.log('distance: ' + distance);
 			
-			$('div.result').find('div.line').each(function(j, elem){
+// 			$('div.result').find('div.line').each(function(j, elem){
 			
-				var Result = {};
+// 				var Result = {};
 				
-				Result.lastName = $(elem).find('a.rider').html().split('</span>')[0].replace(/(<([^>]+)>)/ig,'');
-				Result.firstName = $(elem).find('a.rider').html().split('</span>')[1].replace(/(<([^>]+)>)/ig,'');
-				Result.country = $(elem).find('span.show').next().html().split('flags ')[1].split('"')[0].toUpperCase();
-				Result.team = $(elem).find('span.show').eq(2).text();
-				Result.time = $(elem).find('span.show').eq(4).text().split(' ')[0];
-				Result.rank = j;
+// 				Result.lastName = $(elem).find('a.rider').html().split('</span>')[0].replace(/(<([^>]+)>)/ig,'');
+// 				Result.firstName = $(elem).find('a.rider').html().split('</span>')[1].replace(/(<([^>]+)>)/ig,'');
+// 				Result.country = $(elem).find('span.show').next().html().split('flags ')[1].split('"')[0].toUpperCase();
+// 				Result.team = $(elem).find('span.show').eq(2).text();
+// 				Result.time = $(elem).find('span.show').eq(4).text().split(' ')[0];
+// 				Result.rank = j;
 				
-				Result.year = year;
-				Result.distance = distance;
+// 				Result.year = year;
+// 				Result.distance = distance;
 				
 				
-				races.push(Result);
+// 				races.push(Result);
 			
-			}); //end .each
+// 			}); //end .each
 
-}
+// }
 
-getCountries();
+// getCountries();
 input();
 
 // getBikes test
 // var content = fs.readFileSync('paris-roubaix-testPage2.html');
 // getBikes(content, 1981);
 
-	fs.writeFile('races.txt', JSON.stringify(races), function(err) {
-        if (err) {throw err;}
-        console.log("done");
-    });
+	// fs.writeFile('races.txt', JSON.stringify(races), function(err) {
+ //       if (err) {throw err;}
+ //       console.log("done");
+ //   });
 
 
 // console.log(races);
