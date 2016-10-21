@@ -24,25 +24,24 @@ function getCountries() {
 } // end getCountries
 
 
-// need to use something like this probably
-function input() {
+// function input() {
 	
-    for (var i=1896; i<2015; i++) { 
-        //loops not working, probably async.
-		console.log('loop: '+i);
-		//skip WWI (no races)
-		// if (i=1915) { i+=4; }
-		//skip WWII (no races)
-		// if (i=1940) { i+=3; }
+//     for (var i=1896; i<2015; i++) { 
+//         //loops not working, probably async.
+// 		console.log('loop: '+i);
+// 		//skip WWI (no races)
+// 		// if (i=1915) { i+=4; }
+// 		//skip WWII (no races)
+// 		// if (i=1940) { i+=3; }
 		
-		var year = i;
-		var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+year+'.html';
+// 		var year = i;
+// 		var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+year+'.html';
 		
-		getBikes(url);
+// 		getBikes(url);
 		
-    }
+//     }
     
-}
+// }
 
 function getBikes(url) {
 	
