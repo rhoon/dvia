@@ -1,0 +1,562 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/bri-template.dwt" codeOutsideHTMLIsLocked="true" -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>1994 Paris-Roubaix bicycle race complete results</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+			<meta name="keywords" content="1994 Paris Roubaix">
+			<meta name="description" content="1994 Paris Roubaix">
+<!-- InstanceEndEditable -->
+
+<link href="../../bri-stylesheet2.css" rel="stylesheet" type="text/css" />
+<style type="text/css" media="screen"> @import url("../../bri-stylesheet2.css"); </style>
+
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+#menuh{float:none;}
+body{behavior:url(../csshover.htc); font-size:100%;}
+#menuh ul li{float:left; width: 100%;}
+#menuh a{height:1%;font:bold 0.7em/1.4em arial, sans-serif;}
+</style>
+<![endif]-->
+</head>
+
+<body>
+
+
+<div class="container">
+  <div class="header"><img src="../../images/logo-banner.gif" alt="BikeRaceInfo: Current and historical race results, plus interviews, bikes, travel, and cycling history" /></p>  
+
+
+<div id="menuh-container">
+<div id="menuh">
+	<ul>
+		<li><a href="../../index.html" class="top_parent">Home</a>
+		
+		</li>
+	</ul>
+	
+	<ul>	
+		<li><a href="#" class="top_parent">Racing Results & Archives</a>
+        <ul>
+			<li><a href="../../tdf/tdfindex.html">Tour de France</a></li>
+			<li><a href="../../bicycle-races.html">Other Races</a></li>
+			<li><a href="../../annual/race2016.html">Year-to-Date Race Results</a></li>
+			<li><a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results</a></li>
+			<li><a href="../../news-and-opinion/news-index.html">News & Opinion</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Cycling History</a>
+        <ul>
+			<li><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a></li>
+			<li><a href="../../oral-history.html">Oral History Project</a></li>
+			<li><a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></li>
+			<li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Bicycles & Cycling Lifestyle</a>
+        <ul>
+			<li><a href="../../tech/bike-tech.html">Bike Tech Essays</a></li>
+			<li><a href="../../training-fitness/training-fitness.html">Training & Fitness</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+			<li><a href="../../books/mcgann-publishing.html">The Bookstore</a></li>
+			<li><a href="../../travel/bike-travels.html">Bikes & Travel</a></li>
+			<li><a href="../../kom/kom-index.html">KOM: A Guide to Paved Road Climbs</a></li>
+            <li><a href="../../comix/bike-comics.html">Comix</a></li>
+            <li><a href="../../food/biking-food.html">Food</a></li>
+            <li><a href="../../preferences/stuff-we-like.html">Stuff We Like</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Site Information</a>
+        <ul>
+			<li><a href="../../about-us.html">About Us</a></li>
+			<li><a href="../../contact-us.html">Contact Us</a></li>
+            <li><a href="../../features/advertise.html">Media Kit</a></li>
+            <li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			<li><a href="../../site-map.html">Site Map</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+		
+	
+	
+</div> 	<!-- end the menuh-container div -->  
+</div>	<!-- end the menuh div --> 
+ 
+ 
+    <!-- end .header --></div>
+
+ <div class="sidebar1">
+     <div class="newad">
+  <p><img src="../../images/follow-ad.gif" usemap="#Map" border="0" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="115,6,163,50" href="http://www.facebook.com/Starrzy#!/pages/McGann-Publishing-LLC/116660391692056?ref=ts" target="_blank" alt="find us on Facebook" border="0"/>
+      <area shape="rect" coords="168,8,216,50" href="http://www.twitter.com/BikeRaceInfo" target="_blank" alt="follow us on twitter" />
+      <area shape="rect" coords="221,3,299,49" href="http://www.youtube.com/user/McGannPublishing/videos" target="_blank" alt="See our youtube channel" />
+    </map>
+   
+    
+  
+   <img src="../../logos/sponsors.gif" />  
+  <a href="../../books/melanoma-started-freckle.html"><img src="../../logos/melanoma-book-ad.jpg" alt="Melanoma: It started with a freckle" border="0" /></a>    
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.bikyle.com" target="_blank"><img src="../../logos/BiKyle.gif" alt="Cycles BiKyle" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.schwabcycles.com" target="_blank"><img src="../../logos/schwab.gif" alt="Schwab Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.velojerseys.com" target="_blank"><img src="../../logos/velojerseys.jpg" alt="Classic cycling jerseys" border="0" /></a>
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.smartcycles.com" target="_blank"><img src="../../logos/smart.gif" alt="Smart Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+     <a href="http://sscycleworks.com/" target="_blank"><img src="../../logos/s-salem-mond-ad.gif" alt="South Salem Cycleworks Mondonico frames" border="0" /></a>
+   
+    <img src="../../logos/spacer.gif" />
+   
+       <a href="../../features/advertise.html" target="_blank"><img src="../../logos/advertise-bri.gif" alt="Advertise with us!" border="0" /></a>
+
+    <img src="../../logos/spacer.gif" />
+     <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* right side */
+google_ad_slot = "2395833724";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+   
+    <img src="../../logos/spacer.gif" />
+     <a href="http://www.Cycleitalia.com" target="_blank"><img src="../../logos/cycleitalia.jpg" alt="CycleItalia cycling tours" border="0" /></a>
+   
+    </div>
+       
+    <!-- end .sidebar1 --></div>
+
+
+   
+ 
+
+
+  <div class="content">
+  <div class="header2">
+  <div class="contenthd2b">
+  Search our site:
+<script>
+  (function() {
+    var cx = '017815655590841525944:tti8xwrgf7s';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+  </div>
+  <div class="contenthd2a">
+  <!-- BEGIN: Constant Contact Stylish Email Newsletter Form -->
+<div align="center">
+<div style="width:160px; background-color: #ffffff;">
+<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:3;"><span style="background-color: #86e486; float:right;margin-right:5;margin-top:3"><img src="https://imgssl.constantcontact.com/ui/images1/visitor/email1_trans.gif" alt="Email Newsletter icon, E-mail Newsletter icon, Email List icon, E-mail List icon" border="0"></span>
+<font style="font-weight: bold; font-family:Arial; font-size:16px; color:#0d5e01;">Sign up for our Email Newsletter</font>
+<input type="text" name="ea" size="20" value="" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;">
+<input type="submit" name="go" value="GO" class="submit"  style="font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px;">
+<input type="hidden" name="llr" value="ozjmfnjab">
+<input type="hidden" name="m" value="1109617157934">
+<input type="hidden" name="p" value="oi">
+</form>
+</div>
+</div>
+
+
+
+  </div>
+  </div> 
+    <!-- InstanceBeginEditable name="HeaderText" -->
+													<div align="center">
+														<h1><font color="black" face="Times New Roman,Georgia,Times">1994 Paris - Roubaix</font></h1>
+														<h2><font color="black" face="Times New Roman,Georgia,Times">92nd edition: Sunday, April 10</font></h2>
+													</div>
+												<!-- InstanceEndEditable -->
+  <!-- InstanceBeginEditable name="PageText" -->
+												<div align="left">
+													<p><a href="paris-roubaix-index.html">Paris-Roubaix podium history</a> | <a href="pr1993.html">1993 edition</a> | <a href="pr1995.html">1995 edition</a>													</p>
+													<p>270 km. 36.160 km/hr average speed, 191 riders started, 48 finished<br />
+														
+														
+														
+									
+									
+									
+									
+									
+									
+									
+																		
+																	
+																	
+																
+																	
+																	
+																	
+																
+									
+									55.95 km of pav&eacute;<br />
+												  </p>
+													<p><img src="../../images-all/classics-images/paris-roubaix-hist/1994-PR-Tchmil-Andrei.jpg" width="450" height="647" alt="Andrei Tchmil wins the 1994 Paris-Roubaix" /></p>
+													<p class="cap">Andrei Tchmil wins</p><iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963611&asins=0985963611&linkId=YMQKS2NSSUQLFKUQ&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
+</iframe>
+
+                                                    <p><strong>The Race:</strong> Heavy rain for several days before the start with rain, snow, sleet and cold wind the day before the race. On race morning, strong wind, black rain clouds, snow. The temperature was 36F at the start. The snow and rain abated before the riders hit the first section of pavé. </p>
+													<p>About 20 kilometers past the Wallers-Arenberg Forest the front group consisted of Andrei Tchmil, Nico Verhoeven, <a href="../../photo-galleries/rider-gallery/museeuw-johan.html">Johan Museeuw</a>, Adri Van der Poel, Franco Ballerini and Bruno Boscardin. Tchmil attacked and quickly got a gap. He soloed the last 60 km to win alone, despite a spirited chase by a group that included Gilbert Duclos-Lassalle and Johan Museeuw.</p>
+													<p><strong>Complete results:</strong></p>
+													<table border="1" cellpadding="1" cellspacing="2" class="tableformat">
+														<tr>
+															<td width="40">1</td>
+															<td width="339">Andrei Tchmil (Mol) Lotto</td>
+															<td width="196">7hr 28min 2sec</td>
+														</tr>
+														<tr>
+															<td width="40">2</td>
+															<td>Fabio Baldato (Ita) GB-MG</td>
+															<td>@ 1min 13sec</td>
+														</tr>
+														<tr>
+															<td width="40">3</td>
+															<td>Franco Ballerini (Ita) Mapei</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">4</td>
+															<td>Olaf Ludwig (Ger) Telekom</td>
+															<td>@ 1min 26sec</td>
+														</tr>
+														<tr>
+															<td width="40">5</td>
+															<td>Sean Yates (UK) Motorola</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">6</td>
+															<td>Johan Capiot (Bel) TVM</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">7</td>
+															<td>Gilbert Duclos-Lasalle (Fra) GAN</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">8</td>
+															<td>Ludwig Willems (Bel) GB-MG</td>
+															<td>@ 1min 31sec</td>
+														</tr>
+														<tr>
+															<td width="40">9</td>
+															<td>Frankie Andreu (USA) Motorola</td>
+															<td>@ 4min 14sec</td>
+														</tr>
+														<tr>
+															<td width="40">10</td>
+															<td>Nico Verhoeven (NL) Novemail</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">11</td>
+															<td>Mario Scirea (Ita) Polti</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">12</td>
+															<td>Dario Bottaro (Ita) Gewiss-Ballan</td>
+															<td>@ 4min 22sec</td>
+														</tr>
+														<tr>
+															<td width="40">13</td>
+															<td><a href="../../photo-galleries/rider-gallery/museeuw-johan.html">Johan Museeuw</a> (Bel) GB-MG</td>
+															<td>@ 4min 24sec</td>
+														</tr>
+														<tr>
+															<td width="40">14</td>
+															<td>Mario De Clercq (Bel) Lotto</td>
+															<td>@ 6min 45sec</td>
+														</tr>
+														<tr>
+															<td width="40">15</td>
+															<td>Charly Mottet (Fra) Novemail</td>
+															<td>@ 7min 48sec</td>
+														</tr>
+														<tr>
+															<td width="40">16</td>
+															<td>Adri Van der Poel (NL) Collstrop</td>
+															<td>@ 9min 6sec</td>
+														</tr>
+														<tr>
+															<td width="40">17</td>
+															<td>Giovanni Fidanza (Ita) Polti</td>
+															<td>@ 9min 36sec</td>
+														</tr>
+														<tr>
+															<td width="40">18</td>
+															<td>Frank Corvers (Bel) Collstrop</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">19</td>
+															<td>Peter Farazijn (Bel) Lotto</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">20</td>
+															<td>Frédéric Moncassin (Fra) Wordperfect</td>
+															<td>@ 9min 46sec</td>
+														</tr>
+														<tr>
+															<td width="40">21</td>
+															<td>Rob Harmeling (NL) TVM</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">22</td>
+															<td>Uwe Raab (Ger) Telekom</td>
+															<td>@ 11min 24sec</td>
+														</tr>
+														<tr>
+															<td width="40">23</td>
+															<td>Thierry Marie (Fra) Castorama</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">24</td>
+															<td>Hendrik Redant (Bel) ZG-Selle ITalia</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">25</td>
+															<td>Brian Holm (Denmark) Telekom</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">26</td>
+															<td>Guy Nulens (Bel) Novemail</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">27</td>
+															<td>Jean-Pierre Heynderickx (Bel) Collstrop</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">28</td>
+															<td>Thierry Gouvenou (Fra) Gan</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">29</td>
+															<td>Wilfried Peeters (Bel) GB-MG</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">30</td>
+															<td>Peter De Clercq (Bel) Lotto</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">31</td>
+															<td>George Hincapie (USA) Motorola</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">32</td>
+															<td>Bert Dietz (Ger) Telekom</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">33</td>
+															<td>Kai Hundertmarck (Ger) Motorola</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">34</td>
+															<td>Dirk De Wolf (Bel) Novemail</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">35</td>
+															<td>Eddy Seigneur (Fra) GAN</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">36</td>
+															<td>Dag-Otto Lauritzen (Nor) TVM</td>
+															<td>@ 13min 17sec</td>
+														</tr>
+														<tr>
+															<td width="40">37</td>
+															<td>Dimitri Konyshev (Rus) Jolly-Cage</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">38</td>
+															<td>Herman Frison (Bel) Lotto</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">39</td>
+															<td>Frans Maassen (NL) Wordperfect</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">40</td>
+															<td>Edwig Van Hooydonck (Bel) Wordperfect</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">41</td>
+															<td>Michel Vermote (Bel) Festina</td>
+															<td>@ 18min 42sec</td>
+														</tr>
+														<tr>
+															<td width="40">42</td>
+															<td>Francois Lemarchand (Fra) GAN</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">43</td>
+															<td>Bruno Boscardin (Switz) Polti</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">44</td>
+															<td>Jan Schur (Ger) Motorola</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">45</td>
+															<td>Christophe Capelle Fra) GAS</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">46</td>
+															<td>Erwin Nijboer (NL) Banesto</td>
+															<td>s.t.</td>
+														</tr>
+														<tr>
+															<td width="40">47</td>
+															<td>Andrea Peron (Ita) Polti</td>
+															<td>@ 20min 52sec</td>
+														</tr>
+														<tr>
+															<td width="40">48</td>
+															<td>Cezary Zamana (Pol) Kelme</td>
+															<td>s.t.</td>
+														</tr>
+													</table>
+												</div>
+											<!-- InstanceEndEditable -->
+    <!-- end .content --></div>
+ 
+  <div class="footer">
+ <hr />  
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* large banner, created 11/13/09 */
+google_ad_slot = "0514310951";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<p>&nbsp;</p>
+<p>
+  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* bottom text banner, created 2/9/09 */
+google_ad_slot = "0004268070";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+  </script>
+  <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+  <hr />
+  <table width="943" border="0">
+    <tr class="bottomenu1">
+      <td width="296" valign="top"><h3><a href="../../index.html">Home</a></h3>
+        <h3>Racing Results &amp; Archives</h3>
+        <blockquote>
+          <p><a href="../../tdf/tdfindex.html">Tour de France</a><br />
+            <a href="../../bicycle-races.html">Other Races</a><br />
+            <a href="../../annual/race2015.html">Year-to-Date Results</a><br />
+            <a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results            </a> (2001-2015)<br />
+            <a href="../../news-and-opinion/news-index.html">News &amp; Opinion</a></p>
+        </blockquote></td>
+      <td width="307" valign="top"><h3>Bicycles &amp; Cycling Lifestyle</h3>
+        <blockquote>
+          <p><a href="../../tech/bike-tech.html">Bike Tech Essays</a><br />
+            <a href="../../training-fitness/training-fitness.html">Training &amp; Coaching</a><br />
+            <a href="../../books/mcgann-publishing.html">The Bookstore</a><br />
+            <a href="../../travel/bike-travels.html">Bikes &amp; Travel</a><br />
+            <a href="../../kom/kom-index.html">KOM: A Guide to 
+            Paved Road Climbs</a><br />
+            <a href="../../comix/bike-comics.html">Comix</a><br />
+            <a href="../../food/biking-food.html">Food</a><br />
+            <a href="../../preferences/stuff-we-like.html">Stuff We Like </a><br />
+          </p>
+        </blockquote></td>
+      <td width="281" valign="top"><h3>Cycling History</h3>
+        <blockquote>
+          <p><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a><br />
+            <a href="../../oral-history.html">Oral History Project</a><br />
+            <a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></p>
+        </blockquote>
+        <h3>Site Information</h3>
+        <blockquote>
+          <p><a href="../../glossary.html">Glossary, Terms, Lists</a><br />
+            <a href="../../about-us.html">About Us</a><br />
+            <a href="../../contact-us.html">Contact </a><br />
+            <a href="../../site-map.html">Site Map</a></p>
+        </blockquote></td>
+    </tr>
+  </table>
+  <p class="bottomenu1">© McGann Publishing LLC</p>
+  <!-- end .footer --></div>
+  
+</div>
+  <!-- end .container-center --></div>
+
+</body>
+<!-- InstanceEnd --></html>

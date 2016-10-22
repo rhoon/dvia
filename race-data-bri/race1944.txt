@@ -1,0 +1,397 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/bri-template.dwt" codeOutsideHTMLIsLocked="true" -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>1944 Paris - Roubaix complete results</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+			
+<meta name="keywords" content="1944 Paris-Roubaix bicycle race complete results" />
+<meta name="description" content="1944 Paris-Roubaix bicycle race complete results" />
+<!-- InstanceEndEditable -->
+
+<link href="../../bri-stylesheet2.css" rel="stylesheet" type="text/css" />
+<style type="text/css" media="screen"> @import url("../../bri-stylesheet2.css"); </style>
+
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+#menuh{float:none;}
+body{behavior:url(../csshover.htc); font-size:100%;}
+#menuh ul li{float:left; width: 100%;}
+#menuh a{height:1%;font:bold 0.7em/1.4em arial, sans-serif;}
+</style>
+<![endif]-->
+</head>
+
+<body>
+
+
+<div class="container">
+  <div class="header"><img src="../../images/logo-banner.gif" alt="BikeRaceInfo: Current and historical race results, plus interviews, bikes, travel, and cycling history" /></p>  
+
+
+<div id="menuh-container">
+<div id="menuh">
+	<ul>
+		<li><a href="../../index.html" class="top_parent">Home</a>
+		
+		</li>
+	</ul>
+	
+	<ul>	
+		<li><a href="#" class="top_parent">Racing Results & Archives</a>
+        <ul>
+			<li><a href="../../tdf/tdfindex.html">Tour de France</a></li>
+			<li><a href="../../bicycle-races.html">Other Races</a></li>
+			<li><a href="../../annual/race2016.html">Year-to-Date Race Results</a></li>
+			<li><a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results</a></li>
+			<li><a href="../../news-and-opinion/news-index.html">News & Opinion</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Cycling History</a>
+        <ul>
+			<li><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a></li>
+			<li><a href="../../oral-history.html">Oral History Project</a></li>
+			<li><a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></li>
+			<li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Bicycles & Cycling Lifestyle</a>
+        <ul>
+			<li><a href="../../tech/bike-tech.html">Bike Tech Essays</a></li>
+			<li><a href="../../training-fitness/training-fitness.html">Training & Fitness</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+			<li><a href="../../books/mcgann-publishing.html">The Bookstore</a></li>
+			<li><a href="../../travel/bike-travels.html">Bikes & Travel</a></li>
+			<li><a href="../../kom/kom-index.html">KOM: A Guide to Paved Road Climbs</a></li>
+            <li><a href="../../comix/bike-comics.html">Comix</a></li>
+            <li><a href="../../food/biking-food.html">Food</a></li>
+            <li><a href="../../preferences/stuff-we-like.html">Stuff We Like</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Site Information</a>
+        <ul>
+			<li><a href="../../about-us.html">About Us</a></li>
+			<li><a href="../../contact-us.html">Contact Us</a></li>
+            <li><a href="../../features/advertise.html">Media Kit</a></li>
+            <li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			<li><a href="../../site-map.html">Site Map</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+		
+	
+	
+</div> 	<!-- end the menuh-container div -->  
+</div>	<!-- end the menuh div --> 
+ 
+ 
+    <!-- end .header --></div>
+
+ <div class="sidebar1">
+     <div class="newad">
+  <p><img src="../../images/follow-ad.gif" usemap="#Map" border="0" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="115,6,163,50" href="http://www.facebook.com/Starrzy#!/pages/McGann-Publishing-LLC/116660391692056?ref=ts" target="_blank" alt="find us on Facebook" border="0"/>
+      <area shape="rect" coords="168,8,216,50" href="http://www.twitter.com/BikeRaceInfo" target="_blank" alt="follow us on twitter" />
+      <area shape="rect" coords="221,3,299,49" href="http://www.youtube.com/user/McGannPublishing/videos" target="_blank" alt="See our youtube channel" />
+    </map>
+   
+    
+  
+   <img src="../../logos/sponsors.gif" />  
+  <a href="../../books/melanoma-started-freckle.html"><img src="../../logos/melanoma-book-ad.jpg" alt="Melanoma: It started with a freckle" border="0" /></a>    
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.bikyle.com" target="_blank"><img src="../../logos/BiKyle.gif" alt="Cycles BiKyle" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.schwabcycles.com" target="_blank"><img src="../../logos/schwab.gif" alt="Schwab Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.velojerseys.com" target="_blank"><img src="../../logos/velojerseys.jpg" alt="Classic cycling jerseys" border="0" /></a>
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.smartcycles.com" target="_blank"><img src="../../logos/smart.gif" alt="Smart Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+     <a href="http://sscycleworks.com/" target="_blank"><img src="../../logos/s-salem-mond-ad.gif" alt="South Salem Cycleworks Mondonico frames" border="0" /></a>
+   
+    <img src="../../logos/spacer.gif" />
+   
+       <a href="../../features/advertise.html" target="_blank"><img src="../../logos/advertise-bri.gif" alt="Advertise with us!" border="0" /></a>
+
+    <img src="../../logos/spacer.gif" />
+     <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* right side */
+google_ad_slot = "2395833724";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+   
+    <img src="../../logos/spacer.gif" />
+     <a href="http://www.Cycleitalia.com" target="_blank"><img src="../../logos/cycleitalia.jpg" alt="CycleItalia cycling tours" border="0" /></a>
+   
+    </div>
+       
+    <!-- end .sidebar1 --></div>
+
+
+   
+ 
+
+
+  <div class="content">
+  <div class="header2">
+  <div class="contenthd2b">
+  Search our site:
+<script>
+  (function() {
+    var cx = '017815655590841525944:tti8xwrgf7s';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+  </div>
+  <div class="contenthd2a">
+  <!-- BEGIN: Constant Contact Stylish Email Newsletter Form -->
+<div align="center">
+<div style="width:160px; background-color: #ffffff;">
+<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:3;"><span style="background-color: #86e486; float:right;margin-right:5;margin-top:3"><img src="https://imgssl.constantcontact.com/ui/images1/visitor/email1_trans.gif" alt="Email Newsletter icon, E-mail Newsletter icon, Email List icon, E-mail List icon" border="0"></span>
+<font style="font-weight: bold; font-family:Arial; font-size:16px; color:#0d5e01;">Sign up for our Email Newsletter</font>
+<input type="text" name="ea" size="20" value="" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;">
+<input type="submit" name="go" value="GO" class="submit"  style="font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px;">
+<input type="hidden" name="llr" value="ozjmfnjab">
+<input type="hidden" name="m" value="1109617157934">
+<input type="hidden" name="p" value="oi">
+</form>
+</div>
+</div>
+
+
+
+  </div>
+  </div> 
+    <!-- InstanceBeginEditable name="HeaderText" -->
+    <div align="center">
+														<h1>1944 Paris - Roubaix </h1>
+														<h2>42nd edition: Sunday, April 9, 1944</h2>
+													</div>
+												<!-- InstanceEndEditable -->
+  <!-- InstanceBeginEditable name="PageText" -->
+	<p><a href="paris-roubaix-index.html">Paris-Roubaix podium history</a> | <a href="pr1945.html">1945 edition</a> | <a href="pr1943.html">1943 edition </a></p>
+												<p>246 km. 172 starters and 89 classified finishers	</p>
+												<p>Mild and sunny weather. With 20 kilometers to go, six men were off the front. They were delayed for 20 seconds by a closed train crossing, allowing another five riders to join them. 1937 Paris-Roubaix winner Jules Rossi had teammate Lucien Vlaemynck give him a leadout, but Maurice De Sempelaere went flashing by the confident Italian. </p>
+												<p>Germany still occupied France in April of 1944 and journalists returning home from the finish were bombed. 1947 Tour de France winner Jean Robic crashed badly, suffering a fractured skull and from then on wore his famous leather helmet.	</p>
+	<p><strong>Complete  Results:</strong>	</p>
+	<ol>
+      <li>Maurice De Simpelaere (Alcyon-Dunlop) 6hr 9min 57sec. 39.897 km/hr</li><iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963611&asins=0985963611&linkId=YMQKS2NSSUQLFKUQ&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
+</iframe>
+
+      <li>Giulio &quot;Jules&quot; Rossi  s.t.</li>
+      <li>Louis Thiétard (Métropole-Dunlop) s.t.</li>
+      <li>Raymond Goussot (Alcyon-Dunlop) s.t.</li>
+      <li>Emiel Faignaert (Lucien Michard-Hutchinson) s.t.</li>
+      <li>Georges Claes (A. Trialoux-Wolber) s.t.</li>
+      <li>Alvaro Giorgetti (Ray-Dunlop) s.t.</li>
+      <li>Amédée Rolland (Mercier-Hutchinson) s.t.</li>
+      <li>Manuel Hueguet s.t.</li>
+      <li>Lucien Vlaemynck (Alcyon-Dunlop) s.t.</li>
+      <li>Robert Dorgebray @ 1min 12sec</li>
+      <li>Emile Idée (Alcyon-Dunlop) @ 1min 54sec</li>
+      <li>Jules Siciliano (France Sport-Dunlop) s.t.</li>
+      <li>Roger Piel (Europe-Dunlop) s.t.</li>
+      <li>Fermo Camellini (Mercier-Hutchinson) s.t.</li>
+      <li>Julien Haemelryckx s.t.</li>
+      <li>Albert Fonteyne (Métropole-Dunlop) s.t.</li>
+      <li>Maurice De Muer (Peugeot) s.t.</li>
+      <li>Eugène Galliussi s.t.</li>
+      <iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0984311769&asins=0984311769&linkId=&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
+</iframe>
+
+      <li>Robert Bonnaventure (Alcyon-Dunlop) @ 2min 8sec</li>
+      <li>Célestine Riga @ 2min 59sec</li>
+      <li>Guy Lapébie (Europe-Dunlop) @ 3mi 38sec</li>
+      <li>Robert Panier (Rochet-Dunlop) s.t.</li>
+      <li>Robert Auclerc (Mercier-Hutchinson) s.t.</li>
+      <li>Lucien Le Guevel (Dilecta-Wolber) s.t.</li>
+      <li>Marcel Laurent (Helyett-Hutchinson) s.t.</li>
+      <li>Marcel Tiger (Dilecta-Wolber) @ 4min 2sec</li>
+      <li>Joseph Goutorbe (A. Trialoux-Wolber) s.t.</li>
+      <li>Jean Molliex (Europe-Dunlop) s.t.</li>
+      <li>Joseph Taca @ 4min 28sec</li>
+      <li>Lucien Lauk (Métropole-Dunlop) @ 4min 38sec</li>
+      <li>Henri Bidault (Garin) s.t.</li>
+      <li>Emmanuel Thoma @ 4min 57sec</li>
+      <li>André Maelbrancke (Mercier-Hutchinson) @ 6min 23sec</li>
+      <li>Georges Guillier (Mercier-Hutchinson) s.t.</li>
+      <li>Louis Gauthier (Mercier-Hutchinson) s.t.</li>
+      <li>Louis Schmitt (Alcyon-Dunlop) @ 6min 44sec</li>
+      <li>André Desmoulins (Peugeot) @ 7min 10sec</li>
+      <li>Camille Danguillaume (Peugeot) @ 7min 10sec</li>
+      <iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=1598581805&asins=1598581805&linkId=&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
+</iframe>
+
+      <li>Ange Le Strat(Mercier-Hutchinson) s.t.</li>
+      <li>Louis Caput (Dilecta-Wolber) s.t.</li>
+      <li value="41">André Declerck (Alcyon-Dunlop) s.t.</li>
+      <li value="41">Edward Van Dijck (A. Trialoux-Wolber) s.t.</li>
+      <li value="41">August Mallet s.t.</li>
+      <li value="41">Cyriel Van Overberghe (Mercier-Hutchinson) s.t.</li>
+      <li value="41">Roger Pontet (Génial Lucifer-Hutchinson) s.t.</li>
+      <li value="41">Albert Van Schendel (France Sport-Dunlop) s.t.</li>
+      <li value="41">Georges Munier (Europe-Dunlop) s.t.</li>
+      <li value="49">Frans Verboven (individual) @ 8min 25sec</li>
+      <li>Alexis Abella (Europe-Dunlop) @ 8min 46sec</li>
+      <li>Edouard Fachleitner (Peugeot) s.t.</li>
+      <li>Francis Fricker s.t.</li>
+      <li>René Vietto (Helyett-Hutchinson) s.t.</li>
+      <li>Roger Paris @ 9min 42sec</li>
+      <li>André Brule @ 9min 53sec</li>
+      <li>Raymond Louviot @ 12min 12sec</li>
+      <li>Alexandre Pawlisiak s.t.</li>
+      <li>Raoul Remy @ 13min 5sec</li>
+      <li>Yvon Marie s.t.</li>
+      <iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963603&asins=0985963603&linkId=&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
+</iframe>
+      <li>Dominique Pedrali @ 15min 23sec</li>
+      <li>Emile Rol s.t.</li>
+      <li>Alfred Macorig @ 16min 40sec</li>
+      <li>Raymond Guegan s.t.</li>
+      <li>Louis Debruyckere @ 19min 28sec</li>
+      <li>Albert Mignat s.t.</li>
+      <li>Paul Maye s.t.</li>
+      <li>Albert Dolhats s.t.</li>
+      <li>Albertin Disseaux s.t.</li>
+      <li>Fernand Mithouard s.t.</li>
+      <li>Pierre Delepine @ 20min 1sec</li>
+      <li>Gaston Grimbert s.t.</li>
+      <li>Charles Deroo @ 24min 35sec</li>
+      <li>Robert Psestat s.t.</li>
+      <li>Constantin Damiano @ 25min 14sec</li>
+      <li>Joseph Martino s.t.</li>
+      <li>Jean Sauzeat s.t.</li>
+      <li>Kléber Piot s.t.</li>
+      <li>Urbain Caffi s.t.</li>
+      <li>Jean Plent s.t.</li>
+      <li>Jean Texier s.t.</li>
+      <li>Fernand Delvallee s.t.</li>
+      <li>Pierre Jodet s.t.</li>
+      <li>Sylvère Jezo s.t.</li>
+      <li>Victor Delvoye @ 28min 13sec</li>
+      <li>Raymond Croyat @ 31min 46sec</li>
+      <li>Séverin Vergili s.t.</li>
+      <li>Pierre Brambilla @ 34min 14sec</li>
+      <li>Manuel Garcia @ 37min 8sec</li>
+      <li>Georges Plumet s.t.</li>
+    </ol>
+	<hr />
+	<p></p>
+	<!-- InstanceEndEditable -->
+    <!-- end .content --></div>
+ 
+  <div class="footer">
+ <hr />  
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* large banner, created 11/13/09 */
+google_ad_slot = "0514310951";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<p>&nbsp;</p>
+<p>
+  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* bottom text banner, created 2/9/09 */
+google_ad_slot = "0004268070";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+  </script>
+  <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+  <hr />
+  <table width="943" border="0">
+    <tr class="bottomenu1">
+      <td width="296" valign="top"><h3><a href="../../index.html">Home</a></h3>
+        <h3>Racing Results &amp; Archives</h3>
+        <blockquote>
+          <p><a href="../../tdf/tdfindex.html">Tour de France</a><br />
+            <a href="../../bicycle-races.html">Other Races</a><br />
+            <a href="../../annual/race2015.html">Year-to-Date Results</a><br />
+            <a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results            </a> (2001-2015)<br />
+            <a href="../../news-and-opinion/news-index.html">News &amp; Opinion</a></p>
+        </blockquote></td>
+      <td width="307" valign="top"><h3>Bicycles &amp; Cycling Lifestyle</h3>
+        <blockquote>
+          <p><a href="../../tech/bike-tech.html">Bike Tech Essays</a><br />
+            <a href="../../training-fitness/training-fitness.html">Training &amp; Coaching</a><br />
+            <a href="../../books/mcgann-publishing.html">The Bookstore</a><br />
+            <a href="../../travel/bike-travels.html">Bikes &amp; Travel</a><br />
+            <a href="../../kom/kom-index.html">KOM: A Guide to 
+            Paved Road Climbs</a><br />
+            <a href="../../comix/bike-comics.html">Comix</a><br />
+            <a href="../../food/biking-food.html">Food</a><br />
+            <a href="../../preferences/stuff-we-like.html">Stuff We Like </a><br />
+          </p>
+        </blockquote></td>
+      <td width="281" valign="top"><h3>Cycling History</h3>
+        <blockquote>
+          <p><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a><br />
+            <a href="../../oral-history.html">Oral History Project</a><br />
+            <a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></p>
+        </blockquote>
+        <h3>Site Information</h3>
+        <blockquote>
+          <p><a href="../../glossary.html">Glossary, Terms, Lists</a><br />
+            <a href="../../about-us.html">About Us</a><br />
+            <a href="../../contact-us.html">Contact </a><br />
+            <a href="../../site-map.html">Site Map</a></p>
+        </blockquote></td>
+    </tr>
+  </table>
+  <p class="bottomenu1">© McGann Publishing LLC</p>
+  <!-- end .footer --></div>
+  
+</div>
+  <!-- end .container-center --></div>
+
+</body>
+<!-- InstanceEnd --></html>

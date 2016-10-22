@@ -70,10 +70,9 @@ input();
 // var content = fs.readFileSync('paris-roubaix-testPage2.html');
 // getBikes(content, 1981);
 
-	fs.writeFile('races.txt', JSON.stringify(races), function(err) {
+	fs.writeFile('races.json', JSON.stringify(races), function(err) {
         if (err) {throw err;}
         console.log("done");
     });
-
 
 // console.log(races);

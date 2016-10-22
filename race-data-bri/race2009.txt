@@ -1,0 +1,518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/bri-template.dwt" codeOutsideHTMLIsLocked="true" -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Paris - Roubaix 2009 results by BikeRaceInfo</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+			<meta name="keywords" content="Paris - Roubaix 2009">
+			<meta name="description" content="Paris - Roubaix 2009
+">
+<!-- InstanceEndEditable -->
+
+<link href="../../bri-stylesheet2.css" rel="stylesheet" type="text/css" />
+<style type="text/css" media="screen"> @import url("../../bri-stylesheet2.css"); </style>
+
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+#menuh{float:none;}
+body{behavior:url(../csshover.htc); font-size:100%;}
+#menuh ul li{float:left; width: 100%;}
+#menuh a{height:1%;font:bold 0.7em/1.4em arial, sans-serif;}
+</style>
+<![endif]-->
+</head>
+
+<body>
+
+
+<div class="container">
+  <div class="header"><img src="../../images/logo-banner.gif" alt="BikeRaceInfo: Current and historical race results, plus interviews, bikes, travel, and cycling history" /></p>  
+
+
+<div id="menuh-container">
+<div id="menuh">
+	<ul>
+		<li><a href="../../index.html" class="top_parent">Home</a>
+		
+		</li>
+	</ul>
+	
+	<ul>	
+		<li><a href="#" class="top_parent">Racing Results & Archives</a>
+        <ul>
+			<li><a href="../../tdf/tdfindex.html">Tour de France</a></li>
+			<li><a href="../../bicycle-races.html">Other Races</a></li>
+			<li><a href="../../annual/race2016.html">Year-to-Date Race Results</a></li>
+			<li><a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results</a></li>
+			<li><a href="../../news-and-opinion/news-index.html">News & Opinion</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Cycling History</a>
+        <ul>
+			<li><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a></li>
+			<li><a href="../../oral-history.html">Oral History Project</a></li>
+			<li><a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></li>
+			<li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Bicycles & Cycling Lifestyle</a>
+        <ul>
+			<li><a href="../../tech/bike-tech.html">Bike Tech Essays</a></li>
+			<li><a href="../../training-fitness/training-fitness.html">Training & Fitness</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+			<li><a href="../../books/mcgann-publishing.html">The Bookstore</a></li>
+			<li><a href="../../travel/bike-travels.html">Bikes & Travel</a></li>
+			<li><a href="../../kom/kom-index.html">KOM: A Guide to Paved Road Climbs</a></li>
+            <li><a href="../../comix/bike-comics.html">Comix</a></li>
+            <li><a href="../../food/biking-food.html">Food</a></li>
+            <li><a href="../../preferences/stuff-we-like.html">Stuff We Like</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Site Information</a>
+        <ul>
+			<li><a href="../../about-us.html">About Us</a></li>
+			<li><a href="../../contact-us.html">Contact Us</a></li>
+            <li><a href="../../features/advertise.html">Media Kit</a></li>
+            <li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			<li><a href="../../site-map.html">Site Map</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+		
+	
+	
+</div> 	<!-- end the menuh-container div -->  
+</div>	<!-- end the menuh div --> 
+ 
+ 
+    <!-- end .header --></div>
+
+ <div class="sidebar1">
+     <div class="newad">
+  <p><img src="../../images/follow-ad.gif" usemap="#Map" border="0" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="115,6,163,50" href="http://www.facebook.com/Starrzy#!/pages/McGann-Publishing-LLC/116660391692056?ref=ts" target="_blank" alt="find us on Facebook" border="0"/>
+      <area shape="rect" coords="168,8,216,50" href="http://www.twitter.com/BikeRaceInfo" target="_blank" alt="follow us on twitter" />
+      <area shape="rect" coords="221,3,299,49" href="http://www.youtube.com/user/McGannPublishing/videos" target="_blank" alt="See our youtube channel" />
+    </map>
+   
+    
+  
+   <img src="../../logos/sponsors.gif" />  
+  <a href="../../books/melanoma-started-freckle.html"><img src="../../logos/melanoma-book-ad.jpg" alt="Melanoma: It started with a freckle" border="0" /></a>    
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.bikyle.com" target="_blank"><img src="../../logos/BiKyle.gif" alt="Cycles BiKyle" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.schwabcycles.com" target="_blank"><img src="../../logos/schwab.gif" alt="Schwab Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.velojerseys.com" target="_blank"><img src="../../logos/velojerseys.jpg" alt="Classic cycling jerseys" border="0" /></a>
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.smartcycles.com" target="_blank"><img src="../../logos/smart.gif" alt="Smart Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+     <a href="http://sscycleworks.com/" target="_blank"><img src="../../logos/s-salem-mond-ad.gif" alt="South Salem Cycleworks Mondonico frames" border="0" /></a>
+   
+    <img src="../../logos/spacer.gif" />
+   
+       <a href="../../features/advertise.html" target="_blank"><img src="../../logos/advertise-bri.gif" alt="Advertise with us!" border="0" /></a>
+
+    <img src="../../logos/spacer.gif" />
+     <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* right side */
+google_ad_slot = "2395833724";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+   
+    <img src="../../logos/spacer.gif" />
+     <a href="http://www.Cycleitalia.com" target="_blank"><img src="../../logos/cycleitalia.jpg" alt="CycleItalia cycling tours" border="0" /></a>
+   
+    </div>
+       
+    <!-- end .sidebar1 --></div>
+
+
+   
+ 
+
+
+  <div class="content">
+  <div class="header2">
+  <div class="contenthd2b">
+  Search our site:
+<script>
+  (function() {
+    var cx = '017815655590841525944:tti8xwrgf7s';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+  </div>
+  <div class="contenthd2a">
+  <!-- BEGIN: Constant Contact Stylish Email Newsletter Form -->
+<div align="center">
+<div style="width:160px; background-color: #ffffff;">
+<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:3;"><span style="background-color: #86e486; float:right;margin-right:5;margin-top:3"><img src="https://imgssl.constantcontact.com/ui/images1/visitor/email1_trans.gif" alt="Email Newsletter icon, E-mail Newsletter icon, Email List icon, E-mail List icon" border="0"></span>
+<font style="font-weight: bold; font-family:Arial; font-size:16px; color:#0d5e01;">Sign up for our Email Newsletter</font>
+<input type="text" name="ea" size="20" value="" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;">
+<input type="submit" name="go" value="GO" class="submit"  style="font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px;">
+<input type="hidden" name="llr" value="ozjmfnjab">
+<input type="hidden" name="m" value="1109617157934">
+<input type="hidden" name="p" value="oi">
+</form>
+</div>
+</div>
+
+
+
+  </div>
+  </div> 
+    <!-- InstanceBeginEditable name="HeaderText" -->
+													<div align="center">
+														<h1><b>Paris - Roubaix</b></h1>
+														<h3><b>103rd edition: Sunday, April 12, 2009</b></h3>
+													</div>
+												<!-- InstanceEndEditable -->
+  <!-- InstanceBeginEditable name="PageText" -->
+												
+																						<p>259 km. 187 starters, 99 classified finishers</p>
+																						<p><a href="paris-roubaix-index.html">Paris-Roubaix Podium history</a> | <a href="pr2008.html">2008 Paris-Roubaix</a> | <a href="pr2010.html">2010 Paris-Roubaix</a></p>
+																						<p><img src="../../images-all/annual-images/images09/PR1.jpg" alt="" height="398" width="600" border="0" /></p>
+																						<p><strong>The race:</strong> Exiting the Mons-en-Pévèle sector of cobbles there were just six riders. Just as the leaders started the Carrefour de l'Arbre sector, Juan Antonio Flecha crashed, taking down and delaying all but Tom Boonen, who was in the lead at the time. Because of the crowd noise, at first Boonen was unaware he was alone. Filippo Pozzato chased, but Boonen was not to be caught as he won his third Paris-Roubaix.</p>
+																						<p><strong>Complete Results</strong></p>
+                                                                                        <ol>
+                                                                                          <li><a href="../../photo-galleries/rider-gallery/boonen-tom.html">Tom Boonen</a> (Quick Step) 6hr 15min 53sec. 41.34 km/hr </li><iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963611&asins=0985963611&linkId=YMQKS2NSSUQLFKUQ&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
+</iframe>
+
+                                                                                          <li>Filippo Pozzato (Katusha) @ 47sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Thor Hushovd (Cervelo) @ 1min 17sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Leif Hoste (Silence-Lotto) s.t.
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Johan Van Summeren (Silence-Lotto) @ 1min 22sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Juan Antonio Flecha (Rabobank) @ 2min 14sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Heinrich Haussler (Cervelo) @ 3min 13sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Sylvain Chavanel (Quick Step) @ 3min 15sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Manuel Quinziato (Liquigas) @ 5min
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Matti Breschel (Saxo) @ 5min 29sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Wouter Weylandt (Quick Step) s.t.
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Andreas Klier (Cervelo) s.t.
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Frederic Guesdon (FDJ) s.t.
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Kevin Van Impe (Quick Step) @ 6min 15sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Roger&nbsp;Hammond (Cervelo) s.t.
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Kurt-Asle Arveson (Saxo) s.t.
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Niki Terpstra (Milram) s.t.
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Bert Scheirlinckx (Landbouwkrediet) @ 6min 19sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Jeremy Hunt (Cervelo) @ 6min 32sec
+                                                                                            
+                                                                                          </li>
+                                                                                          <li>Marcel Sieberg (Columbia) s.t. </li>
+                                                                                          <li>Mathew Hayman (Rabobank) s.t.</li>
+                                                                                          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" class="fltrt" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=B01BAT3M72&asins=B01BAT3M72&linkId=73SAHQHGY5QP4KXR&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+                                                                                          
+                                                                                          <li>Yauheni Hutarovich (FDJ) s.t.</li>
+                                                                                          <li>Angelo Furlan (Lampre) s.t.</li>
+                                                                                          <li>Damien Gaudin (Bouygues Telecom) s.t.</li>
+                                                                                          <li>Bradley Wiggins (Garmin-Slipstream) s.t.</li>
+                                                                                          <li>Said Haddou (Bouygues Telecom) s.t.</li>
+                                                                                          <li>Maarten Wynants (Quick Step) s.t.</li>
+                                                                                          <li>Staf Scheirlinckx (Silence-Lotto) s.t.</li>
+                                                                                          <li>Sébastien Minard (Cofidis) s.t.</li>
+                                                                                          <li>Marcus Ljungqvist (Saxo) s.t.</li>
+                                                                                          <li>Nicolas Jalabert (Agritubel) s.t.</li>
+                                                                                          <li>Matthew Goss (Saxo) s.t.</li>
+                                                                                          <li>Grégory Rast (Astana) s.t.</li>
+                                                                                          <li>Filip Meirhaeghe (Landbouwkrediet) s.t.</li>
+                                                                                          <li>Florent Brard (Cofidis) s.t.</li>
+                                                                                          <li>Servais Knaven (Milram) s.t.</li>
+                                                                                          <li>Nicolai Trussov (Katusha) s.t.</li>
+                                                                                          <li>Greg van Avermaet (Silence-Lotto) s.t.</li>
+                                                                                          <li>Joost Posthuma (Rabobank) s.t.</li>
+                                                                                          <li>Imanol Erviti (Caisse d'Epargne) s.t.</li>
+                                                                                          <li>Bjorn Leukemans (Vacansoleil) s.t.</li>
+                                                                                          <li>Pieter Vanspeybrouck (Topsport Vlaanderen) s.t.</li>
+                                                                                          <li>Rony Martias (Bouygues Telecom) s.t.</li>
+                                                                                          <li>George Hincapie (Columbia-Highroad) s.t.</li>
+                                                                                          <li>Lars Bak (Saxo) s.t.</li>
+                                                                                          <li>Gabriel Rasch (Cervelo) s.t.</li>
+                                                                                          <li>Bernhard Eisel (Columbia-Highroad) @ 6min 43sec</li>
+                                                                                          <li>Kasper Klostergaard (Saxo) @ 6min 45sec</li>
+                                                                                          <li>Fabian Cancellara (Saxo) @ 6min 48sec</li>
+                                                                                          <li>Yaroslav Popovych (Astana) @ 9min 9sec</li>
+                                                                                          <li>Gregory Henderson (Columbia-Highroad) @ 11min 11sec</li>
+                                                                                          <li>Aleksandr Kuschynski (Liquigas) s.t.</li>
+                                                                                          <li>Marco Bandiera (Lampre) s.t.</li>
+                                                                                          <li>Alexei Markov (Katusha) s.t.</li>
+                                                                                          <li>Stijn Devolder (Quick Step) s.t.</li>
+                                                                                          <li>Tom Veelers (Skil-Shimano) @ 12min 12sec</li>
+                                                                                          <li>Mauro Da Dalto (Lampre) s.t.</li>
+                                                                                          <li>Rui Faria da Costa (Caisse d'Epargne) s.t.</li>
+                                                                                          <li>Matthieu Ladagnous (FDJ) s.t.</li>
+                                                                                          <li>Renaud Dion (Ag2r) s.t.</li>
+                                                                                          <li>Wesley Sulzberger (FDJ) s.t.</li>
+                                                                                          <li>Edvald Boasson Hagen (Columbia-Highroad) s.t.</li>
+                                                                                          <li>Maarten Tjallingii (Rabobank) s.t.</li>
+                                                                                          <li>Steven Cozza (Garmin-Slipstream) s.t.</li>
+                                                                                          <li>Marcus Burghardt (Columbia-Highroad) s.t.</li>
+                                                                                          <li>Arnaud Coyot (Caisse d'Epargne) s.t.</li>
+                                                                                          <li>Aitor Galdos (Euskaltel) @ 12min 32sec</li>
+                                                                                          <li>Alexandre Moos (BMC) @ 16min 57sec</li>
+                                                                                          <li>Aart Vierhouten (Vacansoleil) @ 17min 30sec</li>
+                                                                                          <li>Bjorn Schroder (Milram) @ 17min 36sec</li>
+                                                                                          <li>Pedro Horillo (Rabobank) s.t.</li>
+                                                                                          <li>Lloyd Mondory (Ag2r) s.t.</li>
+                                                                                          <li>Markus Eichler (Milram) s.t.</li>
+                                                                                          <li>Enrico Franzoi (Liquigas) s.t.</li>
+                                                                                          <li>Koen Barbe (Landbouwkrediet) s.t.</li>
+                                                                                          <li>Christophe Laurent (Agritubel) s.t.</li>
+                                                                                          <li>Alexandre Blain (Cofidis) s.t.</li>
+                                                                                          <li>Stijn Neirynck (Topsport Vlaanderen) s.t.</li>
+                                                                                          <li>Cyril Lemoine (Skil-Shimano) s.t.</li>
+                                                                                          <li>Martin Velits (Milram) s.t.</li>
+                                                                                          <li>Emilien-Benoit Berges (Agritubel) s.t.</li>
+                                                                                          <li>Floris Goesinnen (Skil-Shimano) s.t.</li>
+                                                                                          <li>Markel Irizar (Euskaltel) s.t.</li>
+                                                                                          <li>Anders Lund (Saxo) s.t.</li>
+                                                                                          <li>Yoann Offredo (FDJ) s.t.</li>
+                                                                                          <li>Bert De Backer (Skil-Shimano) s.t.</li>
+                                                                                          <li>Arnaud Labbe (Bouygues telecom) s.t.</li>
+                                                                                          <li>Brent Bookwalter (BMC) s.t.</li>
+                                                                                          <li>Marcin Sapa (Lampre) s.t.</li>
+                                                                                          <li>Michael Barry (Columbia-Highroad) s.t.</li>
+                                                                                          <li>Kevin De Weert (Quick Step) s.t.</li>
+                                                                                          <li>Daaniel Oss (Liquigas) s.t.</li>
+                                                                                          <li>Michael Schar (Astana) s.t.</li>
+                                                                                          <li>Sebastian Langeveld (Rabobank) @ 17min 46sec</li>
+                                                                                          <li>Christopher Sutton (Garmin-Slipstream) s.t.</li>
+                                                                                          <li>Romain Villa (Cofidis) s.t.</li>
+                                                                                          <li>Daniele Righi (Lampre) s.t.</li>
+                                                                                          <li>Martijn Maaskant (Garmin-Slipstream) s.t.</li>
+                                                                                          <li>Michael Friedman (Garmin-Slipstream) @ 17min 48sec</li>
+                                                                                        </ol>
+																						<table width="615" border="0" cellspacing="0" cellpadding="0" cool="cool" gridx="16" gridy="16" height="1825" showgridx="showgridx" showgridy="showgridy" usegridx="usegridx" usegridy="usegridy">
+																							<tr height="400">
+																								<td width="614" height="400" colspan="4" valign="top" align="left" xpos="0"><p><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-departure.jpg" width="635" height="421" alt="The dearture in Compiegne" /></p>
+																								  <p class="cap">The departure in Compiegne</p>
+																								  <p><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-arenberg-wynants-maart.jpg" width="635" height="421" alt="Maarten Wyants leads through the Arenberg Forest" /></p>
+																								  <p class="cap">Maarten Wyants leads through the Arenberg Forest</p>
+																								  <p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-arenberg-1.jpg" width="635" height="423" alt="Riders in the Arenberg Forest" /></p>
+																								  <p class="cap">More Arenberg misery</p>
+																								  <p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-arenberg-2.jpg" width="635" height="421" alt="Riders in the Arenberg Forest" /></p>
+																								  <p class="cap">We got to get out of this place...still in the Arenberg Forest</p>
+																								  <p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-Arenberg-3.jpg" width="635" height="421" alt="Riders in the Arenberg Forest" /></p>
+																								  <p class="cap">More of the Arenberg</p>
+																							    <p><img src="../../images-all/annual-images/images09/pr02.jpg" alt="" height="397" width="600" border="0" /></p></td>
+																								<td width="1" height="400"><spacer type="block" width="1" height="400"></td>
+																							</tr>
+																							<tr height="48">
+																								<td content="content" csheight="32" width="576" height="48" valign="top" xpos="0">
+																									<p class="cap">Tom Boonen leads Thor Hushovd at the Carrefour de l'Arbre.</p>
+																									<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-boonen-pozzato-hush.jpg" width="635" height="421" alt="Tom Boonen leads" /></p>
+																									<p class="cap">Boonen leads Filippo Pozzato and Thor Hushovd</p>
+																								</td>
+																								<td width="38" height="48" colspan="3"></td>
+																								<td width="1" height="48"><spacer type="block" width="1" height="48"></td>
+																							</tr>
+																							<tr height="400">
+																								<td width="614" height="400" colspan="4" valign="top" align="left" xpos="0"><img src="../../images-all/annual-images/images09/pr04.jpg" alt="" height="397" width="600" border="0" /></td>
+																								<td width="1" height="400"><spacer type="block" width="1" height="400"></td>
+																							</tr>
+																							<tr height="64">
+																								<td content="content" csheight="49" width="576" height="64" valign="top" xpos="0">
+																									<p class="cap">Boonen, Pozzato, Van Summeren and Hushovd at the Moulin du Vartain.</p>
+																						        <p><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-horiz-panorama.jpg" width="635" height="421" alt="Riders on cobbles" /></p>
+																						        <p class="cap">I don't know what cobble sector this is.</p>
+																						        <p><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-orchies-vert.jpg" width="544" height="821" alt="Orchies sector" /></p>
+																						        <p class="cap">Orchies sector</p>
+																						        <p>&nbsp;</p></td>
+																								<td width="38" height="64" colspan="3"></td>
+																								<td width="1" height="64"><spacer type="block" width="1" height="64"></td>
+																							</tr>
+																							<tr height="400">
+																								<td width="614" height="400" colspan="4" valign="top" align="left" xpos="0"><img src="../../images-all/annual-images/images09/pr05.jpg" alt="" height="397" width="600" border="0" /></td>
+																								<td width="1" height="400"><spacer type="block" width="1" height="400"></td>
+																							</tr>
+																							<tr height="48">
+																								<td content="content" csheight="37" width="593" height="48" colspan="3" valign="top" xpos="0">
+																									<p class="cap">Rain was predicted, but it didn't come. Dust instead of mud was on the day's menu.</p>
+																									<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-finish-velodorme-bo.jpg" width="635" height="421" alt="Boonen rides his two laps on the velodrome" /></p>
+																									<p class="cap">Boonen rides his laps on the Roubaix Velodrome.</p>
+																									<p class="cap">&nbsp;</p>
+																								</td>
+																								<td width="21" height="48"></td>
+																								<td width="1" height="48"><spacer type="block" width="1" height="48"></td>
+																							</tr>
+																							<tr height="400">
+																								<td width="614" height="400" colspan="4" valign="top" align="left" xpos="0"><img src="../../images-all/annual-images/images09/pr03.jpg" alt="" height="399" width="600" border="0" /></td>
+																								<td width="1" height="400"><spacer type="block" width="1" height="400"></td>
+																							</tr>
+																							<tr height="64">
+																								<td content="content" csheight="55" width="592" height="64" colspan="2" valign="top" xpos="0">
+																									<p class="cap">That makes 3 Paris-Roubaix wins for Boonen. He joins Van Looy, <a href="../../photo-galleries/rider-gallery/merckx-eddy.html">Merckx</a>, <a href="../../photo-galleries/rider-gallery/moser-francesco.html">Moser</a> and Museeuw. <a href="../../photo-galleries/rider-gallery/de-vlaeminck-roger.html">Roger de Vlaeminck</a> holds the absolute record with 4 victories: 1972, '74, '75, '77.</p>
+																									<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-podium.jpg" width="635" height="421" alt="2009 Paris-Roubaix podium" /></p>
+																									<p class="cap">The podium, from left: Filippo Pozzato, Tom Boonen and Thor Hushovd</p>
+																									<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-moser.jpg" width="635" height="421" alt="Francesco Moser at the Roubaix velodrome" /></p>
+																									<p class="cap">Francesco Moser (winner Paris-Roubaix 1978, 79, 80) and the Mrs. at the Roubaix velodrome.</p>
+																						        <p><img src="../../images-all/classics-images/paris-roubaix/2009-paris-roubaix/2009-PR-boonens-bike.jpg" width="635" height="421" alt="Tom Boonen's bike" /></p>
+																						        <p class="cap">Tom Boonen's bike</p></td>
+																								<td width="22" height="64" colspan="2"></td>
+																								<td width="1" height="64"><spacer type="block" width="1" height="64"></td>
+																							</tr>
+																							<tr height="1" cntrlrow="cntrlrow">
+																								<td width="576" height="1"><spacer type="block" width="576" height="1"></td>
+																								<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+																								<td width="1" height="1"><spacer type="block" width="1" height="1"></td>
+																								<td width="21" height="1"><spacer type="block" width="21" height="1"></td>
+																								<td width="1" height="1"></td>
+																							</tr>
+																						</table>
+																						<hr />
+																						<p></p>
+																					
+											<!-- InstanceEndEditable -->
+    <!-- end .content --></div>
+ 
+  <div class="footer">
+ <hr />  
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* large banner, created 11/13/09 */
+google_ad_slot = "0514310951";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<p>&nbsp;</p>
+<p>
+  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* bottom text banner, created 2/9/09 */
+google_ad_slot = "0004268070";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+  </script>
+  <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+  <hr />
+  <table width="943" border="0">
+    <tr class="bottomenu1">
+      <td width="296" valign="top"><h3><a href="../../index.html">Home</a></h3>
+        <h3>Racing Results &amp; Archives</h3>
+        <blockquote>
+          <p><a href="../../tdf/tdfindex.html">Tour de France</a><br />
+            <a href="../../bicycle-races.html">Other Races</a><br />
+            <a href="../../annual/race2015.html">Year-to-Date Results</a><br />
+            <a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results            </a> (2001-2015)<br />
+            <a href="../../news-and-opinion/news-index.html">News &amp; Opinion</a></p>
+        </blockquote></td>
+      <td width="307" valign="top"><h3>Bicycles &amp; Cycling Lifestyle</h3>
+        <blockquote>
+          <p><a href="../../tech/bike-tech.html">Bike Tech Essays</a><br />
+            <a href="../../training-fitness/training-fitness.html">Training &amp; Coaching</a><br />
+            <a href="../../books/mcgann-publishing.html">The Bookstore</a><br />
+            <a href="../../travel/bike-travels.html">Bikes &amp; Travel</a><br />
+            <a href="../../kom/kom-index.html">KOM: A Guide to 
+            Paved Road Climbs</a><br />
+            <a href="../../comix/bike-comics.html">Comix</a><br />
+            <a href="../../food/biking-food.html">Food</a><br />
+            <a href="../../preferences/stuff-we-like.html">Stuff We Like </a><br />
+          </p>
+        </blockquote></td>
+      <td width="281" valign="top"><h3>Cycling History</h3>
+        <blockquote>
+          <p><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a><br />
+            <a href="../../oral-history.html">Oral History Project</a><br />
+            <a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></p>
+        </blockquote>
+        <h3>Site Information</h3>
+        <blockquote>
+          <p><a href="../../glossary.html">Glossary, Terms, Lists</a><br />
+            <a href="../../about-us.html">About Us</a><br />
+            <a href="../../contact-us.html">Contact </a><br />
+            <a href="../../site-map.html">Site Map</a></p>
+        </blockquote></td>
+    </tr>
+  </table>
+  <p class="bottomenu1">© McGann Publishing LLC</p>
+  <!-- end .footer --></div>
+  
+</div>
+  <!-- end .container-center --></div>
+
+</body>
+<!-- InstanceEnd --></html>

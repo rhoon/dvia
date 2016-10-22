@@ -1,0 +1,592 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/bri-template.dwt" codeOutsideHTMLIsLocked="true" -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>2005 Paris-Roubaix complete results by BikeRaceInfo</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+			<meta name="keywords" content="Paris-Roubaix 2005">
+			<meta name="description" content="Paris-Roubaix 2005">
+<meta name="keywords" content="2005 Paris-Roubaix bicycle race complete results" />
+<meta name="description" content="2005 Paris-Roubaix bicycle race complete results" />
+<!-- InstanceEndEditable -->
+
+<link href="../../bri-stylesheet2.css" rel="stylesheet" type="text/css" />
+<style type="text/css" media="screen"> @import url("../../bri-stylesheet2.css"); </style>
+
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+#menuh{float:none;}
+body{behavior:url(../csshover.htc); font-size:100%;}
+#menuh ul li{float:left; width: 100%;}
+#menuh a{height:1%;font:bold 0.7em/1.4em arial, sans-serif;}
+</style>
+<![endif]-->
+</head>
+
+<body>
+
+
+<div class="container">
+  <div class="header"><img src="../../images/logo-banner.gif" alt="BikeRaceInfo: Current and historical race results, plus interviews, bikes, travel, and cycling history" /></p>  
+
+
+<div id="menuh-container">
+<div id="menuh">
+	<ul>
+		<li><a href="../../index.html" class="top_parent">Home</a>
+		
+		</li>
+	</ul>
+	
+	<ul>	
+		<li><a href="#" class="top_parent">Racing Results & Archives</a>
+        <ul>
+			<li><a href="../../tdf/tdfindex.html">Tour de France</a></li>
+			<li><a href="../../bicycle-races.html">Other Races</a></li>
+			<li><a href="../../annual/race2016.html">Year-to-Date Race Results</a></li>
+			<li><a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results</a></li>
+			<li><a href="../../news-and-opinion/news-index.html">News & Opinion</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Cycling History</a>
+        <ul>
+			<li><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a></li>
+			<li><a href="../../oral-history.html">Oral History Project</a></li>
+			<li><a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></li>
+			<li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Bicycles & Cycling Lifestyle</a>
+        <ul>
+			<li><a href="../../tech/bike-tech.html">Bike Tech Essays</a></li>
+			<li><a href="../../training-fitness/training-fitness.html">Training & Fitness</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+			<li><a href="../../books/mcgann-publishing.html">The Bookstore</a></li>
+			<li><a href="../../travel/bike-travels.html">Bikes & Travel</a></li>
+			<li><a href="../../kom/kom-index.html">KOM: A Guide to Paved Road Climbs</a></li>
+            <li><a href="../../comix/bike-comics.html">Comix</a></li>
+            <li><a href="../../food/biking-food.html">Food</a></li>
+            <li><a href="../../preferences/stuff-we-like.html">Stuff We Like</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Site Information</a>
+        <ul>
+			<li><a href="../../about-us.html">About Us</a></li>
+			<li><a href="../../contact-us.html">Contact Us</a></li>
+            <li><a href="../../features/advertise.html">Media Kit</a></li>
+            <li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			<li><a href="../../site-map.html">Site Map</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+		
+	
+	
+</div> 	<!-- end the menuh-container div -->  
+</div>	<!-- end the menuh div --> 
+ 
+ 
+    <!-- end .header --></div>
+
+ <div class="sidebar1">
+     <div class="newad">
+  <p><img src="../../images/follow-ad.gif" usemap="#Map" border="0" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="115,6,163,50" href="http://www.facebook.com/Starrzy#!/pages/McGann-Publishing-LLC/116660391692056?ref=ts" target="_blank" alt="find us on Facebook" border="0"/>
+      <area shape="rect" coords="168,8,216,50" href="http://www.twitter.com/BikeRaceInfo" target="_blank" alt="follow us on twitter" />
+      <area shape="rect" coords="221,3,299,49" href="http://www.youtube.com/user/McGannPublishing/videos" target="_blank" alt="See our youtube channel" />
+    </map>
+   
+    
+  
+   <img src="../../logos/sponsors.gif" />  
+  <a href="../../books/melanoma-started-freckle.html"><img src="../../logos/melanoma-book-ad.jpg" alt="Melanoma: It started with a freckle" border="0" /></a>    
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.bikyle.com" target="_blank"><img src="../../logos/BiKyle.gif" alt="Cycles BiKyle" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.schwabcycles.com" target="_blank"><img src="../../logos/schwab.gif" alt="Schwab Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.velojerseys.com" target="_blank"><img src="../../logos/velojerseys.jpg" alt="Classic cycling jerseys" border="0" /></a>
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.smartcycles.com" target="_blank"><img src="../../logos/smart.gif" alt="Smart Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+     <a href="http://sscycleworks.com/" target="_blank"><img src="../../logos/s-salem-mond-ad.gif" alt="South Salem Cycleworks Mondonico frames" border="0" /></a>
+   
+    <img src="../../logos/spacer.gif" />
+   
+       <a href="../../features/advertise.html" target="_blank"><img src="../../logos/advertise-bri.gif" alt="Advertise with us!" border="0" /></a>
+
+    <img src="../../logos/spacer.gif" />
+     <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* right side */
+google_ad_slot = "2395833724";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+   
+    <img src="../../logos/spacer.gif" />
+     <a href="http://www.Cycleitalia.com" target="_blank"><img src="../../logos/cycleitalia.jpg" alt="CycleItalia cycling tours" border="0" /></a>
+   
+    </div>
+       
+    <!-- end .sidebar1 --></div>
+
+
+   
+ 
+
+
+  <div class="content">
+  <div class="header2">
+  <div class="contenthd2b">
+  Search our site:
+<script>
+  (function() {
+    var cx = '017815655590841525944:tti8xwrgf7s';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+  </div>
+  <div class="contenthd2a">
+  <!-- BEGIN: Constant Contact Stylish Email Newsletter Form -->
+<div align="center">
+<div style="width:160px; background-color: #ffffff;">
+<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:3;"><span style="background-color: #86e486; float:right;margin-right:5;margin-top:3"><img src="https://imgssl.constantcontact.com/ui/images1/visitor/email1_trans.gif" alt="Email Newsletter icon, E-mail Newsletter icon, Email List icon, E-mail List icon" border="0"></span>
+<font style="font-weight: bold; font-family:Arial; font-size:16px; color:#0d5e01;">Sign up for our Email Newsletter</font>
+<input type="text" name="ea" size="20" value="" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;">
+<input type="submit" name="go" value="GO" class="submit"  style="font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px;">
+<input type="hidden" name="llr" value="ozjmfnjab">
+<input type="hidden" name="m" value="1109617157934">
+<input type="hidden" name="p" value="oi">
+</form>
+</div>
+</div>
+
+
+
+  </div>
+  </div> 
+    <!-- InstanceBeginEditable name="HeaderText" -->
+													<div align="center">
+														<h1>2005 Paris - Roubaix  (Pro Tour)</h1>
+														<h3>103rd edition: Sunday, April 10, 2005</h3>
+													</div>
+												<!-- InstanceEndEditable -->
+  <!-- InstanceBeginEditable name="PageText" -->
+												<p>259.6 Km
+
+												</p>
+												<p><a href="paris-roubaix-index.html">Podium history of Paris-Roubaix</a> | <a href="pr2004.html">2004 edition</a> | <a href="pr2006.html">2006 edition</a> |<br />
+												  <a href="#photos">Photos</a> | <a href="#weather">As it happened </a>| <a href="#map">Course map and list of cobbled sectors</a> | </p>
+												<p><strong>Complete Results:</strong> 191 starters, 80 classified finishers</p>
+												<p><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-PR-finish-boonen.jpg" width="635" height="421" alt="Tom Boonen wins the 2005 Paris-Roubaix" /></p>
+                                                <ol>
+                                                  <li><a href="../../photo-galleries/rider-gallery/boonen-tom.html">Tom Boonen</a> (Quick Step), 6hr 27min 38sec. 39.9 km/hr </li><iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963611&asins=0985963611&linkId=YMQKS2NSSUQLFKUQ&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
+</iframe>
+
+                                                  <li>George Hincapie (Discovery), s.t.
+                                                    
+                                                  </li>
+                                                  <li>Juan Antonio Flecha (Fassa Bortolo), s.t.
+                                                    
+                                                  </li>
+                                                  <li>Magnus Backstedt (Liquigas-Bianchi) @1min 9sec
+                                                    
+                                                  </li>
+                                                  <li>Lars Michaelsen (CSC) @2min 43sec
+                                                    
+                                                  </li>
+                                                  <li>Leon Van Bon (Davitamon-Lotto) @3min 49sec
+                                                    
+                                                  </li>
+                                                  <li>Florent Brard (Agritubel), s.t.
+                                                    
+                                                  </li>
+                                                  <li>Fabian Cancellara (Fassa Bortolo), s.t.
+                                                    
+                                                  </li>
+                                                  <li>Thor Hushovd (Credit Agricole), s.t.
+                                                    
+                                                  </li>
+                                                  <li>Arnaud Coyot (Cofidis), s.t.
+                                                    
+                                                  </li>
+                                                  <li>Frédéric Guesdon (FDJ) s.t.
+                                                    
+                                                  </li>
+                                                  <li>Vladimir Gusev (CSC) s.t.
+                                                    
+                                                  </li>
+                                                  <li>Erwin Thijs (Mr. Bookmaker) s.t.
+                                                    
+                                                  </li>
+                                                  <li>Nico Mattan (Davitamon-Lotto) s.t.
+                                                    
+                                                  </li>
+                                                  <li>Kevin Hulsmans (Quick Step) s.t.
+                                                    
+                                                  </li>
+                                                  <li>Steffen Wesemann (T-Mobile) s.t.
+                                                    
+                                                  </li>
+                                                  <li>Frank Hoj (Gerolsteiner) @ 4min 48sec
+                                                    
+                                                  </li>
+                                                  <li>Stuart O'Grady (Cofidis) @ 4min 52sec
+                                                    
+                                                  </li>
+                                                  <li>Pedro Horillo (Rabobank) s.t.
+                                                    
+                                                  </li>
+                                                  <li>Jeremy Hunt (Mr. Bookmaker) s.t.
+                                                    
+                                                  </li>
+                                                  <li>Marcus Ljungqvist (Liquigas) s.t.</li>
+                                                  <li>Jimmy Casper (Cofidis) s.t.</li>
+                                                  <li>Henk Vogels (Davitamon-Lotto) s.t.</li>
+                                                  <li>Koen De Kort (Liberty Seguros) s.t.</li>
+                                                  <li>Heinrich Haussler (Gerolsteiner) s.t.</li>
+                                                  <li>Roy Sentjens (Rabobank) s.t.</li>
+                                                  <li>Nicolas Jalabert (Phonak) s.t.</li>
+                                                  <li>Steven De Jongh (Rabobank)s.t.</li>
+                                                  <li>Roberto Petito (Fassa Bortolo) s.t.</li>
+                                                  <li>Enrico Franzoi (Lampre) s.t.</li>
+                                                  <li>Alessandro Cortinovis (Domina Vacanze) s.t.</li>
+                                                  <li>Johan Verstrepen (Landbouwkrediet) s.t.</li>
+                                                  <li>Leif Hoste (Discovery) s.t.</li>
+                                                  <li>Wim De Vocht (Davitamon-Lotto) s.t.</li>
+                                                  <li>Allan Johansen (CSC) s.t.</li>
+                                                  <li>Gianluca Bortolami (Lampre) s.t.</li>
+                                                  <li>Bram Tankink (Quick Step) s.t.</li>
+                                                  <li>Bert Grabsch (Phonak) s.t.</li>
+                                                  <li>Servais Knaven (Quick Step) s.t.</li>
+                                                  <li>Nick Nuyens (Quick Step) s.t.</li>
+                                                  <li>Bert Roesems (Davitamon-Lotto) s.t.</li>
+                                                  <li>Andrea Tafi (Saunier Duval) s.t.</li>
+                                                  <li>Matthé Pronk (Mr. Bookmaker) @ 5min 0sec</li>
+                                                  <li>Serguei Ivanov (T-Mobile) s.t.</li>
+                                                  <li>Christophe Mengin (FDJ) @ 5min 1sec</li>
+                                                  <li>Baden Cooke (FDJ) @ 5min 9sec</li>
+                                                  <li>Alessandro Ballan (Lampre) @ 5min 10sec</li>
+                                                  <li>Jimmy Engoulvent (Cofidis) @ 5min 38sec</li>
+                                                  <li>Bernhard Eisel (FDJ) @ 6min 30sec</li>
+                                                  <li>Rolf Aldag (T-Mobile) @ 8min 0sec</li>
+                                                  <li>Stéphane Berges (Agritubel) s.t.</li>
+                                                  <li>Carlos Barredo (Liberty Seguros) s.t.</li>
+                                                  <li>Andy Flickinger (Ag2r) @ 10min 35sec</li>
+                                                  <li>Uros Murn (Phonak) @ 10min 36sec</li>
+                                                  <li>Jaan Kirsipuu (Credit Agricole) @ 10min 36sec</li>
+                                                  <li>Nicolas Loda (Liquigas) s.t.</li>
+                                                  <li>Gorik Gardeyn (Mr. Bookmaker) s.t.</li>
+                                                  <li>Matti Breschel (CSC) s.t.</li>
+                                                  <li>Luke Roberts (CSC) s.t.</li>
+                                                  <li>Christopher Laurent (Agritubel) s.t.</li>
+                                                  <li>Sébastien Minard (RAGT Semences) s.t.</li>
+                                                  <li>Unai Yus (Bouygues Telecom) s.t.</li>
+                                                  <li>Vicente Garcia Acosta (Illes Balears) s.t.</li>
+                                                  <li>Peter Wrolich (Gerolsteiner) s.t.</li>
+                                                  <li>Camille Bouquet (Mr. Bookmaker) s.t.</li>
+                                                  <li>Angelo Furlan (Domina Vacanze) s.t.</li>
+                                                  <li>Simone Cadamuro (Domina Vacanze) s.t.</li>
+                                                  <li>Ludovic Auger (FDJ) s.t.</li>
+                                                  <li>Salvatore Commesso (Lampre) s.t.</li>
+                                                  <li>Eric Baumann (T-Mobile) @ 10min 41sec</li>
+                                                  <li>Peter Farazijn (Cofidis) @ 10min 43sec</li>
+                                                  <li>Grégory Rast (Phonak) @ 10min 45sec</li>
+                                                  <li>Aart Vierhouten (Davitamon-Lotto) @ 10min 54sec</li>
+                                                  <li>Viatcheslav Ekimov (Discovery) @ 13min 28sec</li>
+                                                  <li>Marc Wouters (Rabobank) @ 14min 5sec</li>
+                                                  <li>Erik Zabel (T-Mobile) s.t.</li>
+                                                  <li>Matthew Wilson (FDJ) @ 15min 34sec</li>
+                                                  <li>Mathew Hayman (Rabobank) s.t.</li>
+                                                  <li>Bas Giling (T-Mobile) s.t.</li>
+                                                  <li>Thomas Voeckler (Bouygues Telecom) @ 18min 16sec</li>
+                                                </ol>
+												<table cool="cool" width="564" height="858" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx="showgridx" usegridx="usegridx" gridy="16" showgridy="showgridy" usegridy="usegridy">
+													<tr height="16">
+														<td width="560" height="16" colspan="2"></td>
+														<td width="3" height="857" rowspan="5"></td>
+														<td width="1" height="16"><spacer type="block" width="1" height="16"></td>
+													</tr>
+													<tr height="368">
+														<td width="560" height="368" colspan="2" valign="top" align="left" xpos="0"><p><a name="photos" id="photos"></a>Photos</p>
+													    <p><img src="../../images-all/annual-images/images05/Paris-Roubaix1.jpg" height="364" width="550" border="0" /></p></td>
+														<td width="1" height="368"><spacer type="block" width="1" height="368"></td>
+													</tr>
+													<tr height="48">
+														<td content="content" csheight="32" width="560" height="48" colspan="2" valign="top" align="left" xpos="0">
+															<p class="cap">Boonen is the new King of the Classics, with Hincapie and Flecha just behind.</p>
+															<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-PR-andrea-tafi.jpg" width="550" height="827" alt="Andrea Tafi before the start of the 2005 Paris-Roubaix" /></p>
+															<p class="cap">The gladiator: Andrea Tafi before the start.</p>
+															<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-panorama-vertical.jpg" width="550" height="830" alt="Panorama" /></p>
+															<p class="cap">Panorama shot of riders on the cobbles</p>
+															<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-vertical-panorama.jpg" width="550" height="830" alt="Vertical panorama" /></p>
+															<p class="cap">Same place, different riders.</p>
+															<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-PR-flecha-hincapie-lar.jpg" width="635" height="517" alt="Juan Antonio Flecha leads George Hincapie and Lars Michaelsen" /></p>
+															<p class="cap">Juan Antonio Flecha (using cantilever brakes) leads George Hincapie and Lars Michaelsen</p>
+															<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-PR-wiggins.jpg" width="635" height="421" alt="Bradley Wiggins" /></p>
+															<p class="cap">Bradley Wiggins on the cobbles</p>
+															<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-PR-vertical-panorama-2.jpg" width="550" height="827" alt="Pack on the cobbles" /></p>
+															<p class="cap">The pack on the cobbles</p>
+															<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-PR-voeckler.jpg" width="650" height="431" alt="Thomas Voeckler" /></p>
+															<p class="cap">Thomas Voeckler in his French champion's jersey.</p>
+															<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-PR-knaven-tankink.jpg" width="550" height="830" alt="Servais Knaven and Brank Takink" /></p>
+															<p class="cap">Servais Knaven leads Bram Tankink</p>
+															<p class="cap">&nbsp;</p>
+														</td>
+														<td width="1" height="48"><spacer type="block" width="1" height="48"></td>
+													</tr>
+													<tr height="368">
+														<td width="560" height="368" colspan="2" valign="top" align="left" xpos="0"><img src="../../images-all/annual-images/images05/Paris-Roubaix2.jpg" height="364" width="550" border="0" /></td>
+														<td width="1" height="368"><spacer type="block" width="1" height="368"></td>
+													</tr>
+													<tr height="57">
+														<td content="content" csheight="45" width="544" height="57" valign="top" align="left" xpos="0">
+															<p class="cap">The winning break has flown the coop: Boonen, Backstedt, Michaelsen, Hincapie and Flecha. Both pictures by Fotoreporter Sirotti</p>
+												        <p><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-boonen-flecha-hincapie.jpg" width="550" height="830" alt="Tom Boonene, Juan Antonio Flecha and Georrge Hincapie" /></p>
+												        <p class="cap">Tom Boonen leads Juan Antonio Flecha and George Hincapie</p>
+												        <p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-moser-boonen-podium.jpg" width="635" height="421" alt="FRancesco Moser and Tom Boonen" /></p>
+												        <p class="cap"><a href="../../photo-galleries/rider-gallery/moser-francesco.html">Francesco Moser</a> with Tom Boonen on the podium.</p>
+												        <p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-PR-podium-boonen-hinca.jpg" width="550" height="830" alt="Final 2005 Paris-Roubiax podium" /></p>
+												        <p class="cap">Final 2005 Paris-Roubaix podium, from left: George Hincapie, Tom Boonen, Juan Antonio Flecha</p>
+												        <p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2005-paris-roubaix/2005-PR-duclos-lasal-hinaul.jpg" width="635" height="422" alt="Heroes of Paris-Roubaix" /></p>
+												        <p class="cap">Heroes of Paris:Roubaix, from left: Gilbert Duclos-Lassalle, <a href="../../photo-galleries/rider-gallery/hinault-bernard.html">Bernard Hinault</a>, Andrea and Mrs. Tafi, Francesco Moser</p></td>
+														<td width="16" height="57"></td>
+														<td width="1" height="57"><spacer type="block" width="1" height="57"></td>
+													</tr>
+													<tr height="1" cntrlrow="cntrlrow">
+														<td width="544" height="1"><spacer type="block" width="544" height="1"></td>
+														<td width="16" height="1"><spacer type="block" width="16" height="1"></td>
+														<td width="3" height="1"><spacer type="block" width="3" height="1"></td>
+														<td width="1" height="1"></td>
+													</tr>
+												</table>
+												<hr />
+												<p><b><a name="weather" id="weather"></a>Weather:</b> The predicted rain has so far held off. The wind is about 8 mph from the north, partly cloudy and the temperature is in the low 50's. </p>
+												<p><b>The finish:</b> At Pavé Sector 4 (Km 242) Flecha dropped the hammer and then it was just the three of the surviving 5 from the original 11-man break left to fight for the win. They came into the velodrome at Roubaix together. Boonen waited for the bell and easily won the sprint.</p>
+												<p><b>Km 206:</b> The riders are on Pavé Sector 11. The break has been caught by a powerful chase group. It's raining. So now the lead group of 11 is: Tom Boonen (Quick Step), Magnus Backstedt (Liquigas), George Hincapie (Discovery Channel), Lars Michaelsen (CSC), Fabian Cancellara and Juan Antonio Flecha (both Fassa Bortolo), Stephane Berges (Agritubel), Erwin Thijs (Mr Bookmaker),Carlos Barredo (Liberty Seguros), Arnaud Coyot (Cofidis) and Florent Brard (Agritubel). Leon van Bon, Kevin Hulsmans and Stefen Wesemann are the nearest chasers at 35 seconds. </p>
+												<p><b>Km 150.</b> A bad crash at Pavé Sector 21 delayed Steels, <a href="../../photo-galleries/rider-gallery/van-petegem-peter.html">Van Petegem</a> and others. The break still has over 5 minutes on the lead group. The peloton is starting to really come apart. The crash was too much. Van Petegem and Steels abandon.</p>
+												<p><b>Km 75.</b> It is getting colder and cloudier. An 8-man break that had its start at about km 40 has a 12-minute lead. The breakaways are: Sebastian Lang (Gerolsteiner), Stephane Berges (Agritubel), David Herrero (Euskaltel), Erwin Thijs (Mr Bookmaker),Carlos Barredo (Liberty Seguros), Sebastien Chavanel (Bouygues Telecom), Arnaud Coyot (Cofidis) and Florent Brard (Agritubel). The average speed for the first two hours is 44.2 kph. The first cobbles are at km 97.5.</p>
+												<p></p>
+												<table cool="cool" width="586" height="938" border="0" cellpadding="0" cellspacing="0" gridx="16" showgridx="showgridx" usegridx="usegridx" gridy="16" showgridy="showgridy" usegridy="usegridy">
+													<tr height="16">
+														<td width="576" height="16"><a name="map" id="map"></a>Route map and list of cobbles</td>
+														<td width="9" height="939" rowspan="3"></td>
+														<td width="1" height="16"><spacer type="block" width="1" height="16"></td>
+													</tr>
+													<tr height="864">
+														<td width="576" height="864" valign="top" align="left" xpos="0"><img src="../../images-all/annual-images/images05/p-r-05.jpg" height="851" width="572" border="0" /></td>
+														<td width="1" height="864"><spacer type="block" width="1" height="864"></td>
+													</tr>
+													<tr height="59">
+														<td content="content" csheight="45" width="576" height="38" valign="top" align="left" xpos="0">
+															<p class="cap">2005 Paris-Roubaix route with the cobble section highlighted., copyright Amaury Sport Organization.</p>
+														</td>
+														<td width="1" height="38"><spacer type="block" width="1" height="59"></td>
+													</tr>
+													<tr height="1" cntrlrow="cntrlrow">
+														<td width="576" height="1"><spacer type="block" width="576" height="1"></td>
+														<td width="9" height="1"><spacer type="block" width="9" height="1"></td>
+														<td width="1" height="1"></td>
+													</tr>
+												</table>
+												
+												
+												
+							
+							
+							
+							
+							
+							
+							
+																
+															
+															
+														
+															
+															
+															
+														
+							
+							There are 54.7 kilometers of cobbles in the 2005 edition of Paris-Roubaix divided into 26 sections. Although the famous Wallers-Arenberg section has not been included, riders previewing the course have been unanimous in saying that this is as tough as a race can get. The promoter has rated the pavé sections according to difficulty, 5 stars being toughest. The list below is in order as the riders approach Roubaix with the distance into the race and the length of the cobbles noted.
+
+												<dl>
+													<dd>26. Troisvilles (km 97.5 - 2200 m)***
+
+													</dd><dd>25. Viesly (km 103.8 - 1800 m) ***
+
+													</dd><dd>24. Quievy (km 106.4 - 3700 m) ****
+
+													</dd><dd>23. Quievy - Saint-Python (km 111.1 - 1500 m) **
+
+													</dd><dd>22. Escarmain (km 122.7 - 1500 m) *
+
+													</dd><dd>21. Vertain (km 126.9 - 1900 m) ***
+
+													</dd><dd>20. Du Buat (km 133.6 - 1700 m) ***
+
+													</dd><dd>Preseau (143.8 - 2000 m) *
+
+													</dd><dd>19. Aulnoy-lez-Valenciennes (km 149.7 - 2600 m) *****
+
+													</dd><dd>18. Famars (km 153 - 1200 m) ***
+
+													</dd><dd>17. Artres - Querenaing (km 155.8 - 1400 m) ***
+
+													</dd><dd>Querenaing - Maing (km 157 - 2500 m) ***
+
+													</dd><dd>16. Monchaux-sur-Ecaillon (km 160.9 - 1600 m) ***
+
+													</dd><dd>15. Haveluy (km 172.4 - 2400 m) ****
+
+													</dd><dd>14. Hornaing - Wandignies (km 178.5 - 3700 m) ***
+
+													</dd><dd>13. Warlaing - Vrillon (km 186 - 2400 m) ****
+
+													</dd><dd>Tilloy - Sars-et-Rosi&egrave;res (189.5 - 2400 m) ***
+
+													</dd><dd>12. Orchies (km 200.4 - 1700 m) ***
+
+													</dd><dd>11. Auchy-lez-Orchies (km 206,5 - 2600 m) ***
+
+													</dd><dd>10. Mons-en-P&eacute;v&egrave;le (km 212 - 3000 m) *****
+
+													</dd><dd>9. Merignies (km 218 - 700 m) **
+
+													</dd><dd>8. Pont-Thibaut (km 221.4 - 1400 m) ***
+
+													</dd><dd>7. Templeuve l'Epinette (km 226.7 - 200 m) *
+
+													</dd><dd>Le Moulin de Vertain (km 227.3 - 500 m) ***
+
+													</dd><dd>6. Cysoing - Bourghelles (km 233.6 - 1400 m) ****
+
+													</dd><dd>5. Camphin-en-P&eacute;v&egrave;le (km 239.9 - 1800 m) ****
+
+													</dd><dd>4. Le Carrefour de l'Arbre (km 242.6 - 2100 m) *****
+
+													</dd><dd>3. Gruson (km 244.8 - 1100 m) **
+
+													</dd><dd>2. Hem (km 251.4 - 1400 m) *
+
+													</dd><dd>1. Roubaix (km 257.6 - 300 m) *
+
+												</dd></dl>
+												<hr />
+												<p></p>
+											<!-- InstanceEndEditable -->
+    <!-- end .content --></div>
+ 
+  <div class="footer">
+ <hr />  
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* large banner, created 11/13/09 */
+google_ad_slot = "0514310951";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<p>&nbsp;</p>
+<p>
+  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* bottom text banner, created 2/9/09 */
+google_ad_slot = "0004268070";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+  </script>
+  <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+  <hr />
+  <table width="943" border="0">
+    <tr class="bottomenu1">
+      <td width="296" valign="top"><h3><a href="../../index.html">Home</a></h3>
+        <h3>Racing Results &amp; Archives</h3>
+        <blockquote>
+          <p><a href="../../tdf/tdfindex.html">Tour de France</a><br />
+            <a href="../../bicycle-races.html">Other Races</a><br />
+            <a href="../../annual/race2015.html">Year-to-Date Results</a><br />
+            <a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results            </a> (2001-2015)<br />
+            <a href="../../news-and-opinion/news-index.html">News &amp; Opinion</a></p>
+        </blockquote></td>
+      <td width="307" valign="top"><h3>Bicycles &amp; Cycling Lifestyle</h3>
+        <blockquote>
+          <p><a href="../../tech/bike-tech.html">Bike Tech Essays</a><br />
+            <a href="../../training-fitness/training-fitness.html">Training &amp; Coaching</a><br />
+            <a href="../../books/mcgann-publishing.html">The Bookstore</a><br />
+            <a href="../../travel/bike-travels.html">Bikes &amp; Travel</a><br />
+            <a href="../../kom/kom-index.html">KOM: A Guide to 
+            Paved Road Climbs</a><br />
+            <a href="../../comix/bike-comics.html">Comix</a><br />
+            <a href="../../food/biking-food.html">Food</a><br />
+            <a href="../../preferences/stuff-we-like.html">Stuff We Like </a><br />
+          </p>
+        </blockquote></td>
+      <td width="281" valign="top"><h3>Cycling History</h3>
+        <blockquote>
+          <p><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a><br />
+            <a href="../../oral-history.html">Oral History Project</a><br />
+            <a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></p>
+        </blockquote>
+        <h3>Site Information</h3>
+        <blockquote>
+          <p><a href="../../glossary.html">Glossary, Terms, Lists</a><br />
+            <a href="../../about-us.html">About Us</a><br />
+            <a href="../../contact-us.html">Contact </a><br />
+            <a href="../../site-map.html">Site Map</a></p>
+        </blockquote></td>
+    </tr>
+  </table>
+  <p class="bottomenu1">© McGann Publishing LLC</p>
+  <!-- end .footer --></div>
+  
+</div>
+  <!-- end .container-center --></div>
+
+</body>
+<!-- InstanceEnd --></html>
