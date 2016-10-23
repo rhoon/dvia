@@ -14,7 +14,7 @@ function isNumeric(n) {
   return !isNaN(parseFloat(n)) && isFinite(n);
 }
 
-var years = [1900, 1920, 1930, 1955, 1990]//1896,1897,1898,1899,1900,1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1919,1920,1921,1922,1923,1924,1925,1926,1927,1928,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1943,1944,1945,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015]
+var years = [1896,1897,1898,1899,1900,1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1919,1920,1921,1922,1923,1924,1925,1926,1927,1928,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1943,1944,1945,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015]
 
 function getCountries() {
 	
@@ -63,21 +63,28 @@ function getBikes(body, year) { // this function works, independently
         	console.log('s: '+ starters);
         	console.log('f: '+finishers);
         	
-        	var Race = {};
+        	// var Race = {};
         	
-        	Race.finishers = finishers;
-        	Race.starters = starters;
-        	Race.year = year;
+        	// Race.finishers = finishers;
+        	// Race.starters = starters;
+        	// Race.year = year;
+        	// Race.results = [];
 			//distance
 			
 			$('div.content').find('li').each(function(j, elem){
 				
 				var Result = {};
-
+			
 				var li = $(elem).text();
 				var hasTeam = li.includes('(');
-				var hasTime = li.includes('sec');
+				var hasTime;
 				var sameTime = li.includes('s.t.');
+				
+				if (li.includes('sec') && sameTime === false) { //1955 13-18
+					hasTime = true;
+				} else if (li.includes('min') && sameTime === false) {
+					hasTime = true;
+				} else { hasTime = false; }
 				
 				if (hasTeam) {
 					Result.name = li.split('(')[0].trim();
@@ -86,13 +93,24 @@ function getBikes(body, year) { // this function works, independently
 				
 				if (hasTime) {
 					var hasAt = li.includes('@');
-					if (hasAt) { 
+					var hasCol = li.includes(':');
+					if (hasAt===true && hasTeam===true) { 
 						Result.time = li.split('@')[1].trim();
+						lastTime = Result.time;
+					} else if (hasAt) {
+						Result.time = li.split('@')[1].trim();
+						Result.name = li.split('@')[0].trim();
 						lastTime = Result.time;
 					} else if (hasTeam) { 
 						Result.time = li.split(')')[1].trim();
+						lastTime = Result.time;
+					} else if (hasCol) {
+						Result.name = li.split(':')[0].trim();
+						Result.time = li.split(':')[1].trim();
+						lastTime = Result.time;
 					} else {
-						Result.time = 'Missed';
+						Result.name = li;
+						Result.time = 'ERROR - CHECK NAME';
 					}
 				} else if (sameTime) {
 					Result.time = lastTime;
@@ -105,16 +123,23 @@ function getBikes(body, year) { // this function works, independently
 					Result.name = li.trim();
 				} 
 				
+				Result.name.replace('Ã©', 'é');
+				Result.name.replace('Ã¨', 'è');
+				
 				console.log($(elem).text().trim());
 				
 				Result.rank = j+1;
-				//country? 
 				
-				console.log(Result);
+				//if not using layered JSON
+				Result.finishers = finishers;
+        		Result.starters = starters;
+        		Result.year = year;
+        		Result.results = [];
 				
-			// 	races.push(Result);
+				races.push(Result);
 			
 			}); //end .each
+
 
 }
 
@@ -122,7 +147,7 @@ function getBikes(body, year) { // this function works, independently
 input();
 
 
-	// fs.writeFile('races-bri.json', JSON.stringify(races), function(err) {
- //       if (err) {throw err;}
- //       console.log("done");
- //   });
+	fs.writeFile('races-bri.json', JSON.stringify(races), function(err) {
+        if (err) {throw err;}
+        console.log("done");
+    });
