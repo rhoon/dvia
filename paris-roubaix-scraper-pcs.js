@@ -39,7 +39,7 @@ function getBikes(body, year) { // this function works, independently
 
         	var $ = cheerio.load(body);
         	
-			var distance = $('.entryHeader h2 span.red').html().replace(/[()]/g, '');
+			var distance = $('.entryHeader h2').text().split('(')[1].replace(/[)]/g, '');
 			// console.log('distance: ' + distance);
 			
 			$('div.result').find('div.line').each(function(j, elem){

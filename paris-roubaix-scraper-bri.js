@@ -178,7 +178,6 @@ function getBikes(body, year) { // this function works, independently
 				Result.finishers = finishers;
         		Result.starters = starters;
         		Result.year = year;
-        		Result.results = [];
 				
 				races.push(Result);
 			
