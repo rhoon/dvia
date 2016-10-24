@@ -29,7 +29,7 @@ function input() {
 	
     for (var item in years) {
 
-        content = fs.readFileSync('race-data/race'+years[item]+'.txt');
+        content = fs.readFileSync('race-data-pcs/race'+years[item]+'.txt');
         getBikes(content, years[item]);
     }
     
@@ -70,7 +70,7 @@ input();
 // var content = fs.readFileSync('paris-roubaix-testPage2.html');
 // getBikes(content, 1981);
 
-	fs.writeFile('races.json', JSON.stringify(races), function(err) {
+	fs.writeFile('races-pcs.json', JSON.stringify(races), function(err) {
         if (err) {throw err;}
         console.log("done");
     });

@@ -3,6 +3,7 @@ var cheerio = require('cheerio');
 var request = require('request');
 var async = require('async');
 
+var winningTime;
 var lastTime;
 
 var races = [];
@@ -28,6 +29,7 @@ function getCountries() {
 		country.abbr = countriesRaw[i].split(';')[1];
 		countries.push(country);
 	}
+	
 } // end getCountries
 
 
@@ -41,6 +43,47 @@ function input() {
         
     }
     
+}
+
+function toSeconds(timeToParse, rank) {
+	console.log('READ RANK - '+ rank);
+	
+	var totalSecs = 0;
+	
+	var hasHours = timeToParse.includes('hr');
+	var hasMin = timeToParse.includes('min');
+	var hasSecs = timeToParse.includes('sec');
+	
+	if (hasHours) {
+		var hours = parseFloat(timeToParse.split('hr')[0]);
+		totalSecs += (hours*3600) //conver hours to seconds
+	}
+	
+	if (hasMin) {
+		var min = timeToParse.split('min')[0].trim();
+		if (hasHours) {
+			min = min.split('hr')[1].trim();
+		}
+		totalSecs += (parseFloat(min)*60);
+	}
+	
+	if (hasSecs) {
+		var secs = timeToParse.split('sec')[0].trim();
+		if (hasMin) {
+			secs = secs.split('min')[1].trim();
+		}
+		totalSecs += parseFloat(secs);
+	}
+	
+	//////////////// NEEDS TO BE FIXED for s.t. second place case
+	if (rank == '1') {
+		winningTime = totalSecs;
+	} else {
+		totalSecs = winningTime + totalSecs;
+	}
+	
+	return totalSecs;
+	
 }
 
 function getBikes(body, year) { // this function works, independently
@@ -60,15 +103,6 @@ function getBikes(body, year) { // this function works, independently
         	if (isNumeric(finishers) == false) { finishers = 'NA'; }
         	if (isNumeric(starters) == false) { starters = 'NA'; }
         	
-        	console.log('s: '+ starters);
-        	console.log('f: '+finishers);
-        	
-        	// var Race = {};
-        	
-        	// Race.finishers = finishers;
-        	// Race.starters = starters;
-        	// Race.year = year;
-        	// Race.results = [];
 			//distance
 			
 			$('div.content').find('li').each(function(j, elem){
@@ -76,6 +110,7 @@ function getBikes(body, year) { // this function works, independently
 				var Result = {};
 			
 				var li = $(elem).text();
+				li = li.replace(':', '').replace(',','');
 				var hasTeam = li.includes('(');
 				var hasTime;
 				var sameTime = li.includes('s.t.');
@@ -91,6 +126,7 @@ function getBikes(body, year) { // this function works, independently
 					Result.team = li.split('(')[1].split(')')[0].trim();
 				}
 				
+				// set times, if they exist
 				if (hasTime) {
 					var hasAt = li.includes('@');
 					var hasCol = li.includes(':');
@@ -110,9 +146,9 @@ function getBikes(body, year) { // this function works, independently
 						lastTime = Result.time;
 					} else {
 						Result.name = li;
-						Result.time = 'ERROR - CHECK NAME';
+						Result.time = 'READ-ERR';
 					}
-				} else if (sameTime) {
+				} else if (sameTime) { // set time for same time, check for no-team exception
 					Result.time = lastTime;
 					if (hasTeam === false) {
 						Result.name = li.split('s.t.')[0].trim();
@@ -126,9 +162,17 @@ function getBikes(body, year) { // this function works, independently
 				Result.name.replace('Ã©', 'é');
 				Result.name.replace('Ã¨', 'è');
 				
-				console.log($(elem).text().trim());
-				
 				Result.rank = j+1;
+				
+				// parse times for math
+				if (hasTime && Result.time != 'READ-ERR') {
+					Result.time = toSeconds(Result.time, Result.rank);
+				} else if (sameTime) {
+					// set equal to previous time 
+					Result.time = races[(races.length-1)].time;
+				}
+				
+				console.log($(elem).text().trim());
 				
 				//if not using layered JSON
 				Result.finishers = finishers;
