@@ -17,7 +17,7 @@ for (var racer = 0; racer < racesPCS.length; racer++) {
     
     var thisYear = parseFloat(racesPCS[racer].year);
     
-    if (thisYear == 1896) {
+    if (thisYear == 1896) { 
         var Race = new Object();
         Race.year = parseFloat(racesPCS[racer].year);
         Race.distKm = parseFloat(racesPCS[racer].distance.replace('k',''));
@@ -33,6 +33,7 @@ for (var racer = 0; racer < racesPCS.length; racer++) {
         Race.year = parseFloat(racesPCS[racer].year);
         Race.distKm = parseFloat(racesPCS[racer].distance.replace('k',''));
         races.push(Race);
+        
     }
 }
 
@@ -40,6 +41,10 @@ for (var racer = 0; racer < racesPCS.length; racer++) {
 
 for (var racer in racesBRI) {
     
+    if (racesBRI[racer].finishers == 'NA') {
+        rankFix(racesBRI[racer].year);
+    }
+
     for (var race in races) {
         
         if (racesBRI[racer].year == races[race].year) {
@@ -51,6 +56,31 @@ for (var racer in racesBRI) {
         }
     }
 
+}
+
+// if NA is detected, loop through all racers with this year, find the max rank and assign that to finishers
+function rankFix(year) {
+    
+    var maxRank = 0;
+    
+    for (racer in racesBRI) {
+        if (racesBRI[racer].year == year) {
+            if (racesBRI[racer].rank > maxRank) {
+                maxRank = racesBRI[racer].rank;
+            }
+        } else if (racesBRI[racer].year > year) {
+            console.log(maxRank)
+            console.log(racesBRI[racer].year);
+            break;
+        }
+    }
+    
+    for (racer in racesBRI) {
+        if (racesBRI[racer].year == year) {
+            racesBRI[racer].finishers = maxRank;
+        }
+    }
+    
 }
 
 // console.log(racesBRI);
