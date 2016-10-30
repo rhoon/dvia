@@ -325,7 +325,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
                                                   <li>Benoit Joachim (US Postal) s.t.</li>
                                                   <li>Stephan Schreck (T-Mobile) s.t.</li>
                                                   <li>Max Van Heeswijk (US Postal) s.t.</li>
-                                                  <li>Wim Vansevenant (Lotto-Domo) 2 13min 32sec</li>
+                                                  <li>Wim Vansevenant (Lotto-Domo) @ 13min 32sec</li>
                                                   <li>Steffan Radochla (Illes Balears) s.t.</li>
                                                   <li>Stefano Zanini (Quick Step) @ 13min 33sec</li>
                                                   <li>Dario Pieri (Saeco) s.t.</li>
@@ -350,7 +350,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
                                                   <li>Francesco Chicchi (Fassa Bortolo) s.t.</li>
                                                   <li>Lars Ytting Bak (Bankgiroloterij) s.t.</li>
                                                   <li>Stijn Devolder (US Postal) @ 35min 10sec</li>
-                                                  <li>Bobbie Traksel (Rabobank) 2 43min 9sec</li>
+                                                  <li>Bobbie Traksel (Rabobank) @ 43min 9sec</li>
                                                   <li>Jérémy Roy (FDJ) @ 51min 8sec</li>
                                                 </ol>
 												<hr />

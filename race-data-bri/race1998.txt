@@ -281,7 +281,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
                                                   <li>Ludovic Auger (Big Mat-Auber 93) s.t.</li>
                                                   <li>Servais Knaven (TVM-Farm Frites) s.t.</li>
                                                   <li>Geert Van Bondt (TVM-Farm Frites) @ 15min 43sec</li>
-                                                  <li>Marco Serpellini (Brescialat-Liquigas) @ @ 15min 46sec</li>
+                                                  <li>Marco Serpellini (Brescialat-Liquigas) @ 15min 46sec</li>
                                                   <li>Eros Poli (GAN) @ 17min 53sec</li>
                                                   <li>Christophe Mengin (FDJ) @ 17min 43sec</li>
                                                   <li>Peter Farazijn (Lotto-Mobistar) @ 19min 29sec</li>

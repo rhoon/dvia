@@ -221,13 +221,13 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 													<ol><iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963611&asins=0985963611&linkId=YMQKS2NSSUQLFKUQ&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
 </iframe>
 
-                                                      <li>Josef Fischer, riding for Diamant (Germany) 9hr 17min</li>
+                                                      <li>Josef Fischer (Germany) 9hr 17min</li>
 													  <li>Charles Meyer (Denmark) @ 25min </li>
 													  <li><a href="../../photo-galleries/rider-gallery/garin-maurice.html">Maurice Garin</a> (France) @ 28min</li>
 													  <li>Arthur Linton (Great Britain) @ 45min</li>
 													  <li>Lucien Stein (France) @ 1hr 1min</li>
 													  <li>Boinet (France) @ 1hr 1min 50sec</li>
-													  <li>&quot;Eo&quot;, pseudonym of Emile van Berendonck (Belgium) @ 1hr 7min 30sec</li>
+													  <li>Emile van Berendonck (Belgium) @ 1hr 7min 30sec</li>
 													  <li>Henri Aries (France) @ 1hr 51min</li>
 													  <li>Gaston Pachot @ 2hr 2min</li>
 													  <li>Mercier, Sr (France) @ 2hr 16min</li>
@@ -238,7 +238,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 													  <li>Amédée Naert @ 4hr 16min</li>
 													  <li>Fritz Vanderstuyft @ 4hr 17min</li>
 													  <li>Vendredi (Great Britain) @ 4hr 25min</li>
-													  <li>Emile Taquet (France) @ 5ht 16min </li>
+													  <li>Emile Taquet (France) @ 5hr 16min </li>
 													  <li>Arsène Millocheau (France) @ 5hr 43sec</li>
 													  <li>Lecornu (France) @ 7hr 13min</li>
 													  <li>Revilio Norsath (France) @ 8hr 1min</li>
@@ -250,13 +250,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 													  <li>Theron (Belgium) @ 20hr 33min</li>
 													  <li>Albert Dumas @ 20hr 58min</li>
                                                   </ol>
-													<p>In addition, www.memoire-du-cyclisme.net lists the four following riders in the Regional Category (Catégorie Régionaux):</p>
-													<ol>
-													  <li>Liseron (France) 14hr 27min</li>
-													  <li>Ernest Dubois (France) @ 1hr 35min</li>
-													  <li>Quivy (France) @ 4hr 59min</li>
-													  <li>Asseman (France) @ 7hr 4min</li>
-									              </ol>
+
 													<hr />
 													<p></p>
 												</div>

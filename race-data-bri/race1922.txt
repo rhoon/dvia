@@ -238,8 +238,6 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
       <li>Marcel Huot (JB Louvet-Soly) s.t.</li>
       <li>Léon Despotin @ 34min 30sec</li>
       <li>Léon Devos @ 36min</li>
-      <iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0984311769&asins=0984311769&linkId=&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
-</iframe>
 
       <li>Jules Nempon (Nempon Cycles) @ 42min</li>
       <li>René Chassot s.t.</li>
@@ -270,17 +268,17 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
       <li>Joseph Archelais @ 1hr 33min</li>
       <li>Adolphe Willocq (Leman) s.t.</li>
       <li>Félix Sellier (Alcyon-Dunlop) @ 1hr 37min</li>
-      <li>Gaston Degy (Peugeot-Wolber) @ 1hr 43sec</li>
+      <li>Gaston Degy (Peugeot-Wolber) @ 1hr 43min</li>
       <li>Marius Aubry @ 1hr 56min</li>
-      <li>Georges Lebrun @ 2min 4sec</li>
+      <li>Georges Lebrun @ 2hr 4min</li>
       <li>Roger Bouhours @ 2hr 7min</li>
       <li>Jean Kienlen s.t.</li>
       <li>Robert Constantin @ 2hr 9min</li>
       <li>Robert Assé</li>
       <li>Léon Poncelet @ 2hr 10min</li>
       <li>Louis Veau @ 2hr 15min</li>
-      <li>Louis Lemitère @ 1hr 17min</li>
-      <li>Aramis Lefebvre @ 1hr 17min</li>
+      <li>Louis Lemitère @ 2hr 17min</li>
+      <li>Aramis Lefebvre @ 2hr 17min</li>
       <li>Gaetan Savoye @ 2hr 21min</li>
       <li>Joseph Jumet @ 2hr 32min</li>
       <li>Charles Hennuyer @ 2hr 41min</li>

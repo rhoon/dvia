@@ -237,7 +237,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
                                                       <li>Emile Bouhours (France) 7hr 10min 30sec</li>
 													  <li>Josef Fischer (Germany) @ 18min</li>
-													  <li><a href="../../photo-galleries/rider-gallery/garin-maurice.html">Maurice Garin</a> (France) @ 38min 30sec. Garin did not complete the track laps on the Roubaix velodrome, but was awarded third anyway.</li>
+													  <li>Maurice Garin (France) @ 38min 30sec.</li>
 													  <li>Lucien Itsweire (France) @ 56min 30sec</li>
 													  <li>Oscar Lepoutre (France) @ 1hr 55min 30sec</li>
 													  <li>Edouard Simon (France) @ 3hr 29min 30sec</li>

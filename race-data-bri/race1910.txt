@@ -243,7 +243,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
       <li>Louis Kranskens @ 39min</li>
       <li>Jean Bouillet (JB Louvet) @ 40min</li>
       <li>Omer Verschoore @ 41min</li>
-      <li>Henri Devroye (Bovy Cycles) @ 43sec</li>
+      <li>Henri Devroye (Bovy Cycles) @ 43min</li>
       <li>Pierre-Joseph Heusghem @ 44min</li>
       <li>Victor Dethier (Royal Sarolea) @ 45min</li>
       <li>Achille Depauw @ 46min</li>

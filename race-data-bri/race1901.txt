@@ -255,7 +255,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 													  <li>Jean Gougolz (Switzerland) s.t.</li>
 													  <li>Jean-Baptiste Valat (France) @ 3hr 41min 44sec</li>
 													  <li>J. Olivier (France) @ 7hr 9min 24sec</li>
-													  <li>Marcel Morvan (France) 2 7hr 15min 24sec</li>
+													  <li>Marcel Morvan (France) @ 7hr 15min 24sec</li>
                                                   </ol>
 												</div>
 												<hr />

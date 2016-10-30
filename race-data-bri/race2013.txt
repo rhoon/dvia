@@ -336,7 +336,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 													  <li>Dominic Klemme (IAM Cycling) s.t.</li>
 													  <li>Andreas Schillinger (NetApp-Endrua) s.t.</li>
 													  <li>Zakkari Dempster (NetApp-Endura) s.t.</li>
-													  <li>Luke Rowe (Sky) @ 16min 16sec</li>
+													  <li>Luke Rowe (Sky) @ 26min 16sec</li>
 													  <li>Luke Durbridge (Orica-GreenEdge) s.t.</li>
 													  <li>Edward King (Cannondale) s.t.</li>
 													  <li>William Clarke (Argos-shimasno) s.t.</li>

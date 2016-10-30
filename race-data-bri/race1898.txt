@@ -242,23 +242,23 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 												  <ol><iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963611&asins=0985963611&linkId=YMQKS2NSSUQLFKUQ&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
 </iframe>
 
-                                                    <li><a href="../../photo-galleries/rider-gallery/garin-maurice.html">Maurice Garin</a> (France) 8hr 13min 16sec </li>
+                                                    <li>Maurice Garin (France) 8hr 13min 16sec </li>
 												    <li>August Stéphane @ 29min 32sec</li>
-												    <li>Edouard Wattelier (France) 2 33min 52sec</li>
+												    <li>Edouard Wattelier (France) 33min 52sec</li>
 												    <li>Jean Bertin (France) @ 46min 25sec</li>
 												    <li>Charles Meyer (Denmark) @ 1hr 12min 58sec</li>
 												    <li>Rodolfo Muller (Italy) @ 1hr 31min 30sec</li>
 												    <li>Gaston Herrinck (Belgium) @ 1hr 59min 54sec</li>
-												    <li>Jules Cordier (Belgium) 2 2hr 8min 15sec</li>
+												    <li>Jules Cordier (Belgium) 2hr 8min 15sec</li>
 												    <li>Liegeois (France) @ 2hr 33min 0sec</li>
 												    <li>François Monachon (Switzerland) @ 2hr 39min 4sec</li>
 												    <li>Emile Taquet (France) @ 2hr 45min 44sec</li>
 												    <li>Yvon (France) @ 3hr 18min 59sec</li>
 												    <li>Edouard Dubreucq (Belgium) @ 3hr 19min 1sec</li>
 												    <li>Modeste (France) @ 4hr 29min 34sec</li>
-												    <li>Charles Habert (France) @ 29min 37sec</li>
+												    <li>Charles Habert (France) @ 4hr 29min 37sec</li>
 												    <li>H. Duconseil (France) @ 5hr 11min 10sec</li>
-												    <li>Blin (France) 2 6hr 4min 4sec</li>
+												    <li>Blin (France) 6hr 4min 4sec</li>
 												    <li>Frits Vanderstuyft (Belgium) @ 6hr 57min 24sec</li>
 											      </ol>
 												</div>

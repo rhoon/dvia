@@ -56,7 +56,6 @@ function getBikes(body, year) { // this function works, independently
 				Result.year = year;
 				Result.distance = distance;
 				
-				
 				races.push(Result);
 			
 			}); //end .each

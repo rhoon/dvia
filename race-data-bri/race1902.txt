@@ -256,13 +256,13 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 													  <li>Alfred Pottier (Belgium) @ 2hr 5min 3sec</li>
 													  <li>Eugène Larose (France) @ 2hr 5min 31sec</li>
 													  <li>Julien Sales (Belgium) @ 2hr 6min 31sec</li>
-													  <li>Marcel Valpic (France) @ 2hr 221min 31sec</li>
+													  <li>Marcel Valpic (France) @ 2hr 21min 31sec</li>
 													  <li>Julien Lootens (Belgium) @ 2hr 29min 31sec</li>
 													  <li>Heussler (Germany) @ 2hr 29min 31sec</li>
 													  <li>Cyprien Guitton (France) @ 3hr 23min 31sec</li>
 													  <li>Edouard Simon (France) s.t.</li>
 													  <li>Charles Habert (France) @ 3hr 24min 31sec</li>
-													  <li>Alfred Moreau (France) @ 3h 29min 31sec</li>
+													  <li>Alfred Moreau (France) @ 3hr 29min 31sec</li>
 													  <li>Armand Périn (France) @ 6hr 48min 31sec</li>
 													  <li>A. Wattripont (Belgium) @ 8hr 6min 31sec</li>
 													  <li>Louis Goetz (France) s.t.</li>

@@ -231,7 +231,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 													  <li>Boinet (France) @ 1hr 43min 3sec</li>
 													  <li>Henri Aries (France) @ 1hr 53min 12sec</li>
 													  <li>Guillochin (France @ 2hr 3min 30sec</li>
-													  <li>*Léopold Trousselier (France) @ 2hr 3min 30sec. Elapsed time of 13hr 0min 51sec, first amateur</li>
+													  <li>*Léopold Trousselier (France) @ 2hr 3min 30sec</li>
 													  <li>*Laferrière (France) @ 2hr 19min 9sec</li>
 													  <li>*Charlier (France) @ 2hr 47min</li>
 													  <li>*Fantol (France) @ 2hr 51min</li>

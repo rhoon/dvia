@@ -463,7 +463,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 														</tr>
 														<tr>
 															<td width="40">45</td>
-															<td>Christophe Capelle Fra) GAS</td>
+															<td>Christophe Capelle (Fra) GAS</td>
 															<td>s.t.</td>
 														</tr>
 														<tr>

@@ -263,7 +263,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
       <li>Benjamin Mortier @ 1hr 20min 50sec</li>
       <li>Emile Lachaise (Evom) @ 2hr 0min 50sec</li>
       <li>Léon Naessens @ 2hr 15min 50sec</li>
-      <li>Alexandre Gilles (Monteil-Russian-America) @ 1hr 30min 50sec</li>
+      <li>Alexandre Gilles (Monteil-Russian-America) @ 2hr 30min 50sec</li>
       <li>Raoul Grieux (Hildebrand-Continental) s.t.</li>
       <li>Antoine d'Annunzio s.t.</li>
       <li>Paul Naboulet @ 2hr 32min 50sec</li>
@@ -272,7 +272,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
       <li>A. Davaux @ 2hr 46min 50sec</li>
       <li>Raymond Harguet @ 3hr 3min 50sec</li>
       <li>Louis Delcampe @ 4hr 47min 50sec</li>
-      <li>André Gérard @ 5min 37min 50sec</li>
+      <li>André Gérard @ 5hr 37min 50sec</li>
       <li>Pierre Dané s.t.</li>
       <li>A. Marion s.t.</li>
       <li>Louis Poyet s.t.</li>

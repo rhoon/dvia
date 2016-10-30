@@ -236,8 +236,8 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
       <li>Hector Heusghem (La Sportive) @ 1hr 20min</li>
       <li>Ernest Géry s.t.</li>
       <li>Ernest Lemaire s.t.</li>
-      <li>Jules Matton @ 1hr 33sec</li>
-      <li>Guillaume Theys @ 1hr @ 1hr 35min</li>
+      <li>Jules Matton @ 1hr 33min</li>
+      <li>Guillaume Theys @ 1hr 35min</li>
       <li>Eugène Dhers (La Sportive) @ 1hr 36min</li>
       <li>Joseph Schoettel s.t.</li>
       <li>Camille Botte (JB Louvet) s.t.</li>

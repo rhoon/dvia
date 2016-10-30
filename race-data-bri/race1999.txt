@@ -283,7 +283,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
                                                   <li>Johan Capiot (TVM-Farm Frites) s.t.</li>
                                                   <li>Hendrick Van dyck (TVM-Farm Frites) s.t.</li>
                                                   <li>Andrej Hauptman (Vini Caldirola) @ 10min 49sec</li>
-                                                  <li>Paul Van Hyfte (Lotto-Mobistar) 2 11min 51sec</li>
+                                                  <li>Paul Van Hyfte (Lotto-Mobistar) @ 11min 51sec</li>
                                                   <li>Henk Vogels (Credit Agricole) s.t.</li>
                                                   <li>Anthony Rokia (Cofidis) @ 13min 39sec</li>
                                                   <li>Bert Hiemstra (Rabobank) s.t.</li>

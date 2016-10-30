@@ -256,7 +256,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
                                                   <li>Andrea Tafi (Mapei-GB) s.t.</li>
                                                   <li>Bert Dietz (Telekom) s.t.</li>
                                                   <li>Wilfried Nelissen (lotto) s.t.</li>
-                                                  <li>Steve Bauer (Motorola) 2 2min 24sec</li>
+                                                  <li>Steve Bauer (Motorola) @ 2min 24sec</li>
                                                   <li>Nicola Loda (MG-Technogym) s.t.</li>
                                                   <li>Gilbert Duclos-Lassalle (GAN) @ 2min 36sec</li>
                                                   <li>Stefano Zanini (Gewiss) s.t.</li>
@@ -302,7 +302,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
                                                   <li>Michel Dernies (Motorola) s.t.</li>
                                                   <li>Frank Corvers (Lotto) s.t.</li>
                                                   <li>Ludwig Willems (Mapei-GB) s.t.</li>
-                                                  <li>Ludo Dierckxsens (Collstrop) 2 9min 5sec</li>
+                                                  <li>Ludo Dierckxsens (Collstrop) @ 9min 5sec</li>
                                                   <li>Brian Holm (Telekom) s.t.</li>
                                                   <li>Paul Van Hyfte (Lotto) @ 10min 4sec</li>
                                                   <li>Gabriele Missaglia (Brescialat) @ 11min 15sec</li>

@@ -236,7 +236,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 												<p><img src="../../images-all/classics-images/paris-roubaix-hist/1996-PR-Museeuw-Johan.jpg" width="600" height="406" alt="Johan Museeuw wins the 1996 Paris-Roubaix" /></p>
 												<p><strong>Complete Results:</strong></p>
                                                 <ol>
-                                                  <li><a href="../../photo-galleries/rider-gallery/museeuw-johan.html">Johan Museeuw</a> (Mapei-GB) 5hr 5min 0sec. 43.32 km/hr</li><iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963611&asins=0985963611&linkId=YMQKS2NSSUQLFKUQ&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
+                                                  <li><a href="../../photo-galleries/rider-gallery/museeuw-johan.html">Johan Museeuw</a> (Mapei-GB) 6hr 5min 0sec. 43.32 km/hr</li><iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963611&asins=0985963611&linkId=YMQKS2NSSUQLFKUQ&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
 </iframe>
 
                                                   <li>Gianluca Bortolami (Mapei-GB) s.t.</li>

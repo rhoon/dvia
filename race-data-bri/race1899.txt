@@ -293,7 +293,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 													  <li>Pierre Chevalier (France) @ 54min 9sec</li>
 													  <li>Eugène Jay (France) @ 1hr 53min 7sec</li>
 													  <li>Marcel Kerff (Belgium) @ 1hr 57min 37sec</li>
-													  <li>Lucien Itsweire (France) 2 1hr 58min 10sec</li>
+													  <li>Lucien Itsweire (France) @ 1hr 58min 10sec</li>
 													  <li>Dubus (France) @ 2hr 0min 53sec</li>
 													  <li>Lucien Delattre (France) @ 2hr 39min 7sec</li>
 													  <li>Jean Fischer (France) @ 3hr 20min 19sec</li>
