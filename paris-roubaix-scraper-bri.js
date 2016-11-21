@@ -42,6 +42,7 @@ function input() {
 function get1994(body, year) {
 	
 	var $ = cheerio.load(body);
+	console.log($);
 	
 	$('div.content table').eq(0).find('tr').each(function(j, elem){
 		
