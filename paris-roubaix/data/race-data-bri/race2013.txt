@@ -1,0 +1,1007 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/bri-template.dwt" codeOutsideHTMLIsLocked="true" -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>2013 Paris - Roubaix bicycle race complete results</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+			<meta name="keywords" content="Paris - Roubaix 2013">
+			<meta name="description" content="Paris - Roubaix, 2013">
+<meta name="keywords" content="2013 Paris-Roubaix bicycle race complete results" />
+<meta name="description" content="2013 Paris-Roubaix bicycle race complete results" />
+<!-- InstanceEndEditable -->
+
+<link href="../../bri-stylesheet2.css" rel="stylesheet" type="text/css" />
+<style type="text/css" media="screen"> @import url("../../bri-stylesheet2.css"); </style>
+
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+#menuh{float:none;}
+body{behavior:url(../csshover.htc); font-size:100%;}
+#menuh ul li{float:left; width: 100%;}
+#menuh a{height:1%;font:bold 0.7em/1.4em arial, sans-serif;}
+</style>
+<![endif]-->
+</head>
+
+<body>
+
+
+<div class="container">
+  <div class="header"><img src="../../images/logo-banner.gif" alt="BikeRaceInfo: Current and historical race results, plus interviews, bikes, travel, and cycling history" /></p>  
+
+
+<div id="menuh-container">
+<div id="menuh">
+	<ul>
+		<li><a href="../../index.html" class="top_parent">Home</a>
+		
+		</li>
+	</ul>
+	
+	<ul>	
+		<li><a href="#" class="top_parent">Racing Results & Archives</a>
+        <ul>
+			<li><a href="../../tdf/tdfindex.html">Tour de France</a></li>
+			<li><a href="../../bicycle-races.html">Other Races</a></li>
+			<li><a href="../../annual/race2016.html">Year-to-Date Race Results</a></li>
+			<li><a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results</a></li>
+			<li><a href="../../news-and-opinion/news-index.html">News & Opinion</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Cycling History</a>
+        <ul>
+			<li><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a></li>
+			<li><a href="../../oral-history.html">Oral History Project</a></li>
+			<li><a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></li>
+			<li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Bicycles & Cycling Lifestyle</a>
+        <ul>
+			<li><a href="../../tech/bike-tech.html">Bike Tech Essays</a></li>
+			<li><a href="../../training-fitness/training-fitness.html">Training & Fitness</a></li>
+            <li><a href="../../commentary/commentary-index.html">Commentary</a></li>
+			<li><a href="../../books/mcgann-publishing.html">The Bookstore</a></li>
+			<li><a href="../../travel/bike-travels.html">Bikes & Travel</a></li>
+			<li><a href="../../kom/kom-index.html">KOM: A Guide to Paved Road Climbs</a></li>
+            <li><a href="../../comix/bike-comics.html">Comix</a></li>
+            <li><a href="../../food/biking-food.html">Food</a></li>
+            <li><a href="../../preferences/stuff-we-like.html">Stuff We Like</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="#" class="top_parent">Site Information</a>
+        <ul>
+			<li><a href="../../about-us.html">About Us</a></li>
+			<li><a href="../../contact-us.html">Contact Us</a></li>
+            <li><a href="../../features/advertise.html">Media Kit</a></li>
+            <li><a href="../../glossary.html">Glossary, Terms, Lists</a></li>
+			<li><a href="../../site-map.html">Site Map</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+		
+	
+	
+</div> 	<!-- end the menuh-container div -->  
+</div>	<!-- end the menuh div --> 
+ 
+ 
+    <!-- end .header --></div>
+
+ <div class="sidebar1">
+     <div class="newad">
+  <p><img src="../../images/follow-ad.gif" usemap="#Map" border="0" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="115,6,163,50" href="http://www.facebook.com/Starrzy#!/pages/McGann-Publishing-LLC/116660391692056?ref=ts" target="_blank" alt="find us on Facebook" border="0"/>
+      <area shape="rect" coords="168,8,216,50" href="http://www.twitter.com/BikeRaceInfo" target="_blank" alt="follow us on twitter" />
+      <area shape="rect" coords="221,3,299,49" href="http://www.youtube.com/user/McGannPublishing/videos" target="_blank" alt="See our youtube channel" />
+    </map>
+   
+    
+  
+   <img src="../../logos/sponsors.gif" />  
+  <a href="../../books/melanoma-started-freckle.html"><img src="../../logos/melanoma-book-ad.jpg" alt="Melanoma: It started with a freckle" border="0" /></a>    
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.bikyle.com" target="_blank"><img src="../../logos/BiKyle.gif" alt="Cycles BiKyle" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.schwabcycles.com" target="_blank"><img src="../../logos/schwab.gif" alt="Schwab Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+    <a href="http://www.velojerseys.com" target="_blank"><img src="../../logos/velojerseys.jpg" alt="Classic cycling jerseys" border="0" /></a>
+    
+   <img src="../../logos/spacer.gif" />
+    <a href="http://www.smartcycles.com" target="_blank"><img src="../../logos/smart.gif" alt="Smart Cycles" border="0" /></a>
+    
+    <img src="../../logos/spacer.gif" />
+     <a href="http://sscycleworks.com/" target="_blank"><img src="../../logos/s-salem-mond-ad.gif" alt="South Salem Cycleworks Mondonico frames" border="0" /></a>
+   
+    <img src="../../logos/spacer.gif" />
+   
+       <a href="../../features/advertise.html" target="_blank"><img src="../../logos/advertise-bri.gif" alt="Advertise with us!" border="0" /></a>
+
+    <img src="../../logos/spacer.gif" />
+     <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* right side */
+google_ad_slot = "2395833724";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+   
+    <img src="../../logos/spacer.gif" />
+     <a href="http://www.Cycleitalia.com" target="_blank"><img src="../../logos/cycleitalia.jpg" alt="CycleItalia cycling tours" border="0" /></a>
+   
+    </div>
+       
+    <!-- end .sidebar1 --></div>
+
+
+   
+ 
+
+
+  <div class="content">
+  <div class="header2">
+  <div class="contenthd2b">
+  Search our site:
+<script>
+  (function() {
+    var cx = '017815655590841525944:tti8xwrgf7s';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+  </div>
+  <div class="contenthd2a">
+  <!-- BEGIN: Constant Contact Stylish Email Newsletter Form -->
+<div align="center">
+<div style="width:160px; background-color: #ffffff;">
+<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:3;"><span style="background-color: #86e486; float:right;margin-right:5;margin-top:3"><img src="https://imgssl.constantcontact.com/ui/images1/visitor/email1_trans.gif" alt="Email Newsletter icon, E-mail Newsletter icon, Email List icon, E-mail List icon" border="0"></span>
+<font style="font-weight: bold; font-family:Arial; font-size:16px; color:#0d5e01;">Sign up for our Email Newsletter</font>
+<input type="text" name="ea" size="20" value="" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;">
+<input type="submit" name="go" value="GO" class="submit"  style="font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px;">
+<input type="hidden" name="llr" value="ozjmfnjab">
+<input type="hidden" name="m" value="1109617157934">
+<input type="hidden" name="p" value="oi">
+</form>
+</div>
+</div>
+
+
+
+  </div>
+  </div> 
+    <!-- InstanceBeginEditable name="HeaderText" -->
+    <div align="center">
+													  <h1>2013 Paris - Roubaix </h1>
+													  <h2>111th edition: Sunday, April 7, 2013</h2>
+													</div>
+												<!-- InstanceEndEditable -->
+  <!-- InstanceBeginEditable name="PageText" -->
+												<div align="left">
+													<p><a href="paris-roubaix-index.html">Paris-Roubaix podium history</a> | <a href="pr2012.html">2012 edition</a> | <a href="pr2014.html">2014 edition</a> | <a href="#map">Race map</a> | <a href="#pave">Pavé sectors</a> | <a href="#photos">Race Day Photos</a> | <a href="#pre">Pre-race photos</a> | <a href="#startlist">Startlist with backnumbers</a> |</p>
+													<p> Paris (Compiègne) - Roubaix, 254.5 km.	<br />
+												    27	pavé	sectors	totaling	52.6	km </p>
+													<p><img src="../../images-all/annual-images/images09/PR1.jpg" width="600" height="398" alt="Paris-Roubaix cobbles" /></p>
+													<p><strong>The Race:</strong> Weather at Cambrai, France (top of small inset of route map below) 12:45 local time: 6C (43F), some clouds. Cobbled sectors are dry and dusty.</p><iframe src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wwwbikeracein-20&marketplace=amazon&region=US&placement=0985963611&asins=0985963611&linkId=YMQKS2NSSUQLFKUQ&show_border=true&link_opens_in_new_window=true" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" class="fltrt" style="width:120px;height:240px;">
+</iframe>
+
+                                                    <p>With about 50 km to go (the Mons-en-Pévèle sector) the peloton was together. A few kilometers earlier Cancellara had hit the front and from then on the level of aggression went up and riders started to come off. At about 45 km to go it was down to about 15 riders.</p>
+													<p>While riders were going off the front (about 35 km to go) Fabian Cancellara went back to the team car, pehaps trying to make the otheres think he was having a bad day. Then boom! With 31 km to go Cancellara left his chasing group and starting moving up. At 25 km to go Sep Vanmarcke and Stijn Vandenbergh were 32 seconds in front of the Cancellara group.</p>
+													<p>At 23 km to go (Bourghelles à Wannehain) Cancellara went again, this time taking only Zdenek Stybar while Vanmarcke and Vandenbergh remained 21 seconds in front. At 19 to go Cancellara with Stybar had closed up to the lead duo.</p>
+													<p>At the Carrefour de l&rsquo;Arbre sector both Stybar and Vandenbergh hit roadside fans. That left Cancellara and Vanmarcke in front. At 4 km to go Cancellara put in a huge attack but Vanmarcke closed up without a lot of trouble.</p>
+													<p>They entered the velodrome together with Vanmarcke in the lead. Vanmarcke led out the sprint but Fabian Cancellara came around at the end to win by a bike length for his third Paris-Roubaix.</p>
+													<p><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-finish.jpg" width="600" height="384" alt="Paris-Roubaix finish" /></p>
+													<p><strong>Complete Results:</strong> 198 starters and 118 classified finishers.</p>
+													<p>Photos are posted below results, map and cobbled sectors list.</p>
+													<ol>
+													  <li>Fabian Cancellara (Radio Shack) 5hr 45min 33sec. 44.190 km/hr</li>
+													  <li>Sep Vanmarcke (Blanco) s.t.</li>
+													  <li>Niki Terpstra (Omega Pharma-Quick Step) @ 31sec</li>
+													  <li>Greg van Avermaet (BMC) s.t.</li>
+													  <li>Damien Gaudin (Europcar) s.t.</li>
+													  <li>Zdenek Stybar (Omega Pharma-Quick Step) @ 39sec</li>
+													  <li>Sebastian Langeveld (Orica-GreenEdge) s.t.</li>
+													  <li>Juan Antonio Flecha (Vacansoleil) s.t.</li>
+													  <li>Alexander Kristoff (Katusha) @ 50sec</li>
+													  <li>Sébastien Turgot (Europcar) s.t.</li>
+													  <li>Heinrich Haussler (IAM Cycling) s.t.</li>
+													  <li>Bernhard Eisel (Sky) s.t.</li>
+													  <li>Maarten Wynants (Blanco) s.t.</li>
+													  <li>Lars Boom (Blanco) s.t.</li>
+													  <li>Matti Breschel (Saxo-Tinkoff) s.t.</li>
+													  <li>Bjorn Leukemans (Vacansoleil) s.t.</li>
+													  <li>Steve Chainel (Ag2r) s.t.</li>
+													  <li>Maarten Tjallingii (Blanco) s.t.</li>
+													  <li>Sylvain Chavanel (Omega Pharma-Quick Step) s.t.</li>
+													  <li>Stijn Vandenberghe (Omega Pharma-Quick Step) s.t.</li>
+													  <li>Luca Paolini (Katusha) @ 1min 0sec</li>
+													  <li>Filippo Pozzato (Lampre-Merida) @ 2min 52sec</li>
+													  <li>Taylor Phinney (BMC) @ 3min 13sec</li>
+													  <li>Marcel Sieberg (Lotto-Belisol) s.t.</li>
+													  <li>Ramon Sinkeldam (Argos-Shimano) s.t.</li>
+													  <li>Johan Le Bon (FDJ) @ 3min 17sec</li>
+													  <li>Lloyd Mondory (Ag2r) s.t.</li>
+													  <li>John Degenkolb (Argos-Shimano) @ 3min 29sec</li>
+													  <li>Adrien Petit (Cofidis) s.t.</li>
+													  <li>Robert Wagner (Blanco) s.t.</li>
+													  <li>Jacobo Guarnieri (Astana) s.t.</li>
+													  <li>Fabio Sabatini (Cannondale) s.t.</li>
+													  <li>Roger Kluge (NetApp-Endura) s.t.</li>
+													  <li>Michael Schär (BMC) s.t.</li>
+													  <li>Thor Hushovd (BMC) s.t.</li>
+													  <li>Tom Veelers (Argos-Shimano) s.t.</li>
+													  <li>Francisco Ventoso (Movistar) s.t.</li>
+													  <li>Iljo Keisse (Omega Pharma-Quick Step) s.t.</li>
+													  <li>Marco Bandiera (IAM Cycling) s.t.</li>
+													  <li>Gaël Malacarne (Bretagne-Seche Environnement) s.t.</li>
+													  <li>Martin Elmiger (IAM Cycling) s.t.</li>
+													  <li>Sébastien Hinault (IAM Cycling) s.t.</li>
+													  <li>Jurgen Roelandts (Lotto-Belisol) s.t.</li>
+													  <li>Bert de Backer (Argos-Shimano) s.t.</li>
+													  <li>Sébastien Minard (Ag2r) s.t.</li>
+													  <li>Jens Keukeleire (Orica-GreenEdge) s.t.</li>
+													  <li>Edvald Boasson Hagen (Sky) s.t.</li>
+													  <li>Bjorn Thurau (Europcar) s.t.</li>
+													  <li>Vladimir Gusev (Katusha) @ 3min 32sec</li>
+													  <li>Johan van Summeren (Garmin-Sharp) s.t.</li>
+													  <li>Ian Stannard (Sky) s.t.</li>
+													  <li>Mathew Hayman (sky) s.t.</li>
+													  <li>Hayden Roulston (Radio Shack) @ 6min 7sec</li>
+													  <li>Stijn Devolder (Radio Shack) @ 6min 11sec</li>
+													  <li>Gert Steegmans (Omega Pharma-Quick Step) s.t.</li>
+													  <li>Maciej Bodnar (Cannondale) s.t.</li>
+													  <li>Kris Boeckmans (Vacansoleil) s.t.</li>
+													  <li>Tyler Farrar (Garmin-Sharp) @ 8min 37sec</li>
+													  <li>José Joaquin Rojas (Movistar) @ 10min 27sec</li>
+													  <li>Ioannis Tamouridis (Euskaltel) s.t.</li>
+													  <li>Yuaheni Hutarovich (Ag2r) s.t.</li>
+													  <li>Florent Barle (Cofidis) s.t.</li>
+													  <li>José Ivan Gutierrez (Movistar) s.t.</li>
+													  <li>Rüdiger Selig (Katusha) s.t.</li>
+													  <li>Pierre-Luc Perichon (Bretagne-Seche Environnement) s.t.</li>
+													  <li>Jos van Emden (Blanco) s.t.</li>
+													  <li>Viacheslav Kuznetsov (Katusha) s.t.</li>
+													  <li>André Greipel (Lotto-Belisol) s.t.</li>
+													  <li>Arnaud Labbe (Cofidis) s.t.</li>
+													  <li>Jack Bauer (Garmin-Sharp) s.t.</li>
+													  <li>Manuel Quinziato (BMC) s.t.</li>
+													  <li>William Bonnet (FDJ) @ 10min 30sec</li>
+													  <li>Martijn Maaskant (Garmin-Sharp) @ 13min 16sec</li>
+													  <li>Nikolas Maes (Omega Pharma-Quick Step) @ 13min 42sec</li>
+													  <li>Clément Koretzky (Bretagne-Seche Environnement) s.t.</li>
+													  <li>Dmitriy Muravyev (Astana) @ 14min 34sec</li>
+													  <li>Cyril Lemoine (Sojasun) s.t.</li>
+													  <li>Roy Curvers (Argos-Shimano) s.t.</li>
+													  <li>Geraint Thomas (Sky) s.t.</li>
+													  <li>Jesse Sergent (Radio Shack) s.t.</li>
+													  <li>Boy van Poppel (Vacansoleil) s.t.</li>
+													  <li>Imanol Erviti (Movistar) s.t.</li>
+													  <li>Kristijan Koren (Cannondale) s.t.</li>
+													  <li>Bob Jungels (Radio Shack) s.t.</li>
+													  <li>Benoit Jarrier (Bretagne-Seche Environnement) s.t.</li>
+													  <li>Gregory Rast (Radio Shack) @ 14min 38sec</li>
+													  <li>Matteo Tosatto (Saxo-Tinkoff) s.t.</li>
+													  <li>Yohann Gene (Europcar) s.t.</li>
+													  <li>Andrea Francesco Palini (Lampre-Merida) s.t.</li>
+													  <li>Arnaud Demare (FDJ) @ 14min 40sec</li>
+													  <li>Wesley Kreder (Vacansoleil) s.t.</li>
+													  <li>Jonathan Cantwell (Saxo-Tinkoff) s.t.</li>
+													  <li>Vegard Stake Laengen (Bretagne-Seche Environnement) s.t.</li>
+													  <li>Jonas Aaen Jorgensen (Saxo-Tinkoff) s.t.</li>
+													  <li>Jan Barta (NetApp-Endura) @ 19min 12sec</li>
+													  <li>Stuart O'Grady (Orica-GreenEdge) @ 20min 37sec</li>
+													  <li>Gabriel Rasch (Sky) s.t.</li>
+													  <li>Anders Lund (Saxo-Tinkoff) s.t.</li>
+													  <li>Ricardo Garcia Ambroa (Euskaltel) s.t.</li>
+													  <li>Yannick Talabardon (Sojasun) s.t.</li>
+													  <li>Yaroslav Popovych (Radio Shack) s.t.</li>
+													  <li>Gediminas Bagdonas (Ag2r) s.t.</li>
+													  <li>Michael Mokov (Saxo-Tinkoff) @ 25min 31sec</li>
+													  <li>Luca Sebastian Haedo (Cannondale) s.t.</li>
+													  <li>Marko Kump (Saxo-Tinkoff) s.t.</li>
+													  <li>Dominic Klemme (IAM Cycling) s.t.</li>
+													  <li>Andreas Schillinger (NetApp-Endrua) s.t.</li>
+													  <li>Zakkari Dempster (NetApp-Endura) s.t.</li>
+													  <li>Luke Rowe (Sky) @ 26min 16sec</li>
+													  <li>Luke Durbridge (Orica-GreenEdge) s.t.</li>
+													  <li>Edward King (Cannondale) s.t.</li>
+													  <li>William Clarke (Argos-shimasno) s.t.</li>
+													  <li>Arman Kamyshev (Astana) s.t.</li>
+													  <li>Jetse Bol (Blanco) s.t.</li>
+													  <li>Russell Downing (NetApp-Endura) s.t.</li>
+													  <li>Andrea Guardini (Astana) s.t.</li>
+													  <li>Morgan Lamoisson (Europcar) s.t.</li>
+													  <li>Christopher Juul-Jensen (Saxo-Tinkoff) s.t.</li>
+                                                  </ol>
+													<hr />
+													<p><a name="map" id="map"></a><strong>Race map</strong></p>
+													<p><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-paris-roubiax-map.jpg" width="588" height="844" alt="2013 Paris-Roubaix map" /></p>
+													<p class="cap">2013 Paris-Roubaix map</p>
+													<hr />
+													<p><a name="pave" id="pave"></a><strong>Pavé sectors:</strong></p>
+													<table id="tableHorairesNormal">
+													  <thead>
+													    <tr>
+													      <th width="64">Sector</th>
+													      <th width="104">Kilometers</th>
+													      <th width="338">Name</th>
+													      <th width="100">Length</th>
+												        </tr>
+												      </thead>
+													  <tbody>
+													    <tr>
+													      <td>27</td>
+													      <td>98.5</td>
+													      <td>Troisvilles à Inchy</td>
+													      <td>2.2 km</td>
+												        </tr>
+													    <tr>
+													      <td>26</td>
+													      <td>105</td>
+													      <td>Viesly à Quiévy</td>
+													      <td>1.8</td>
+												        </tr>
+													    <tr>
+													      <td>25</td>
+													      <td>107.5</td>
+													      <td>Quiévy à Saint-Python</td>
+													      <td>3.7</td>
+												        </tr>
+													    <tr>
+													      <td>24</td>
+													      <td>112.5</td>
+													      <td>Saint-Python</td>
+													      <td>1.5</td>
+												        </tr>
+													    <tr>
+													      <td>23</td>
+													      <td>120</td>
+													      <td>Vertain à Saint-Martin-sur-Écaillon</td>
+													      <td>2.3</td>
+												        </tr>
+													    <tr>
+													      <td>22</td>
+													      <td>130</td>
+													      <td>Verchain-Maugré à Quérénaing</td>
+													      <td>1.6</td>
+												        </tr>
+													    <tr>
+													      <td>21</td>
+													      <td>133</td>
+													      <td>Quérénaing à Maing</td>
+													      <td>2.5</td>
+												        </tr>
+													    <tr>
+													      <td>20</td>
+													      <td>136.5</td>
+													      <td>Maing à Monchaux-sur-Écaillon</td>
+													      <td>1.6</td>
+												        </tr>
+													    <tr>
+													      <td>19</td>
+													      <td>149.5</td>
+													      <td>Haveluy à Wallers</td>
+													      <td>2.5</td>
+												        </tr>
+													    <tr>
+													      <td>18</td>
+													      <td>158</td>
+													      <td>Trouée d'Arenberg</td>
+													      <td>2.4</td>
+												        </tr>
+													    <tr>
+													      <td>17</td>
+													      <td>164</td>
+													      <td>Wallers à Hélesmes</td>
+													      <td>1.6</td>
+												        </tr>
+													    <tr>
+													      <td>16</td>
+													      <td>170.5</td>
+													      <td>Hornaing à Wandignies-Hamage</td>
+													      <td>3.7</td>
+												        </tr>
+													    <tr>
+													      <td>15</td>
+													      <td>178</td>
+													      <td>Warlaing à Brillon</td>
+													      <td>2.4</td>
+												        </tr>
+													    <tr>
+													      <td>14</td>
+													      <td>181.5</td>
+													      <td>Tilloy à Sars-et-Rosières</td>
+													      <td>2.4</td>
+												        </tr>
+													    <tr>
+													      <td>13</td>
+													      <td>188</td>
+													      <td>Beuvry-la-Forêt à Orchies</td>
+													      <td>1.4</td>
+												        </tr>
+													    <tr>
+													      <td>12</td>
+													      <td>193</td>
+													      <td>Orchies</td>
+													      <td>1.7</td>
+												        </tr>
+													    <tr>
+													      <td>11</td>
+													      <td>199</td>
+													      <td>Auchy-lez-Orchies à Bersée</td>
+													      <td>2.6</td>
+												        </tr>
+													    <tr>
+													      <td>10</td>
+													      <td>205</td>
+													      <td>Mons-en-Pévèle</td>
+													      <td>3.0</td>
+												        </tr>
+													    <tr>
+													      <td>9</td>
+													      <td>211</td>
+													      <td>Mérignies à Avelin</td>
+													      <td>0.7</td>
+												        </tr>
+													    <tr>
+													      <td>8</td>
+													      <td>214.5</td>
+													      <td>Pont-Thibaut à Ennevelin</td>
+													      <td>1.4</td>
+												        </tr>
+													    <tr>
+													      <td>7</td>
+													      <td>220.5</td>
+													      <td>Templeuve (Moulin-de-Vertain)</td>
+													      <td>0.5</td>
+												        </tr>
+													    <tr>
+													      <td>6</td>
+													      <td>227</td>
+													      <td>Cysoing à Bourghelles</td>
+													      <td>1.3</td>
+												        </tr>
+													    <tr>
+													      <td>6</td>
+													      <td>229.5</td>
+													      <td>Bourghelles à Wannehain</td>
+													      <td>1.1</td>
+												        </tr>
+													    <tr>
+													      <td>5</td>
+													      <td>234</td>
+													      <td>Camphin-en-Pévèle</td>
+													      <td>1.8</td>
+												        </tr>
+													    <tr>
+													      <td>4</td>
+													      <td>236.5</td>
+													      <td>Carrefour de l&rsquo;Arbre</td>
+													      <td>2.1</td>
+												        </tr>
+													    <tr>
+													      <td>3</td>
+													      <td>239</td>
+													      <td>Gruson</td>
+													      <td>1.1</td>
+												        </tr>
+													    <tr>
+													      <td>2</td>
+													      <td>246</td>
+													      <td>Willems à Hem</td>
+													      <td>1.4</td>
+												        </tr>
+													    <tr>
+													      <td>1</td>
+													      <td>253</td>
+													      <td>Roubaix</td>
+													      <td>0.3</td>
+												        </tr>
+													    <tr>
+													      <td> </td>
+													      <td> </td>
+													      <td>Total length of pavè sectors</td>
+													      <td>52.6 km</td>
+												        </tr>
+												      </tbody>
+												  </table>
+													<hr />
+													<p><a name="photos" id="photos"></a><strong>Race Day Photos:</strong></p>
+													<p><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-demare-arnaud-troisvil.jpg" width="600" height="397" alt="Arnaud Demare" /></p>
+													<p class="cap">Arnaud Demare at Troisvilles à Inchy, the first cobbled sector</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-farrar-tyler-troisvill.jpg" width="600" height="397" alt="Tyler Farrar" /></p>
+													<p class="cap">Tyler Farrar at Troisvilles à Inchy</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-bak-lars-troisville.jpg" width="600" height="397" alt="Lars Ytting Bak" /></p>
+													<p class="cap">Lars Ytting Bak</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-devolder-stijn.jpg" width="600" height="397" alt="Stijn Devolder at Quérénaing à Maing" /></p>
+													<p class="cap">Stijn Devolder at Quérénaing à Maing</p>
+													<p><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-arenberg.jpg" width="600" height="397" alt="Arenberg forest" /></p>
+													<p class="cap">Arenberg Forest</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-phinney-arenberg.jpg" width="600" height="397" alt="Taylor Phinney rides the Arenberg cobbles" /></p>
+													<p class="cap">Taylor Phinney on the Arenberg cobbles</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-arenberg-van-summeren.jpg" width="600" height="397" alt="Johan van Summeren" /></p>
+													<p class="cap">Johan Vansummeren in the Arenberg</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-hushovd.jpg" width="600" height="397" alt="Thor Hushovd" /></p>
+													<p class="cap">Thor Hushovd (BMC)</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-schar-o-grady.jpg" width="600" height="397" alt="Michael Schär and Stuart O'Grady " /></p>
+													<p class="cap">Michael Schär and Stuart O'Grady at Warlaing à Brillon</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-orchies-sector.jpg" width="397" height="600" alt="Orchies sector" /></p>
+													<p class="cap">Orchies sector</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-orchies-2.jpg" width="600" height="397" alt="Orchies sector" /></p>
+													<p class="cap">Another view of the Orchies cobbles</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-schar-hayman-auchy.jpg" width="600" height="397" alt="Michael Shcar and Matthew Hayman" /></p>
+													<p class="cap">Michael Schär leads Matthew Hayman at Auchy-lez-Orchies à Bersée </p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-gaudin-damien-orchies.jpg" width="600" height="397" alt="Damien Gaudin" /></p>
+													<p class="cap">Damien Gaudin at Auchy-lez-Orchies à Bersée riding up to the break. </p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-elmiger-martin.jpg" width="600" height="397" alt="Martin Elmiger" /></p>
+													<p class="cap">Martin Elmiger at Auchy-lez-Orchies à Bersée													</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-cancellara-eisel.jpg" width="600" height="397" alt="Cancellara and Eisel" /></p>
+													<p class="cap">Fabian Cancellara and Bernhard Eisel at Auchy-lez-Orchies à Bersée</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-flecha-juan.jpg" width="600" height="397" alt="Juan Antonio Flecha" /></p>
+													<p class="cap">Juan Antonio Flecha at Mons-en-Pévèle</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-degenkolb-john.jpg" width="600" height="397" alt="John Degenkolb" /></p>
+													<p class="cap">Jon Degenkolb</p>
+													<p><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-cancellara-bourghelles.jpg" width="600" height="397" alt="Fabain Canellara" /></p>
+													<p class="cap">Fabian Cancellara leadying Zdenek Stybar at Cysoing à Bourghelles</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-vanmarcke-carrefour.jpg" width="600" height="397" alt="Sep Vanmarcke" /></p>
+													<p class="cap">Sep Vanmarcke leads Cancellara through Carrefour de l&rsquo;Arbre</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-terpstra-carrefour.jpg" width="600" height="397" alt="Niki Terpstra" /></p>
+													<p class="cap">Niki Terpstra at Carrefour de l'Arbre</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-paolini-luca.jpg" width="600" height="397" alt="Luca Paolini" /></p>
+													<p class="cap">Luca Paolini</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-chavnel--sylvain--carr.jpg" width="600" height="397" alt="Sylvain Chavanel" /></p>
+													<p class="cap">Sylvain Chavanel</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-pozzato-filippo.jpg" width="600" height="397" alt="Filippo pozzato" /></p>
+													<p class="cap">Filippo Pozzato</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-vanmarcke-cancellar-ve.jpg" width="600" height="397" alt="Sep Vanmarcke and Fabian Cancellara" /></p>
+													<p class="cap">Sep Vanmarcke leads Fabian Cancellara on the Roubaix velodrome</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-finish-2.jpg" width="600" height="397" alt="Fabian Cancellara" /></p>
+													<p class="cap">And Cancellara celbrates his third Paris-Roubaix victory</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-cancellara-after.jpg" width="600" height="397" alt="Fabian Cancellara" /></p>
+													<p class="cap">Cancellara after the race.</p>
+													<p><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-podium.jpg" width="600" height="397" alt="2013 Paris-Roubaix podium" /></p>
+													<p class="cap">2013 podium, from left: Sep Vanmarcke, Fabian Cancellara and Niki Terpstra</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/2013-cancellara-podium.jpg" width="397" height="600" alt="Fabian Cancellara" /></p>
+													<p class="cap">Fabian Cancellara hoists his third Paris-Roubaix cobblestone trophy</p>
+													<hr />
+													<p><a name="pre" id="pre"></a><strong>Pre-Race photos:</strong></p>
+													<p><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-cancellara-fabian.jpg" width="600" height="397" alt="Fabian Cancellara" /></p>
+													<p class="cap">Fabian Cancellara</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/orchies-sector.jpg" width="600" height="397" alt="Orchies Sector" /></p>
+													<p class="cap">Orchies sector</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-stablinski-monumnet.jpg" width="600" height="397" alt="Jean Stablinski monument" /></p>
+													<p class="cap">Monumnet to Jean Stablinski, who discovered the Arenberg cobbled sector</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-arenberg.jpg" width="600" height="397" alt="Arenberg Forest" /></p>
+													<p class="cap">Arenberg Forest</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-vancansoleil.jpg" width="600" height="397" alt="Vacansoleil" /></p>
+													<p class="cap">Vacansoleil trains in the Arenberg Forest</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-grepel.jpg" width="600" height="397" alt="André Greipel" /></p>
+													<p class="cap">André Greipel</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-saxo-tinkoff.jpg" width="600" height="397" alt="Saxo-Tinkoff" /></p>
+													<p class="cap">Saxo-Tinkoff</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-blanco-orchies.jpg" width="600" height="397" alt="Blanco" /></p>
+													<p class="cap">Blanco trains on the Orchies sector</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-blanco-arenberg.jpg" width="600" height="397" alt="Blanco in the Arenberg" /></p>
+													<p class="cap">Blanco in the Arenberg</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-bozic-borut.jpg" width="600" height="397" alt="Borut Bozic" /></p>
+													<p class="cap">Astana hope Borut Bozic</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-radio-shack.jpg" width="600" height="397" alt="Radio Shack" /></p>
+													<p class="cap">Radio Shack on the Orchies sector</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-europcar.jpg" width="600" height="397" alt="Europcar in the Arenberg" /></p>
+													<p class="cap">Europcar in the Arenberg. Note the cantilever brakes. See also that the side of the road has been plowed. There's nowhere safe to ride.</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-rojas-jose.jpg" width="600" height="397" alt="José Joaquin Rojas" /></p>
+													<p class="cap">José Joaquin Rojas</p>
+													<p class="cap"><img src="../../images-all/classics-images/paris-roubaix/2013-p-r/pre-pozzato.jpg" width="600" height="397" alt="Filippo Pozzato" /></p>
+													<p class="cap">Filippo Pozzato</p>
+													<hr />
+													<p><a name="startlist" id="startlist"></a><strong>Startlist (April 6, 2013) with backnumbers:</strong></p>
+													<p>Omega Pharma - Quick-Step<br />
+													  Director: Wilfried Peeters
+													  <br />
+1. CHAVANEL Sylvain<br />
+2. KEISSE Iljo<br />
+3. MAES Nikolas<br />
+4. STEEGMANS Gert<br />
+5. STYBAR Zdenek<br />
+6. TERPSTRA Niki<br />
+7. VAN KEIRSBULCK Guillaume<br />
+8. VANDENBERGH Stijn<br />
+</p>
+													<p>Europcar<br />
+													  Director: Dominique Arnould
+													  <br />
+													  11. TURGOT Sébastien<br />
+													  12. CHAVANEL Sébastien<br />
+													  13. COUSIN Jérôme<br />
+													  14. GAUDIN Damien<br />
+													  15. GENE Yohann<br />
+													  16. LAMOISSON Morgan<br />
+													  17. THURAU Bjorn<br />
+													  18. VEILLEUX David</p>
+													<p><br />
+													  RadioShack - Leopard<br />
+													  Director: Dirk Demol
+													  <br />
+													  21. CANCELLARA Fabian<br />
+													  22. DEVOLDER Stijn<br />
+													  23. IRIZAR Markel<br />
+													  24. JUNGELS Bob<br />
+													  25. POPOVYCH Yaroslav<br />
+													  26. RAST Gregory<br />
+													  27. ROULSTON Hayden<br />
+													  28. SERGENT Jesse</p>
+													<p><br />
+													  BMC <br />
+													  Director: Fabio Baldato
+													  <br />
+													  31. HUSHOVD Thor<br />
+													  32. BURGHARDT Marcus<br />
+													  33. OSS  Daniel<br />
+													  34. PHINNEY Taylor<br />
+													  35. QUINZIATO Manuel<br />
+													  36. SCHAR Michael<br />
+													  37. VAN AVERMAET Greg<br />
+													  38. WYSS Danilo</p>
+													<p><br />
+													  Sky <br />
+													  Director: Servais Knaven
+													  <br />
+													  41. BOASSON HAGEN  Edvald<br />
+													  42. EISEL Bernhard<br />
+													  43. HAYMAN Mathew<br />
+													  44. PUCCIO Salvatore<br />
+													  45. RASCH Gabriel<br />
+													  46. ROWE Luke<br />
+													  47. STANNARD Ian<br />
+													  48. THOMAS Geraint</p>
+													<p><br />
+													  Blanco<br />
+													  Director: Nico Verhoeven
+													  <br />
+													  51. BOOM Lars<br />
+													  52. BOL Jetse<br />
+													  53. FLENS Rick<br />
+													  54. TJALLINGII Maarten<br />
+													  55. VAN EMDEN  Jos<br />
+													  56. VANMARCKE Sep<br />
+													  57. WAGNER Robert<br />
+													  58. WYNANTS Maarten</p>
+													<p><br />
+													  Katusha <br />
+													  Director: Guennadi Mikhailov
+													  <br />
+													  61. KRISTOFF Alexander<br />
+													  62. GUSEV Vladimir<br />
+													  63. HALLER Marco<br />
+													  64. ISAICHEV Vladimir<br />
+													  65. KUZNETSOV Viacheslav<br />
+													  66. PAOLINI Luca<br />
+													  67. SELIG Rüdiger<br />
+													  68. SMUKULIS Gatis</p>
+													<p><br />
+													  Garmin - Sharp<br />
+													  Director: Johnny Weltz
+													  <br />
+													  71. VANSUMMEREN Johan<br />
+													  72. BAUER Jack<br />
+													  73. FARRAR Tyler<br />
+													  74. KLIER Andreas<br />
+													  75. KREDER Raymond<br />
+													  76. MAASKANT Martijn<br />
+													  77. RATHE Jacob<br />
+													  78. ROSSELER Sebastien</p>
+													<p><br />
+													  FDJ<br />
+													  Director: Marc Madiot
+													  <br />
+													  81. LADAGNOUS Matthieu<br />
+													  82. BONNET William<br />
+													  83. BOUCHER David<br />
+													  84. DELAGE Mickaël<br />
+													  85. DEMARE Arnaud<br />
+													  86. FISCHER Murilo Antonio<br />
+													  87. LE BON Johan<br />
+													  88. OFFREDO Yoann</p>
+													<p><br />
+													  Lotto-Belisol<br />
+													  Director: Herman Frison
+													  <br />
+													  91. ROELANDTS Jurgen<br />
+													  92. BAK Lars Ytting<br />
+													  93. DEHAES Kenny<br />
+													  94. DEBUSSCHERE Jens<br />
+													  95. GREIPEL André<br />
+													  96. HENDERSON  Gregory<br />
+													  97. REYNES Vicente<br />
+													  98. SIEBERG Marcel</p>
+													<p><br />
+													  Astana<br />
+													  Director: Stefano Zanini
+													  <br />
+													  101. BOZIC Borut<br />
+													  102. GUARDINI Andrea<br />
+													  103. GUARNIERI Jacopo<br />
+													  104. HUFFMAN Evan<br />
+													  105. KAMYSHEV Arman<br />
+													  106. MURAVYEV Dmitriy<br />
+													  107. TLEUBAYEV Ruslan<br />
+													  108. GRIVKO Andriy<br />
+													  </p>
+													<p>Orica-GreenEdge<br />
+													  Director: Laurenzo Lepage
+													  <br />
+													  111. O'GRADY Stuart<br />
+													  112. BEPPU Fumiyuki<br />
+													  113. COOKE Baden<br />
+													  114. DOCKER Mitchell<br />
+													  115. DURBRIDGE Luke<br />
+													  116. KEUKELEIRE Jens<br />
+													  117. LANGEVELD Sebastian<br />
+													  118. MOURIS Jens</p>
+													<p><br />
+													  Vacansoleil - DCM<br />
+													  Director: Hilaire Van der Schueren
+													  <br />
+													  121. FLECHA Juan Antonio<br />
+													  122. BOECKMANS Kris<br />
+													  123. KREDER Wesley<br />
+													  124. LEUKEMANS Bjorn<br />
+													  125. LINDEMAN Bert Jan<br />
+													  126. SELVAGGI Mirko<br />
+													  127. VAN POPPEL Boy<br />
+													  128. VEUCHELEN Frederik</p>
+													<p><br />
+													  Lampre - Merida<br />
+													  Director: Fabrizio Bontempi
+													  <br />
+													  131. POZZATO Filippo<br />
+													  132. FAVILLI Elia<br />
+													  133. GRAZIATO Massimo<br />
+													  134. PALINI Andrea<br />
+													  135. PETACCHI Alessandro<br />
+													  136. ARIEL RICHEZE Maximiliano<br />
+													  137. VIGANO Davide<br />
+													  138. WACKERMANN Luca</p>
+													<p><br />
+													  Saxo-Tinkoff<br />
+													  Director: Tristan Hoffman
+													  <br />
+													  141. TOSATTO Matteo<br />
+													  142. BRESCHEL Matti<br />
+													  143. CANTWELL Jonathan<br />
+													  144. AAEN JORGENSEN Jonas<br />
+													  145. JUUL-JENSEN Christopher<br />
+													  146. KUMP Marko<br />
+													  147. LUND  Anders<br />
+													  148. MORKOV Michael<br />
+													  </p>
+													<p>IAM Cycling<br />
+													  Director: Eddy Seigneur
+													  <br />
+													  151. HAUSSLER Heinrich<br />
+													  152. BANDIERA Marco<br />
+													  153. ELMIGER Martin<br />
+													  154. GODDAERT Kristof<br />
+													  155. HINAULT Sébastien<br />
+													  156. KLEMME Dominik<br />
+													  157. LARSSON Gustav<br />
+													  158. SARAMOTINS Aleksejs</p>
+													<p><br />
+													  Argos  - Shimano<br />
+													  Director: Marc Reef
+													  <br />
+													  161. DEGENKOLB John<br />
+													  162. CLARKE William<br />
+													  163. CURVERS Roy<br />
+													  164. DE BACKER Bert<br />
+													  165. DE KORT Koen<br />
+													  166. SINKELDAM Ramon<br />
+													  167. STAMSNIJDER Tom<br />
+													  168. VEELERS Tom</p>
+													<p><br />
+													  AG2R-La Mondiale<br />
+													  Director: Vincent Lavenu
+													  <br />
+													  171. CHAINEL Steve<br />
+													  172. APPOLLONIO Davide<br />
+													  173. BAGDONAS Gediminas<br />
+													  174. HOULE Hugo<br />
+													  175. HUTAROVICH Yauheni<br />
+													  176. IGLINSKIY Valentin<br />
+													  177. MINARD Sébastien<br />
+													  178. MONDORY Lloyd</p>
+													<p><br />
+													  Sojasun<br />
+													  Director: Stéphane Heulot<br />
+													  181. ENGOULVENT Jimmy<br />
+													  182. DANIEL Maxime<br />
+													  183. LABORIE Christophe<br />
+													  184. LEMOINE Cyril<br />
+													  185. MARTIAS Rony<br />
+													  186. PAIANI Jean-Lou<br />
+													  187. SISKEVICIUS Evaldas<br />
+													  188. TALABARDON Yannick</p>
+													<p><br />
+													  Cannondale<br />
+													  Director: Stefano Zanatta
+													  <br />
+													  191. BODNAR Maciej<br />
+													  192. BOIVIN Guillaume<br />
+													  193. DA DALTO Mauro<br />
+													  194. HAEDO Lucas Sebastian<br />
+													  195. KING Edward<br />
+													  196. KOREN Kristjan<br />
+													  197. MARANGONI Alan<br />
+													  198. SABATINI Fabio</p>
+													<p><br />
+													  Cofidis<br />
+													  Director: Alain Deloeuil
+													  <br />
+													  201. PETIT Adrien<br />
+													  202. BARLE Florent<br />
+													  203. GARCIA Egoitz<br />
+													  204. GHYSELINCK Jan<br />
+													  205. JOEAAR Gert<br />
+													  206. LABBE Arnaud<br />
+													  208. SIJMENS Nico<br />
+													  208. ZINGLE Romain</p>
+													<p><br />
+													  NetApp – Endura<br />
+													  Director: Enrico Poitschke
+													  <br />
+													  211. KLUGE Roger<br />
+													  212. BARTA Jan<br />
+													  213. DEMPSTER Zakkari<br />
+													  214. DOWNING Russell<br />
+													  215. EICHLER Markus<br />
+													  216. JARC Blaz<br />
+													  217. SCHILLINGER Andreas<br />
+													  218. WETTERHALL Alexander</p>
+													<p><br />
+													  Movistar<br />
+													  Director: José-Luis Jaimerena
+													  <br />
+													  221. ROJAS José Joaquin<br />
+													  222. DOWSETT Alex<br />
+													  223. ERVITI Imanol<br />
+													  224. GUTIERREZ José Ivan<br />
+													  225. HERRADA LOPEZ Jesús<br />
+													  226. TERUEL Eloy<br />
+													  227. VENTOSO Francisco José<br />
+													  228. VISCONTI Giovanni</p>
+													<p><br />
+													  Bretagne- Séché Environnement<br />
+													  Director: Emmanuel Hubert
+													  <br />
+													  231. DELPECH Jean-luc<br />
+													  232. DION Renaud<br />
+													  233. JARRIER Benoît<br />
+													  234. KORETZKY Clément<br />
+													  235. LAENGEN Vegard Stake<br />
+													  236. MALACARNE Gaël<br />
+													  237. PERICHON Pierre-luc<br />
+													  238. VACHON Florian</p>
+													<p><br />
+													  Euskaltel - Euskadi<br />
+													  Director: Oscar Guerrero
+													  <br />
+													  241. BILBAO  Peio<br />
+													  242. GARCIA AMBROA Ricardo<br />
+													  243. OROZ Juan José<br />
+													  244. RADOCHLA Steffen<br />
+													  245. SAEZ DE ARREGI Adrian<br />
+													  246. SCHULZE Andre<br />
+													  247. SEREBRYAKOV Alexander<br />
+													  248. TAMOURIDIS Ioannis </p>
+    </div>
+											<!-- InstanceEndEditable -->
+    <!-- end .content --></div>
+ 
+  <div class="footer">
+ <hr />  
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* large banner, created 11/13/09 */
+google_ad_slot = "0514310951";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<p>&nbsp;</p>
+<p>
+  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* bottom text banner, created 2/9/09 */
+google_ad_slot = "0004268070";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+  </script>
+  <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+  <hr />
+  <table width="943" border="0">
+    <tr class="bottomenu1">
+      <td width="296" valign="top"><h3><a href="../../index.html">Home</a></h3>
+        <h3>Racing Results &amp; Archives</h3>
+        <blockquote>
+          <p><a href="../../tdf/tdfindex.html">Tour de France</a><br />
+            <a href="../../bicycle-races.html">Other Races</a><br />
+            <a href="../../annual/race2015.html">Year-to-Date Results</a><br />
+            <a href="../../annual/yearly-bicycle-race-results.html">Year-by-Year Results            </a> (2001-2015)<br />
+            <a href="../../news-and-opinion/news-index.html">News &amp; Opinion</a></p>
+        </blockquote></td>
+      <td width="307" valign="top"><h3>Bicycles &amp; Cycling Lifestyle</h3>
+        <blockquote>
+          <p><a href="../../tech/bike-tech.html">Bike Tech Essays</a><br />
+            <a href="../../training-fitness/training-fitness.html">Training &amp; Coaching</a><br />
+            <a href="../../books/mcgann-publishing.html">The Bookstore</a><br />
+            <a href="../../travel/bike-travels.html">Bikes &amp; Travel</a><br />
+            <a href="../../kom/kom-index.html">KOM: A Guide to 
+            Paved Road Climbs</a><br />
+            <a href="../../comix/bike-comics.html">Comix</a><br />
+            <a href="../../food/biking-food.html">Food</a><br />
+            <a href="../../preferences/stuff-we-like.html">Stuff We Like </a><br />
+          </p>
+        </blockquote></td>
+      <td width="281" valign="top"><h3>Cycling History</h3>
+        <blockquote>
+          <p><a href="../../riderhistories/bicycle-rider-histories.html">Rider Histories</a><br />
+            <a href="../../oral-history.html">Oral History Project</a><br />
+            <a href="../../photo-galleries/bike-race-photos.html">Photo Galleries</a></p>
+        </blockquote>
+        <h3>Site Information</h3>
+        <blockquote>
+          <p><a href="../../glossary.html">Glossary, Terms, Lists</a><br />
+            <a href="../../about-us.html">About Us</a><br />
+            <a href="../../contact-us.html">Contact </a><br />
+            <a href="../../site-map.html">Site Map</a></p>
+        </blockquote></td>
+    </tr>
+  </table>
+  <p class="bottomenu1">© McGann Publishing LLC</p>
+  <!-- end .footer --></div>
+  
+</div>
+  <!-- end .container-center --></div>
+
+</body>
+<!-- InstanceEnd --></html>

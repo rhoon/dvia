@@ -1,0 +1,2344 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0062)http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/bri-template.dwt" codeOutsideHTMLIsLocked="true" --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+
+
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>2016 Paris - Roubaix bicycle race complete results</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+			<meta name="keywords" content="Paris - Roubaix 2014">
+			<meta name="description" content="Paris - Roubaix, 2014">
+<meta name="keywords" content="2014 Paris-Roubaix bicycle race complete results">
+<meta name="description" content="2014 Paris-Roubaix bicycle race complete results">
+<!-- InstanceEndEditable -->
+
+<link href="./pr2016_files/bri-stylesheet2.css" rel="stylesheet" type="text/css">
+<style type="text/css" media="screen"> @import url("../../bri-stylesheet2.css"); </style>
+
+<script async="" src="./pr2016_files/async-ads.js"></script><script type="text/javascript" async="" src="./pr2016_files/cse.js"></script><script src="./pr2016_files/ca-pub-2062310126166513.js"></script><script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+#menuh{float:none;}
+body{behavior:url(../csshover.htc); font-size:100%;}
+#menuh ul li{float:left; width: 100%;}
+#menuh a{height:1%;font:bold 0.7em/1.4em arial, sans-serif;}
+</style>
+<![endif]-->
+<script src="./pr2016_files/jsapi" type="text/javascript"></script><link type="text/css" href="./pr2016_files/default+en.css" rel="stylesheet"><link type="text/css" href="./pr2016_files/default.css" rel="stylesheet"><script type="text/javascript" src="./pr2016_files/default+en.I.js"></script><style type="text/css">
+</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gscsep_a{display:none}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gsfe_a{border:1px solid #b9b9b9;border-top-color:#a0a0a0;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);}.gsfe_b{border:1px solid #4d90fe;outline:none;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);}.gssb_a{padding:0 7px}.gssb_e{border:0}.gssb_l{margin:5px 0}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+
+<body>
+
+
+<div class="container">
+  <div class="header"><img src="./pr2016_files/logo-banner.gif" alt="BikeRaceInfo: Current and historical race results, plus interviews, bikes, travel, and cycling history"><p></p>  
+
+
+<div id="menuh-container">
+<div id="menuh">
+	<ul>
+		<li><a href="http://www.bikeraceinfo.com/index.html" class="top_parent">Home</a>
+		
+		</li>
+	</ul>
+	
+	<ul>	
+		<li><a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#" class="top_parent">Racing Results &amp; Archives</a>
+        <ul>
+			<li><a href="http://www.bikeraceinfo.com/tdf/tdfindex.html">Tour de France</a></li>
+			<li><a href="http://www.bikeraceinfo.com/bicycle-races.html">Other Races</a></li>
+			<li><a href="http://www.bikeraceinfo.com/annual/race2016.html">Year-to-Date Race Results</a></li>
+			<li><a href="http://www.bikeraceinfo.com/annual/yearly-bicycle-race-results.html">Year-by-Year Results</a></li>
+			<li><a href="http://www.bikeraceinfo.com/news-and-opinion/news-index.html">News &amp; Opinion</a></li>
+            <li><a href="http://www.bikeraceinfo.com/commentary/commentary-index.html">Commentary</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#" class="top_parent">Cycling History</a>
+        <ul>
+			<li><a href="http://www.bikeraceinfo.com/riderhistories/bicycle-rider-histories.html">Rider Histories</a></li>
+			<li><a href="http://www.bikeraceinfo.com/oral-history.html">Oral History Project</a></li>
+			<li><a href="http://www.bikeraceinfo.com/photo-galleries/bike-race-photos.html">Photo Galleries</a></li>
+			<li><a href="http://www.bikeraceinfo.com/glossary.html">Glossary, Terms, Lists</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#" class="top_parent">Bicycles &amp; Cycling Lifestyle</a>
+        <ul>
+			<li><a href="http://www.bikeraceinfo.com/tech/bike-tech.html">Bike Tech Essays</a></li>
+			<li><a href="http://www.bikeraceinfo.com/training-fitness/training-fitness.html">Training &amp; Fitness</a></li>
+            <li><a href="http://www.bikeraceinfo.com/commentary/commentary-index.html">Commentary</a></li>
+			<li><a href="http://www.bikeraceinfo.com/books/mcgann-publishing.html">The Bookstore</a></li>
+			<li><a href="http://www.bikeraceinfo.com/travel/bike-travels.html">Bikes &amp; Travel</a></li>
+			<li><a href="http://www.bikeraceinfo.com/kom/kom-index.html">KOM: A Guide to Paved Road Climbs</a></li>
+            <li><a href="http://www.bikeraceinfo.com/comix/bike-comics.html">Comix</a></li>
+            <li><a href="http://www.bikeraceinfo.com/food/biking-food.html">Food</a></li>
+            <li><a href="http://www.bikeraceinfo.com/preferences/stuff-we-like.html">Stuff We Like</a></li>
+		</ul>
+        </li>
+	</ul>
+    <ul>	
+		<li><a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#" class="top_parent">Site Information</a>
+        <ul>
+			<li><a href="http://www.bikeraceinfo.com/about-us.html">About Us</a></li>
+			<li><a href="http://www.bikeraceinfo.com/contact-us.html">Contact Us</a></li>
+            <li><a href="http://www.bikeraceinfo.com/features/advertise.html">Media Kit</a></li>
+            <li><a href="http://www.bikeraceinfo.com/glossary.html">Glossary, Terms, Lists</a></li>
+			<li><a href="http://www.bikeraceinfo.com/site-map.html">Site Map</a></li>
+			
+		</ul>
+        </li>
+	</ul>
+		
+	
+	
+</div> 	<!-- end the menuh-container div -->  
+</div>	<!-- end the menuh div --> 
+ 
+ 
+    <!-- end .header --></div>
+
+ <div class="sidebar1">
+     <div class="newad">
+  <p><img src="./pr2016_files/follow-ad.gif" usemap="#Map" border="0">
+    <map name="Map" id="Map">
+      <area shape="rect" coords="115,6,163,50" href="http://www.facebook.com/Starrzy#!/pages/McGann-Publishing-LLC/116660391692056?ref=ts" target="_blank" alt="find us on Facebook" border="0">
+      <area shape="rect" coords="168,8,216,50" href="http://www.twitter.com/BikeRaceInfo" target="_blank" alt="follow us on twitter">
+      <area shape="rect" coords="221,3,299,49" href="http://www.youtube.com/user/McGannPublishing/videos" target="_blank" alt="See our youtube channel">
+    </map>
+   
+    
+  
+   <img src="./pr2016_files/sponsors.gif">  
+  <a href="http://www.bikeraceinfo.com/books/melanoma-started-freckle.html"><img src="./pr2016_files/melanoma-book-ad.jpg" alt="Melanoma: It started with a freckle" border="0"></a>    
+    
+   <img src="./pr2016_files/spacer.gif">
+    <a href="http://www.bikyle.com/" target="_blank"><img src="./pr2016_files/BiKyle.gif" alt="Cycles BiKyle" border="0"></a>
+    
+    <img src="./pr2016_files/spacer.gif">
+    <a href="http://www.schwabcycles.com/" target="_blank"><img src="./pr2016_files/schwab.gif" alt="Schwab Cycles" border="0"></a>
+    
+    <img src="./pr2016_files/spacer.gif">
+    <a href="http://www.velojerseys.com/" target="_blank"><img src="./pr2016_files/velojerseys.jpg" alt="Classic cycling jerseys" border="0"></a>
+    
+   <img src="./pr2016_files/spacer.gif">
+    <a href="http://www.smartcycles.com/" target="_blank"><img src="./pr2016_files/smart.gif" alt="Smart Cycles" border="0"></a>
+    
+    <img src="./pr2016_files/spacer.gif">
+     <a href="http://sscycleworks.com/" target="_blank"><img src="./pr2016_files/s-salem-mond-ad.gif" alt="South Salem Cycleworks Mondonico frames" border="0"></a>
+   
+    <img src="./pr2016_files/spacer.gif">
+   
+       <a href="http://www.bikeraceinfo.com/features/advertise.html" target="_blank"><img src="./pr2016_files/advertise-bri.gif" alt="Advertise with us!" border="0"></a>
+
+    <img src="./pr2016_files/spacer.gif">
+     <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* right side */
+google_ad_slot = "2395833724";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="./pr2016_files/show_ads.js">
+</script><ins id="aswift_0_expand" style="display:inline-table;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent"><ins id="aswift_0_anchor" style="display:block;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent"><iframe width="300" height="250" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;" src="./pr2016_files/saved_resource.html"></iframe></ins></ins>
+   
+    <img src="./pr2016_files/spacer.gif">
+     <a href="http://www.cycleitalia.com/" target="_blank"><img src="./pr2016_files/cycleitalia.jpg" alt="CycleItalia cycling tours" border="0"></a>
+   
+    </p></div>
+       
+    <!-- end .sidebar1 --></div>
+
+
+   
+ 
+
+
+  <div class="content">
+  <div class="header2">
+  <div class="contenthd2b">
+  Search our site:
+<script>
+  (function() {
+    var cx = '017815655590841525944:tti8xwrgf7s';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<div id="___gcse_0"><div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr"><form class="gsc-search-box" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" class="gsc-search-box"><tbody><tr><td class="gsc-input"><input autocomplete="off" type="text" size="10" class=" gsc-input" name="search" title="search" id="gsc-i-id1" dir="ltr" spellcheck="false" style="outline: none; background: url(&quot;http://www.google.com/cse/static/en/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);"><input type="hidden" name="bgresponse" id="bgresponse"></td><td class="gsc-search-button"><input type="button" value="Search" class="gsc-search-button" title="search"></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table><table cellspacing="0" cellpadding="0" class="gsc-branding"><tbody><tr><td class="gsc-branding-user-defined"></td><td class="gsc-branding-text"><div class="gsc-branding-text">powered by</div></td><td class="gsc-branding-img"><img src="./pr2016_files/small-logo.png" class="gsc-branding-img"></td></tr></tbody></table></form></div></div>
+  </div>
+  <div class="contenthd2a">
+  <!-- BEGIN: Constant Contact Stylish Email Newsletter Form -->
+<div align="center">
+<div style="width:160px; background-color: #ffffff;">
+<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:3;"><span style="background-color: #86e486; float:right;margin-right:5;margin-top:3"><img src="./pr2016_files/email1_trans.gif" alt="Email Newsletter icon, E-mail Newsletter icon, Email List icon, E-mail List icon" border="0"></span>
+<font style="font-weight: bold; font-family:Arial; font-size:16px; color:#0d5e01;">Sign up for our Email Newsletter</font>
+<input type="text" name="ea" size="20" value="" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;">
+<input type="submit" name="go" value="GO" class="submit" style="font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px;">
+<input type="hidden" name="llr" value="ozjmfnjab">
+<input type="hidden" name="m" value="1109617157934">
+<input type="hidden" name="p" value="oi">
+</form>
+</div>
+</div>
+
+
+
+  </div>
+  </div> 
+    <!-- InstanceBeginEditable name="HeaderText" -->
+    <div align="center">
+													  <h1>2016 Paris - Roubaix (World Tour)</h1>
+													  <h2>114th edition: Sunday, April 10, 2016</h2>
+													</div>
+												<!-- InstanceEndEditable -->
+  <!-- InstanceBeginEditable name="PageText" -->
+												<div align="left">
+													<p><a href="http://www.bikeraceinfo.com/classics/paris-roubaix/paris-roubaix-index.html">Paris-Roubaix podium history, race database</a> | <a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2015.html">2015 edition</a> | <a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#map">Course map &amp; profile </a>| <a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#cobbles">Cobbled sectors</a> | <a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#news">2016 Paris-Roubaix news</a> | <a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#pre-race">Pre-race photos of racers riding the course</a> | <a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#photos-raceday">Race day photos</a> | <a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#start">Start list with back numbers</a></p>
+													<p><img src="./pr2016_files/PR1.jpg" width="600" height="398" alt="Paris-Roubaix cobbles"></p>
+												  <p>Compiègne - Roubaix, 257.5 km, 52.8 km of cobbles</p>
+													<p><strong>The Race:</strong> <a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#results">Results</a> | <a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#liveupdates">Live updates</a>	|	<a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#photos-raceday">Photos</a></p>
+													<p>Here is the organizer's explanation of the day's racing:</p>
+													<p>Mathew Hayman topped a long and dedicated domestique career  with an exceptional victory in the race of his dreams, Paris-Roubaix. At 37,  the towering Orica Greenedge rider upset all the favorites, starting with  four-times winner Tom Boonen, who had to be content with second place, to  become the second Australian crowned in Roubaix after Stuart O'Grady in 2007.  The win was all the more remarkable as early escapee Hayman, who had already twice  made it in the top ten of the Queen of Classics, had broken his arm only five  weeks ago and had hardly raced since. Briton Ian Stannard finished third ahead  of breakaway companions Sep Vanmarcke of Belgium and Norway's Edvald Boasson  Hagen.</p>
+													<p><img src="./pr2016_files/2016-p-r-hayman-matthew-finish.jpg" width="630" height="419" alt="Matthew Hayman"></p>
+                                                    <p class="cap">Mathew Hayman wins 2016 Paris-Roubaix</p>
+												  <p>Early breaks: The start was given to 198 riders at 10:56 for 257.5  kilometers of riding. Jacopo Guarnieri (Katusha) did not start. The first break  of the day involved Nils Politt (Katusha), Kenneth Van Bilsen (Cofidis), Robin  Stenuit (Wanty), Benoit Jarrier (Fortuneo), quickly joined by Edvadlas  Siskevicius (Delko) and Gediminas Bagdonas (AG2R). It was quashed after 19  kilometers when crosswinds started to split the peloton.&nbsp; Twenty four riders then tried their luck,  involving four team mates of Fabian Cancellara: Devolder, Coledan, Stuyen and  Boy Van Poppel (Trek), Joeaar (Cofidis), Wallays (Lotto-Soudal), Trusov  (Tinkoff), Viviani (Sky), Cavendish (Dimension Data), Knees (Sky), Ladagnous  and Le Bon (FDJ), Van Keirsbulck and Trentin (Etixx), Zabel and Gerts (BMC), Gaimon  (Cannondale), Castelijns (Lotto Jumbo),&nbsp;  Curvers (Giant Alpecin), Naesen (IAM), Schwarzmann (Bora Argon),  Oliveira (Movistar), Porsev (Katusha) and Helven (Topsort Vlaanderen).Only  three of them, Vivani, Porsev and Van Poppel, continued their effort and held  maximum lead of 30 seconds over the pack before being brought back after 67  kilometers.</p>
+												  <p>Chavanel launches break: The longest enduring attempt was launched after 75 km by  Sylvain Chavanel (Direct Energie) and involved Chavanel (Direct Energie),  Hayman and Nielsen (Orica Greenedge), Wallays (Lotto Soudal), Popovych (Trek  Factory), Le Bon (FDJ), Kump (Lampre), Martinez (Delko), Declercq (Topsort),  Puccio (Sky), Janse Van Reensburg (Dimension Data), Backaert (Wanty), Daniel  (AG2R), Morkov (Katusha), Bozic (Cofidis) and Erviti (Movistar) in the lead.  The escapees tackled the first cobbled sector in Troisvilles (km 98.5) with a  55 seconds lead over the peloton. They gradually lost Morkov and Wallays  through punctures and Martinez, whose chain snapped. Their lead grew with the  cobbles and reached 3:45 with120 km to go.</p>
+												  <p>Sagan and Cancellara held by crash: At kilometer 141, a crash split the peloton, surprising  favourites Peter Sagan (Tinkoff), Fabian Cancellara (Trek) and Alexander  Kristoff (Katusha), who sank once and for all after two punctures. Tony Martin  (Etixx Quick Stpe) seized the opportunity to increase the tempo, leaving the  Sagan group trailing by nearly a minute. In the Arenberg Trench, still led by  the tireless Tony Martin, with Ian Stannard (Sky), Luke Durbridge (Orica  Greenedge), Robert Wagner (Lotto Jumbo) and Edvald Boasson Hagen (Dimension Data),  Tom Boonen was 1:30 behind the 13 escapees, with the Vanmarcke group 2:00  adrift and the Sagan, Cancellara group trailing Boonen by nearly a minute.&nbsp;</p>
+												  <p>Sky lead… and crash: At the end of cobbled sector 16 in Hornaing, Hayman surged  from the breakaway group to go on his own but he was rapidly chased down. What  remained of the break were finally caught by the Boonen and Vanmarcke group (km  190) as the bunch including Sagan and Cancellara were still 40 seconds adrift.  The two pre-race favourites kept taking turns to limit the damage between a  leading group composed with Boonen (Etixx),&nbsp;  Burghardt (BMC), Haussler, Saramotins (IAM), Hayman (Orica), Rowe,  Moscon, Puccio, Stannard (Sky) Sieberg (Lotto Soudal), Vanmarcke, Wynants  (Lotto Jumbo), Boason Hagen (Dimension Data), Erviti (Movistar). Team Sky were  setting the pace when Rowe, Moscon and Puccio all crashed, disorganising the  lead with 50 km to go. But Rowe managed his way back into the lead.</p>
+												  <p>Cancellara hits the canvas: Five kilometers further down the road in the cobbled sector  of Mons en Pevele (km 209), Cancellara crashed heavily with Niki Terpstra,  seeing his last hopes vanish. Sagan escaped unscathed but also lost time in the  process and never managed to bridge the gap. A group ofo ten riders – Boonen  (Etixx),&nbsp; Saramotins and Haussler (IAM),  Hayman (Orica Greendege), Rowe and Stannard (Sky), Vanmarcke (Lotto Jumbo),  Boasson Hagen (Dimension Data), Erviti (Movistar) and Sieberg (Lotto Soudal) –  were left to battle it out for final victory in the last 30 km. In sector 5  (Camphin en Pevele), only Boonen, Vanmarcke, Stannard, Boason Hagen and Hayman  remained in conention. Wisely, Vanmarcke tried to go in Carrefour de l'Arbre  with 15 km to and to hold his four companions at bay.</p>
+												  <p>Hayman crowned: But the Belgian was reeled in with 11 km to go after a sharp  turn by Stannard. The five attempted to attack in turn to avoid the final  sprint. It seemed Boonen and Vanmarcke were the strongest while Boasson Hagen  lost stamina in chasing behind the breaks. But it was Hayman's day. At 37,  after 15 participatins and despite a recent arm fracture at the Het Nieuwsblad,  he was unexpectedly the fresher of the lot and he gave Australia their second  victory in he Queen of Classics after Stuart O'Grady's in 2007.&nbsp; </p>
+												  <p><img src="./pr2016_files/2016-pr-finish-hayman.jpg" width="630" height="419" alt="Matthew Hayman"></p>
+												  <p class="cap">Mathew Hayman wins Paris-Roubaix</p>
+<p><strong><a name="results" id="results"></a>Complete Results: </strong></p>
+<p><a href="http://www.bikeraceinfo.com/classics/paris-roubaix/pr2016.html#photos-raceday">Race photos</a></p>
+<p>257.5 kilometers raced at an average speed of 43.907 km/hr</p>
+<table cellpadding="0" cellspacing="0" class="tableformat">
+  <colgroup><col width="42">
+  <col width="193">
+  <col width="233">
+  <col width="64">
+  </colgroup><tbody><tr>
+    <td width="42">1</td>
+    <td width="247">HAYMAN Mathew</td>
+    <td width="267">ORICA GreenEDGE</td>
+    <td width="120">5hr 51min 53sec</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>BOONEN Tom</td>
+    <td>ETIXX-QUICK STEP</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>STANNARD Ian</td>
+    <td>TEAM SKY</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>VANMARCKE Sep</td>
+    <td>TEAM LOTTO NL - JUMBO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>BOASSON HAGEN Edvald</td>
+    <td>TEAM DIMENSION DATA</td>
+    <td>@ 3sec</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>HAUSSLER Heinrich</td>
+    <td>IAM CYCLING</td>
+    <td>+ 01' 00''</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>SIEBERG Marcel</td>
+    <td>LOTTO SOUDAL</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>SARAMOTINS Aleksejs</td>
+    <td>IAM CYCLING</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>ERVITI Imanol</td>
+    <td>MOVISTAR TEAM</td>
+    <td>+ 01' 07''</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>PETIT Adrien</td>
+    <td>DIRECT ENERGIE</td>
+    <td>+ 02' 20''</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>SAGAN Peter</td>
+    <td>TINKOFF</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>WYNANTS Maarten</td>
+    <td>TEAM LOTTO NL - JUMBO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>NAESEN Oliver</td>
+    <td>IAM CYCLING</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>ROWE Luke</td>
+    <td>TEAM SKY</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>SINKELDAM Ramon</td>
+    <td>TEAM GIANT-ALPECIN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>VAN BAARLE Dylan</td>
+    <td>CANNONDALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>DE BACKER Bert</td>
+    <td>TEAM GIANT-ALPECIN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>DURBRIDGE Luke</td>
+    <td>ORICA GreenEDGE</td>
+    <td>+ 04' 40''</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>BURGHARDT Marcus</td>
+    <td>BMC RACING TEAM</td>
+    <td>+ 05' 48''</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>LAPORTE Christophe</td>
+    <td>COFIDIS</td>
+    <td>+ 06' 18''</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>VAN HOECKE Gijs</td>
+    <td>TOPSPORT VLAANDEREN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>BACKAERT Frederik</td>
+    <td>WANTY - GROUPE GOBERT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>DE KORT Koen</td>
+    <td>TEAM GIANT-ALPECIN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>DEMPSTER Zakkari</td>
+    <td>BORA-ARGON 18</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>VAN ASBROECK Tom</td>
+    <td>TEAM LOTTO NL - JUMBO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>SENECHAL Florian</td>
+    <td>COFIDIS</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>TJALLINGII Maarten</td>
+    <td>TEAM LOTTO NL - JUMBO</td>
+    <td>+ 06' 28''</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>DANIEL MAXIME</td>
+    <td>AG2R LA MONDIALE</td>
+    <td>+ 07' 12''</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>ARNDT Nikias</td>
+    <td>TEAM GIANT-ALPECIN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>CAVENDISH Mark</td>
+    <td>TEAM DIMENSION DATA</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>VAN HECKE Preben</td>
+    <td>TOPSPORT VLAANDEREN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>MARCATO Marco</td>
+    <td>WANTY - GROUPE GOBERT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>PUCCIO Salvatore</td>
+    <td>TEAM SKY</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>GAUDIN Damien</td>
+    <td>AG2R LA MONDIALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>GREIPEL André</td>
+    <td>LOTTO SOUDAL</td>
+    <td>+ 07' 24''</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>TRENTIN Matteo</td>
+    <td>ETIXX-QUICK STEP</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>BOZIC Borut</td>
+    <td>COFIDIS</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>MOSCON Gianni</td>
+    <td>TEAM SKY</td>
+    <td>+ 07' 26''</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>STUYVEN Jasper</td>
+    <td>TREK - SEGAFREDO</td>
+    <td>+ 07' 35''</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>CANCELLARA Fabian</td>
+    <td>TREK - SEGAFREDO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>KUENG Stefan</td>
+    <td>BMC RACING TEAM</td>
+    <td>+ 11' 14''</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>VAN LERBERGHE Bert</td>
+    <td>TOPSPORT VLAANDEREN</td>
+    <td>+ 11' 14''</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>NIELSEN Magnus Cort</td>
+    <td>ORICA GreenEDGE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>EISEL Bernhard</td>
+    <td>TEAM DIMENSION DATA</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>TEUNISSEN Mike</td>
+    <td>TEAM LOTTO NL - JUMBO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>ROOSEN Timo</td>
+    <td>TEAM LOTTO NL - JUMBO</td>
+    <td>+ 12' 55''</td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td>THURAU Bjorn</td>
+    <td>WANTY - GROUPE GOBERT</td>
+    <td>+ 14' 22''</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>KRISTOFF Alexander</td>
+    <td>TEAM KATUSHA</td>
+    <td>+ 14' 23''</td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td>PHINNEY Taylor</td>
+    <td>BMC RACING TEAM</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>MORKOV Michael</td>
+    <td>TEAM KATUSHA</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>51</td>
+    <td>SAGAN Juraj</td>
+    <td>TINKOFF</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>52</td>
+    <td>WAGNER Robert</td>
+    <td>TEAM LOTTO NL - JUMBO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>53</td>
+    <td>SERGENT Jesse</td>
+    <td>AG2R LA MONDIALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td>SCHILLINGER Andreas</td>
+    <td>BORA-ARGON 18</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td>THWAITES Scott</td>
+    <td>BORA-ARGON 18</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>56</td>
+    <td>HOLLENSTEIN Reto</td>
+    <td>IAM CYCLING</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>57</td>
+    <td>DE HAES Kenny</td>
+    <td>WANTY - GROUPE GOBERT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>58</td>
+    <td>DUCHESNE Antoine</td>
+    <td>DIRECT ENERGIE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td>REYNES Vicente</td>
+    <td>IAM CYCLING</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>60</td>
+    <td>VAN GENECHTEN Jonas</td>
+    <td>IAM CYCLING</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>61</td>
+    <td>VAN POPPEL Danny</td>
+    <td>TEAM SKY</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>62</td>
+    <td>MARANGONI Alan</td>
+    <td>CANNONDALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>63</td>
+    <td>DE VREESE LAURENS</td>
+    <td>ASTANA PRO TEAM</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>64</td>
+    <td>JARRIER Benoit</td>
+    <td>FORTUNEO - VITAL CONCEPT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>65</td>
+    <td>BAK Lars Ytting</td>
+    <td>LOTTO SOUDAL</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>66</td>
+    <td>MINARD Sébastien</td>
+    <td>AG2R LA MONDIALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>67</td>
+    <td>KUZNETSOV Viacheslav</td>
+    <td>TEAM KATUSHA</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>68</td>
+    <td>VAN KEIRSBULCK Guillaume</td>
+    <td>ETIXX-QUICK STEP</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>69</td>
+    <td>DRUCKER Jean-Pierre</td>
+    <td>BMC RACING TEAM</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>70</td>
+    <td>BAUER Jack</td>
+    <td>CANNONDALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>71</td>
+    <td>CURVERS Roy</td>
+    <td>TEAM GIANT-ALPECIN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>72</td>
+    <td>VAN RENSBURG Reinardt</td>
+    <td>TEAM DIMENSION DATA</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>73</td>
+    <td>TRUSOV Nikolay</td>
+    <td>TINKOFF</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>74</td>
+    <td>BRUTT Pavel</td>
+    <td>TINKOFF</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>75</td>
+    <td>MOUREY Francis</td>
+    <td>FORTUNEO - VITAL CONCEPT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>76</td>
+    <td>MARTIN Tony</td>
+    <td>ETIXX-QUICK STEP</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>77</td>
+    <td>KEUKELEIRE Jens</td>
+    <td>ORICA GreenEDGE</td>
+    <td>+ 14' 48''</td>
+  </tr>
+  <tr>
+    <td>78</td>
+    <td>ROELANDTS Jurgen</td>
+    <td>LOTTO SOUDAL</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>79</td>
+    <td>CLAEYS Dimitri</td>
+    <td>WANTY - GROUPE GOBERT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>80</td>
+    <td>SISKEVICIUS Evaldas</td>
+    <td>DELKO MARSEILLE PROVENCE</td>
+    <td>+ 16' 52''</td>
+  </tr>
+  <tr>
+    <td>81</td>
+    <td>LABORIE Christophe</td>
+    <td>DELKO MARSEILLE PROVENCE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>82</td>
+    <td>ARCHBOLD Shane</td>
+    <td>BORA-ARGON 18</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>83</td>
+    <td>LE BON Johan</td>
+    <td>FDJ</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>84</td>
+    <td>LANGEVELD Sebastian</td>
+    <td>CANNONDALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>85</td>
+    <td>KUMP Marko</td>
+    <td>LAMPRE - MERIDA</td>
+    <td>+ 16' 57''</td>
+  </tr>
+  <tr>
+    <td>86</td>
+    <td>POPOVYCH Yaroslav</td>
+    <td>TREK - SEGAFREDO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>87</td>
+    <td>WIPPERT WOUTER</td>
+    <td>CANNONDALE</td>
+    <td>+ 18' 30''</td>
+  </tr>
+  <tr>
+    <td>88</td>
+    <td>BARTA Jan</td>
+    <td>BORA-ARGON 18</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>89</td>
+    <td>ZABEL Rick</td>
+    <td>BMC RACING TEAM</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>90</td>
+    <td>JANS Roy</td>
+    <td>WANTY - GROUPE GOBERT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>91</td>
+    <td>STENUIT Robin</td>
+    <td>WANTY - GROUPE GOBERT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>92</td>
+    <td>BAGDONAS Gediminas</td>
+    <td>AG2R LA MONDIALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>93</td>
+    <td>SELIG Rüdiger</td>
+    <td>BORA-ARGON 18</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>94</td>
+    <td>FRISON Frederik</td>
+    <td>LOTTO SOUDAL</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>95</td>
+    <td>TRONET Steven</td>
+    <td>FORTUNEO - VITAL CONCEPT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>96</td>
+    <td>GERTS Floris</td>
+    <td>BMC RACING TEAM</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>97</td>
+    <td>FARAZIJN Maxime</td>
+    <td>TOPSPORT VLAANDEREN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>98</td>
+    <td>IRIZAR  Markel</td>
+    <td>TREK - SEGAFREDO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>99</td>
+    <td>BREEN Vegard</td>
+    <td>FORTUNEO - VITAL CONCEPT</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>STAMSNIJDER Tom</td>
+    <td>TEAM GIANT-ALPECIN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>101</td>
+    <td>HALLER Marco</td>
+    <td>TEAM KATUSHA</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>102</td>
+    <td>RAST Gregory</td>
+    <td>TREK - SEGAFREDO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>103</td>
+    <td>MULLEN Ryan</td>
+    <td>CANNONDALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>104</td>
+    <td>HELVEN Sander</td>
+    <td>TOPSPORT VLAANDEREN</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>105</td>
+    <td>BRAMMEIER Matthew</td>
+    <td>TEAM DIMENSION DATA</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>106</td>
+    <td>PIBERNIK Luka</td>
+    <td>LAMPRE - MERIDA</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>107</td>
+    <td>GENE Yohann</td>
+    <td>DIRECT ENERGIE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>108</td>
+    <td>KOREN Kristijan</td>
+    <td>CANNONDALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>109</td>
+    <td>LEMOINE Cyril</td>
+    <td>COFIDIS</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>110</td>
+    <td>STYBAR Zdenek</td>
+    <td>ETIXX-QUICK STEP</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>111</td>
+    <td>HOULE Hugo</td>
+    <td>AG2R LA MONDIALE</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>112</td>
+    <td>SARREAU Marc</td>
+    <td>FDJ</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>113</td>
+    <td>WESTRA Lieuwe</td>
+    <td>ASTANA PRO TEAM</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>114</td>
+    <td>BENOOT Tiesj</td>
+    <td>LOTTO SOUDAL</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>115</td>
+    <td>KEISSE Iljo</td>
+    <td>ETIXX-QUICK STEP</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>116</td>
+    <td>HOFSTETTER Hugo</td>
+    <td>COFIDIS</td>
+    <td>+ 18' 42''</td>
+  </tr>
+  <tr>
+    <td>117</td>
+    <td>THOMSON Jay Robert</td>
+    <td>TEAM DIMENSION DATA</td>
+    <td>+ 24' 45''</td>
+  </tr>
+  <tr>
+    <td>118</td>
+    <td>CASTELIJNS Twan</td>
+    <td>TEAM LOTTO NL - JUMBO</td>
+    <td>s.t.</td>
+  </tr>
+  <tr>
+    <td>119</td>
+    <td>MEZGEC Luka</td>
+    <td>ORICA GreenEDGE</td>
+    <td>s.t.</td>
+  </tr>
+</tbody></table>
+<p><a name="map" id="map"></a><strong>Course map and profile:</strong></p>
+													<p><img src="./pr2016_files/2016-paris-roubaux-map.JPG" width="630" height="849" alt="2016 Paris-Roubiax map"></p>
+													<p class="cap">2016 Paris-Roubaix map</p>
+													<p><img src="./pr2016_files/2016-paris-roubaix-profile.jpg" width="600" height="336" alt="paris-roubiax profile"></p>
+													<p class="cap">2016 Paris-Roubaix profile</p>
+													<p><strong><a name="cobbles" id="cobbles"></a>Cobbled sectors:</strong></p>
+													<table cellpadding="0" cellspacing="0" class="tableformat">
+													  <colgroup><col width="77">
+													  <col width="113">
+													  <col width="166">
+													  <col width="64">
+													  </colgroup><tbody><tr>
+													    <td width="77">SECTOR</td>
+													    <td width="121">KILOMETRES</td>
+													    <td width="341">PLACE</td>
+													    <td width="130">LENGTH</td>
+												      </tr>
+													  <tr>
+													    <td>27</td>
+													    <td>98.5</td>
+													    <td>Troisvilles to Inchy</td>
+													    <td>2.2 km</td>
+												      </tr>
+													  <tr>
+													    <td>26</td>
+													    <td>105</td>
+													    <td>Viesly to Quiévy</td>
+													    <td>1.8</td>
+												      </tr>
+													  <tr>
+													    <td>25</td>
+													    <td>107.5</td>
+													    <td>Quiévy to Saint-Python</td>
+													    <td>3.7</td>
+												      </tr>
+													  <tr>
+													    <td>24</td>
+													    <td>112.5</td>
+													    <td>Saint-Python</td>
+													    <td>1.5</td>
+												      </tr>
+													  <tr>
+													    <td>23</td>
+													    <td>120.5</td>
+													    <td>Vertain to Saint-Martin-sur-Écaillon</td>
+													    <td>2.3</td>
+												      </tr>
+													  <tr>
+													    <td>22</td>
+													    <td>127</td>
+													    <td>Capelle to Ruesnes</td>
+													    <td>1.7</td>
+												      </tr>
+													  <tr>
+													    <td>21</td>
+													    <td>137.5</td>
+													    <td>Quérénaing to Maing</td>
+													    <td>2.5</td>
+												      </tr>
+													  <tr>
+													    <td>20</td>
+													    <td>141</td>
+													    <td>Maing to Monchaux-sur-Écaillon</td>
+													    <td>1.6</td>
+												      </tr>
+													  <tr>
+													    <td>19</td>
+													    <td>154</td>
+													    <td>Haveluy to Wallers</td>
+													    <td>2.5</td>
+												      </tr>
+													  <tr>
+													    <td>18</td>
+													    <td>162</td>
+													    <td>Trouée d'Arenberg</td>
+													    <td>2.4</td>
+												      </tr>
+													  <tr>
+													    <td>17</td>
+													    <td>168</td>
+													    <td>Wallers to Hélesmes</td>
+													    <td>1.6</td>
+												      </tr>
+													  <tr>
+													    <td>16</td>
+													    <td>175</td>
+													    <td>Hornaing to Wandignies</td>
+													    <td>3.7</td>
+												      </tr>
+													  <tr>
+													    <td>15</td>
+													    <td>182.5</td>
+													    <td>Warlaing to Brillon</td>
+													    <td>2.4</td>
+												      </tr>
+													  <tr>
+													    <td>14</td>
+													    <td>186</td>
+													    <td>Tilloy to Sars-et-Rosières</td>
+													    <td>2.4</td>
+												      </tr>
+													  <tr>
+													    <td>13</td>
+													    <td>192.5</td>
+													    <td>Beuvry-la-Forêt to Orchies</td>
+													    <td>1.4</td>
+												      </tr>
+													  <tr>
+													    <td>12</td>
+													    <td>197.5</td>
+													    <td>Orchies</td>
+													    <td>1.7</td>
+												      </tr>
+													  <tr>
+													    <td>11</td>
+													    <td>203.5</td>
+													    <td>Auchy-lez-Orchies to Bersée</td>
+													    <td>2.7</td>
+												      </tr>
+													  <tr>
+													    <td>10</td>
+													    <td>209</td>
+													    <td>Mons-en-Pévèle</td>
+													    <td>3</td>
+												      </tr>
+													  <tr>
+													    <td>9</td>
+													    <td>215</td>
+													    <td>Mérignies to Avelin</td>
+													    <td>0.7</td>
+												      </tr>
+													  <tr>
+													    <td>8</td>
+													    <td>218</td>
+													    <td>Pont-Thibaut to Ennevelin</td>
+													    <td>1.4</td>
+												      </tr>
+													  <tr>
+													    <td>7</td>
+													    <td>224.5</td>
+													    <td>Templeuve (Moulin-de-Vertain)</td>
+													    <td>0.5</td>
+												      </tr>
+													  <tr>
+													    <td>6</td>
+													    <td>231</td>
+													    <td>Cysoing to Bourghelles</td>
+													    <td>1.3</td>
+												      </tr>
+													  <tr>
+													    <td>6</td>
+													    <td>233.5</td>
+													    <td>Bourghelles to Wannehain</td>
+													    <td>1.1</td>
+												      </tr>
+													  <tr>
+													    <td>5</td>
+													    <td>238</td>
+													    <td>Camphin-en-Pévèle</td>
+													    <td>1.8</td>
+												      </tr>
+													  <tr>
+													    <td>4</td>
+													    <td>240.5</td>
+													    <td>Carrefour de l’Arbre</td>
+													    <td>2.1</td>
+												      </tr>
+													  <tr>
+													    <td>3</td>
+													    <td>243</td>
+													    <td>Gruson</td>
+													    <td>1.1</td>
+												      </tr>
+													  <tr>
+													    <td>2</td>
+													    <td>249.5</td>
+													    <td>Willems to Hem</td>
+													    <td>1.4</td>
+												      </tr>
+													  <tr>
+													    <td>1</td>
+													    <td>256.5</td>
+													    <td>Roubaix</td>
+													    <td>0.3</td>
+												      </tr>
+													  <tr>
+													    <td>TOTAL</td>
+													    <td></td>
+													    <td></td>
+													    <td>52.8 km</td>
+												      </tr>
+												  </tbody></table>
+													<p><strong><a name="news" id="news"></a>2016 Paris-Roubaix news:</strong></p>
+												  <p><strong>Monday, April 4:</strong> This is from the organizer: Based on the reconnaissance of the route carried out today  by race director, Thierry Gouvenou, the organisers have rated the difficulty of  the 27 cobblestone sectors of the race, according to their length, the  irregularity of the cobblestones, the general condition of the section and  their location in the race.</p>
+													<p>The Queen of Classics. The nickname given to Paris-Roubaix  is suggestive: this race is different, legendary. It is played out through race  scenarios established ahead of time. Only one thing is sure: to win, overcoming  the daunting 52.8 kilometres of cobblestones that punctuate the course, which  will test both the riders and their bikes is a must. </p>
+													<p>During the reconnaissance,  which was open to the media, those present could identify the cobblestone sectors  that will most likely be the highlights of the race where the favourites will  be forced to show their hands. The race could be determined there. Nerves could  already be on edge in the peloton at the approach of the first sector of the  côte de Troisville. Soon after, the peloton will come upon the Quiévy and  Saint-Python sectors (numbered 25 and 24), which some riders competed on during  stage 4 of the 2015 Tour de France. A few kilometres later will be the only new  cobblestone section this year, an uphill sector (number 22) just prior to the  Hameau du Buat, a special “ascent” that is back after a three-year absence.</p>
+													<p>Then at km 162 the strongest riders could make a move, on  the legendary cobblestones of the first five-star difficulty, the Trouée  d'Arenberg. The pressure will not fall at the exit of the “Trouée”: a gap  leading to the final victory could be made anywhere, including between the  cobblestone sectors! But television viewers will be particularly attentive to  the movements that will be triggered around the Pays de Pévèle (numbers 11, 10  and 6), which have been partially reconditioned this year. This will lead  towards the legendary Carrefour de l'Arbre (number 4), the last five-star  sector, which will determine the last remaining “studs” able of dreaming of  raising their arms at the Roubaix velodrome.</p>
+													<p>Note, because the first sector, #27, Troisvilles was found to be covered in mud, there is the possibility that this sector will be removed. That decision will be made in a few days.</p>
+													<p>The 27 cobbled sectors of Paris–Roubaix</p>
+													<ul>
+													  <li>27. Troisvilles (km 98,5 - 2200 m) +++</li>
+													  <li>26. Viesly (km 105 - 1800 m) +++</li>
+													  <li>25. Quievy (km 107,5 - 3700 m) ++++</li>
+													  <li>24. Saint-Python (km 112,5 - 1500 m) ++</li>
+													  <li>23. Vertain (km 120,5 - 2300 m) +++</li>
+													  <li>22. Capelle-Ruesnes (km 127 – 1700 m) +++</li>
+													  <li>21. Quérénaing - Maing (km 137,5 - 2500 m) +++</li>
+													  <li>20. Monchaux-sur-Ecaillon (km 141 - 1600 m) +++ </li>
+													  <li>19. Haveluy (km 154 - 2500 m) ++++</li>
+													  <li>18. Trouée d'Arenberg (km 162 - 2400 m) +++++</li>
+													  <li>17. Wallers - Hélesmes, dit « Pont Gibus » (km 168 - 1600 m)  +++</li>
+													  <li>16. Hornaing (km 175 - 3700 m) ++++</li>
+													  <li>15. Warlaing - Brillon (km 182,5 - 2400 m) +++</li>
+													  <li>14. Tilloy - Sars-et-Rosières (km 186 - 2400 m) ++++</li>
+													  <li>13. Beuvry-la-Forêt - Orchies (km 192,5 - 1400m) +++</li>
+													  <li>12. Orchies (km 197,5 - 1700 m) +++</li>
+													  <li>11. Auchy-lez-Orchies - Bersée (km 203,5- 2700 m) ++++</li>
+													  <li>10. Mons-en-Pévèle (km 209 - 3000 m) +++++</li>
+													  <li>9. Mérignies - Avelin (km 215 - 700 m) ++</li>
+													  <li>8. Pont-Thibaut (km 218 - 1400 m) +++</li>
+													  <li>7. Templeuve - Moulin de Vertain (km 224,5 - 500 m) ++</li>
+													  <li>6. Cysoing - Bourghelles (km 231 - 1300 m) +++ <br>
+													    Bourghelles - Wannehain (km 233,5 - 1100 m) +++</li>
+													  <li>5. Camphin-en-Pévèle (km 238 - 1800 m) ++++</li>
+													  <li>4. Le Carrefour de l'Arbre (km 240,5 - 2100 m) +++++</li>
+													  <li>3. Gruson (km 243 - 1100 m) ++</li>
+													  <li>2. Hem (km 249,5 - 1400 m) ++</li>
+													  <li>1. Roubaix (km 256,5 - 300 m) +</li>
+												  </ul>
+													<p><strong><a name="liveupdates" id="liveupdates"></a>2016 Paris-Roubaix live updates:</strong></p>
+													<p><strong>The finish:</strong> On the Roubaix velodrome Boonen was in the lead for the final lap, but it was Mathew Hayman who won the 2016 Paris-Roubaix with Tom Boonen second and Ian Stannard third.</p>
+                                                    <p><strong>Final kilometers</strong>, (7:55 AM pacific time): The attacks are flying off right and left.</p>
+                                                    <p><strong>Kilometer 251</strong>, 6 to go: Ian Stannard attacked and was brought back.</p>
+                                                    <p><strong>Kilometer 247</strong>, 10 kilometers to go: The race is probably down to these five: Boonen, Vanmarcke, Stannard, Boasson Hagen and Hayman. Haussler, Sieberg and Saramotins are down 15 seconds. The Sagan group is a minute back and won't catch the leaders.</p>
+                                                    <p><strong>Kilometer 241</strong>, 16 kilometers to go (7:40 AM, Pacific time): Here we go! Sep Vanmarcke has jumped away from the leaders at the Carrefour de l'Arbre sector and is now 10 seconds in front of Boonen, Boasson Hagen and Stannard.</p>
+                                                    <p>And Vanmarcke is caught.</p>
+                                                    <p><strong>Kilometer 227</strong>, 30 to go (7:20 Pacific time) Boonen attacks the lead group, but is brought back. So:</p>
+                                                    <p>The front group: Boonen  (Etixx),&nbsp; Saramotins and Haussler (IAM),  Hayman (Orica Greendege), Rowe and Stannard (Sky) , Vanmarcke (Lotto Jumbo),  Boasson Hagen (Dimension Data), Erviti (Movistar) and Sieberg (Lotto Soudal) </p>
+                                                    <p>At 1 minute: Sagan  (Tinkoff), De Backer and Sinkeldam (Giant Alpecin), Naesen (IAM), Durbridge  (Orica), Petit (Direct Energie), Wynants (Lotto Jumbo), Backaert (Wanty) and  Van Baarle (Cannondale)</p>
+                                                    <p>2min 45sec behind the leaders is the Cancellara group.</p>
+                                                    <p><strong>Kilometer 217</strong>, 40 km to go (7AM Pacific time): Fabian Cancellara crashed and Peter Sagan avoided going down as well only by using his extraordinary bike handling skills. We now have seven riders - Boonen (Etixx),&nbsp;  Saramotins (IAM), Hayman (Orica Greendege) Stannard (Sky), Vanmarcke  (Lotto Jumbo), Boasson Hagen (Dimension Data) and Erviti (Movistar) - in the front group chased by a five-rider Sagan group and Cancellara another minute and a half behind. </p>
+                                                    <p>Haussler, Rowe and Sieberg were between the Boonen and Sagan groups, but a few kilometers later joined the lead bunch.</p>
+                                                    <p><strong>Kilometer 210</strong>, 47 km to go (6:45 AM Pacific time): A crash by Luke Rowe and Salvatore Puccio in the lead group slowed their progress. The 14-man Sagan/Cancellara chase group is now just 44 seconds behind.</p>
+                                                    <p><strong>Kilometer 195</strong>, 62 kilometers to go (6:30AM, Pacific time): This race is red hot! The Boonen chase group has caught the lead group while the Sagan/Cancellara chasers are 40 seconds behind. Yaroslav Popovych, in what is probably his last pro race, has dropped from the lead group, probably to assist teammate Fabian Cancellara.</p>
+                                                    <p><strong>Kilometer 175 </strong>(6AM Pacific time): After the Arenberg sector we've got the 13 breakaways 54 seconds ahead of a 6-man group with Tom Bonnen. Then, a further 13 seconds back is a small group with Sep Vanmarcke and almost a minute behind them is the Peter Sagan/Fabian Cancellara chase group.</p>
+                                                    <p>The Vannmarcke group then caught Boonen's group making sixteen riders 52 seconds behind the lead break.</p>
+                                                    <p><strong>Kilometer 151:</strong> The break's lead grows. It's now 3min 29sec. Of course there have been crashes in the peloton and a bad one has just occurred. About 50 riders have formed a group after the crash, led by Tony Martin. Peter Sagan, Fabian Cancellara and Alexander Kristoff are part of a chasing group, 40 seconds behind the Martin group.</p>
+                                                    <p><strong>Kilometer 134: </strong>The break is in cobbled sector 22 (Capelle-Ruesnes) and is three minutes ahead of the peloton. Jelle Wallays (Lotto-Soudal) flatted, so now there are 13 riders in the break: Chavanel (Direct Energie), Hayman and Nielsen (Orica  Greenedge),&nbsp; Popovych (Trek Factory), Le  Bon (FDJ), Kump (Lampre), Declercq (Topsort), Puccio (Sky), Janse Van Reensburg  (Dimesion Data), Backaert (Wanty), Daniel (AG2R), Bozic (Cofidis) and Erviti  (Movistar)</p>
+                                                    <p><strong>Kilometer 122:</strong> There are now 14 riders in the front group. Yannick Martinez (Delko) suffered a broken chain and was dropped from the front group. The lead is now 1min 38sec</p>
+                                                    <p><strong>Kilometer 110:</strong> After several failed break attempts there are currently fifteen riders 52 seconds ahead of the pack who went clear at about kilometer 70: Chavanel (Direct Energie), Hayman and Nielsen (Orica  Greenedge), Wallays (Lotto Soudal), Popovych (Trek Factory),Le Bon (FDJ), Kump  (Lampre), Martinez (Delko), Declercq (Topsort), Puccio (Sky), Janse Van  Reensburg (Dimesion Data), Backaert (Wanty), Daniel (AG2R), Morkov (Katusha),  Bozic (Cofidis) and Erviti (Movistar).</p>
+                                                  <p>After two hours of racing, as the riders enter the second cobbled sector (Viesly), the average speed has been 45.8 km/hr</p>
+                                                    <p><strong>The start:</strong> 198 riders started with a delay of about ten minutes because of a prevailing tailwind in order to keep the race synchronized with the schedule of railroad crossings. There had been some worry that the course would be shortened because of rain damage to the Troivilles cobbled sector, but the entire initially planned course is to be raced.</p>
+                                                    <hr>
+                                                    <p><a name="photos-raceday" id="photos-raceday"></a><strong>Race day photos:</strong></p>
+                                                    <p><img src="./pr2016_files/2016-p-r-troisvilles-inchy-sector.jpg" width="630" height="419" alt="Troisville"></p>
+                                                  <p class="cap">The first cobbled sector, Troisville-Inchy</p>
+                                                    <p><img src="./pr2016_files/2016-p-r-arenberg-riders.jpg" width="630" height="419" alt="Arenberg"></p>
+                                                    <p class="cap">The Arenberg sector</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-arenberg-chavanel-sylvain.jpg" width="630" height="419" alt="Sylvain Chavanel"></p>
+                                                    <p class="cap">Sylvain Chavanel takes a pull on the Arenberg cobbles</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-arenberg-sagan-cancellara.jpg" width="630" height="419" alt="Peter Sagan And Fabian Cancellara"></p>
+                                                    <p class="cap">Fabian Cancellara with Peter Sagan just behind him in the Arenberg</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-arenberg-vanmarcke-sep.jpg" width="630" height="419" alt="Sep Vanmarcke"></p>
+                                                    <p class="cap">Sep Vanmarcke hitting the Arenberg cobbles, in the center, on the road's crown. Classic technique.</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-warlaing-brillon-hayman-matthew.jpg" width="630" height="419" alt="Mattrhew Hayman"></p>
+                                                    <p class="cap">Mathew Hayman takes the short line on the Warlaing pavé</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-orchies-pack.jpg" width="630" height="419" alt="Ochies"></p>
+                                                    <p class="cap">The Orchies sector</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-orchies-sector.jpg" width="630" height="419" alt="Orchies"></p>
+                                                    <p class="cap">It's dusty on the Orchies pavé</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-l&#39;arbre-sagan-peter.jpg" width="630" height="419" alt="Peter Sagan"></p>
+                                                    <p class="cap">Peter Sagan on the Carrefour de l'Arbre sector</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-l&#39;arbre-stannard-boonen.jpg" width="630" height="419" alt="Ian Stannard"></p>
+                                                    <p class="cap">Tom Boonen and Ian Stannard riding on some nasty l'Arbre stones</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-pr-r-l&#39;arbre-hayman-matthew.jpg" width="630" height="419" alt="Matthew Hayman"></p>
+                                                    <p class="cap">Mathew Hayman alone on the l'Arbre sector</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-pr-finish-hayman.jpg" width="630" height="419" alt="Matthew Hayman"></p>
+                                                    <p class="cap">Mathew Hayman wins the 2016 Paris-Roubaix</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-hayman-matthew-finish.jpg" width="630" height="419" alt="Matthew Hayman"></p>
+                                                    <p class="cap">Another shot of the sprint</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-roubaix-velodrome-sagan-group.jpg" width="630" height="419" alt="Peter Sagan group"></p>
+                                                    <p class="cap">The Peter Sagan group on the Roubaix Velodrome</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-velodrome-spring-petit-sagan.jpg" width="630" height="419" alt="Peter Sagan group"></p>
+                                                    <p class="cap">Adrien Petit wins the sprint from Peter Sagan for 10th place.</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-cancellara-fabian-finish-velodrome.jpg" width="630" height="419" alt="Fabian Cancellara"></p>
+                                                    <p class="cap">Jasper Stuyven and the Fabian Cancellara finish, 7min 35sec after Hayman.</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-hayman-matthew-podium.jpg" width="630" height="419" alt="Matthew Hayman"></p>
+                                                    <p class="cap">Mathew Hayman gets the traditional cobblestone trophy</p>
+                                                    <p class="cap"><img src="./pr2016_files/2016-p-r-podium-boonen-hayman-stannard.jpg" width="630" height="419" alt="Podium"></p>
+                                                    <p class="cap">The podium, from left: Tom Boonen (2nd), Mathew Hayman and Ian Stannard (3rd)</p>
+													<hr>
+													<p><strong><a name="pre-race" id="pre-race"></a>Pre-Race photos, riders checking out the course, Thursday, April 7:</strong></p>
+													<p><img src="./pr2016_files/2016-p-r-pre-arenbegurg, crossing.jpg" width="630" height="419" alt="Arenberg"></p>
+													<p class="cap">The classic Arenberg sector photo</p>
+													<p><img src="./pr2016_files/2016-p-r-pre-arenbeg, cancellara-fabian.jpg" width="630" height="419" alt="Fabian Cancellara"></p>
+													<p class="cap">Fabian Cancellara in the Arenberg sector</p>
+													<p><img src="./pr2016_files/2016-p-r-pre-cavendish-mark-arenberg.jpg" width="630" height="419" alt="Mark Cavendish"></p>
+													<p class="cap">Mark Cavendish riding the Arenberg cobbles</p>
+													<p class="cap"><img src="./pr2016_files/2016-p-r-pre-greipel-andre-arenberg.jpg" width="630" height="419" alt="Andre Greipel"></p>
+													<p class="cap">André Griepel in the Arenberg</p>
+													<p class="cap"><img src="./pr2016_files/2016-p-r-pre-marcato-marco-arenberg.jpg" width="630" height="419" alt="Marco Marcato"></p>
+													<p class="cap">Marco Marcato enjoying the gently rounded stones of the Arenberg</p>
+													<p class="cap"><img src="./pr2016_files/2016-p-r-pre-vertin-moulin-katusha.jpg" width="630" height="419" alt="Katusha"></p>
+													<p class="cap">Katusha goes by the Moulin de Vertain</p>
+													<p class="cap"><img src="./pr2016_files/2016-p-r-pre-moulin-vertin-astana.jpg" width="630" height="419" alt="Moulin de Vertin"></p>
+													<p class="cap">Astana riders in the rain as they go by the Moulin de Vertain</p>
+													<p class="cap"><img src="./pr2016_files/2016-p-r-pre-moulin-vertin-worker.jpg" width="630" height="419" alt="Worker"></p>
+													<p class="cap">A little cleanup of the Vertain cobbles</p>
+													<p class="cap"><img src="./pr2016_files/2016-p-r-pre-orchies-lotto-nl-jumbo.jpg" width="630" height="419" alt="LottoNL-Jumbo"></p>
+													<p class="cap">LottoNL-Jumbo in the Orchies sector</p>
+													<p class="cap"><img src="./pr2016_files/2016-p-r-pre-orchies-trek.jpg" width="630" height="419" alt="Trek"></p>
+													<p class="cap">Trek-Segafredo riding over the Orchies cobbles</p>
+													<p class="cap"><img src="./pr2016_files/2016-p-r-pre-roubaix-velodrome.jpg" width="630" height="419" alt="Roubaix velodrome"></p>
+													<p class="cap">Where it will end: the Roubaix velodrome</p>
+													<p><a name="start" id="start"></a><strong>Start list with back numbers, April 9, 2016:</strong></p>
+													<table cellpadding="0" cellspacing="0" class="tableformat">
+													  <colgroup><col width="41">
+													  <col width="259">
+													  </colgroup><tbody><tr>
+													    <td width="41"></td>
+													    <td width="510"><strong>TEAM GIANT-ALPECIN / GER</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: REEF Marc </td>
+												      </tr>
+													  <tr>
+													    <td>1</td>
+													    <td>DE BACKER Bert</td>
+												      </tr>
+													  <tr>
+													    <td>2</td>
+													    <td>ANDERSEN Søren Kragh</td>
+												      </tr>
+													  <tr>
+													    <td>3</td>
+													    <td>ARNDT Nikias</td>
+												      </tr>
+													  <tr>
+													    <td>4</td>
+													    <td>CURVERS Roy</td>
+												      </tr>
+													  <tr>
+													    <td>5</td>
+													    <td>DE KORT Koen</td>
+												      </tr>
+													  <tr>
+													    <td>6</td>
+													    <td>SINKELDAM Ramon</td>
+												      </tr>
+													  <tr>
+													    <td>7</td>
+													    <td>STAMSNIJDER Tom</td>
+												      </tr>
+													  <tr>
+													    <td>10</td>
+													    <td>VAN DER HAAR Lars</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>ETIXX-QUICK STEP / BEL</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: PEETERS Wilfried </td>
+												      </tr>
+													  <tr>
+													    <td>11</td>
+													    <td>BOONEN Tom</td>
+												      </tr>
+													  <tr>
+													    <td>12</td>
+													    <td>KEISSE Iljo</td>
+												      </tr>
+													  <tr>
+													    <td>13</td>
+													    <td>MAES Nikolas</td>
+												      </tr>
+													  <tr>
+													    <td>14</td>
+													    <td>MARTIN Tony</td>
+												      </tr>
+													  <tr>
+													    <td>15</td>
+													    <td>STYBAR Zdenek</td>
+												      </tr>
+													  <tr>
+													    <td>16</td>
+													    <td>TERPSTRA Niki</td>
+												      </tr>
+													  <tr>
+													    <td>17</td>
+													    <td>TRENTIN Matteo</td>
+												      </tr>
+													  <tr>
+													    <td>19</td>
+													    <td>VAN KEIRSBULCK Guillaume</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>BMC RACING TEAM / USA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: BALDATO Fabio </td>
+												      </tr>
+													  <tr>
+													    <td>21</td>
+													    <td>BURGHARDT Marcus</td>
+												      </tr>
+													  <tr>
+													    <td>22</td>
+													    <td>DRUCKER Jean-Pierre</td>
+												      </tr>
+													  <tr>
+													    <td>23</td>
+													    <td>GERTS Floris</td>
+												      </tr>
+													  <tr>
+													    <td>24</td>
+													    <td>KUENG Stefan</td>
+												      </tr>
+													  <tr>
+													    <td>25</td>
+													    <td>OSS Daniel</td>
+												      </tr>
+													  <tr>
+													    <td>26</td>
+													    <td>PHINNEY Taylor</td>
+												      </tr>
+													  <tr>
+													    <td>27</td>
+													    <td>QUINZIATO Manuel</td>
+												      </tr>
+													  <tr>
+													    <td>28</td>
+													    <td>ZABEL Rick</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>ASTANA PRO TEAM / KAZ</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: ZANINI Stefano</td>
+												      </tr>
+													  <tr>
+													    <td>31</td>
+													    <td>BOOM Lars</td>
+												      </tr>
+													  <tr>
+													    <td>32</td>
+													    <td>AYAZBAYEV Maxat</td>
+												      </tr>
+													  <tr>
+													    <td>33</td>
+													    <td>DE VREESE LAURENS</td>
+												      </tr>
+													  <tr>
+													    <td>34</td>
+													    <td>GRUZDEV Dmitriy</td>
+												      </tr>
+													  <tr>
+													    <td>35</td>
+													    <td>KAMYSHEV Arman</td>
+												      </tr>
+													  <tr>
+													    <td>36</td>
+													    <td>SMUKULIS Gatis</td>
+												      </tr>
+													  <tr>
+													    <td>37</td>
+													    <td>WESTRA Lieuwe</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>IAM CYCLING / SUI</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: SEIGNEUR Eddy </td>
+												      </tr>
+													  <tr>
+													    <td>41</td>
+													    <td>HAUSSLER Heinrich</td>
+												      </tr>
+													  <tr>
+													    <td>42</td>
+													    <td>BRÄNDLE Matthias</td>
+												      </tr>
+													  <tr>
+													    <td>43</td>
+													    <td>HOLLENSTEIN Reto</td>
+												      </tr>
+													  <tr>
+													    <td>44</td>
+													    <td>KLUGE Roger</td>
+												      </tr>
+													  <tr>
+													    <td>45</td>
+													    <td>NAESEN Oliver</td>
+												      </tr>
+													  <tr>
+													    <td>46</td>
+													    <td>REYNES Vicente</td>
+												      </tr>
+													  <tr>
+													    <td>47</td>
+													    <td>SARAMOTINS Aleksejs</td>
+												      </tr>
+													  <tr>
+													    <td>48</td>
+													    <td>VAN GENECHTEN Jonas</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>ORICA GreenEDGE / AUS</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: LAPAGE Laurenzo </td>
+												      </tr>
+													  <tr>
+													    <td>51</td>
+													    <td>KEUKELEIRE Jens</td>
+												      </tr>
+													  <tr>
+													    <td>52</td>
+													    <td>BEWLEY Sam</td>
+												      </tr>
+													  <tr>
+													    <td>53</td>
+													    <td>DOCKER Mitchell</td>
+												      </tr>
+													  <tr>
+													    <td>54</td>
+													    <td>DURBRIDGE Luke</td>
+												      </tr>
+													  <tr>
+													    <td>55</td>
+													    <td>HAYMAN Mathew</td>
+												      </tr>
+													  <tr>
+													    <td>56</td>
+													    <td>MEZGEC Luka</td>
+												      </tr>
+													  <tr>
+													    <td>57</td>
+													    <td>NIELSEN Magnus Cort</td>
+												      </tr>
+													  <tr>
+													    <td>58</td>
+													    <td>TUFT Svein</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>TEAM SKY / GBR</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: KNAVEN Servais </td>
+												      </tr>
+													  <tr>
+													    <td>61</td>
+													    <td>ROWE Luke</td>
+												      </tr>
+													  <tr>
+													    <td>62</td>
+													    <td>FENN Andrew</td>
+												      </tr>
+													  <tr>
+													    <td>63</td>
+													    <td>KNEES Christian</td>
+												      </tr>
+													  <tr>
+													    <td>64</td>
+													    <td>MOSCON Gianni</td>
+												      </tr>
+													  <tr>
+													    <td>65</td>
+													    <td>PUCCIO Salvatore</td>
+												      </tr>
+													  <tr>
+													    <td>66</td>
+													    <td>STANNARD Ian</td>
+												      </tr>
+													  <tr>
+													    <td>67</td>
+													    <td>VAN POPPEL Danny</td>
+												      </tr>
+													  <tr>
+													    <td>68</td>
+													    <td>VIVIANI Elia</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>LOTTO SOUDAL / BEL</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: FRISON Herman </td>
+												      </tr>
+													  <tr>
+													    <td>71</td>
+													    <td>ROELANDTS Jurgen</td>
+												      </tr>
+													  <tr>
+													    <td>72</td>
+													    <td>BAK Lars Ytting</td>
+												      </tr>
+													  <tr>
+													    <td>73</td>
+													    <td>BENOOT Tiesj</td>
+												      </tr>
+													  <tr>
+													    <td>74</td>
+													    <td>DE BUYST Jasper</td>
+												      </tr>
+													  <tr>
+													    <td>75</td>
+													    <td>FRISON Frederik</td>
+												      </tr>
+													  <tr>
+													    <td>76</td>
+													    <td>GREIPEL André</td>
+												      </tr>
+													  <tr>
+													    <td>77</td>
+													    <td>SIEBERG Marcel</td>
+												      </tr>
+													  <tr>
+													    <td>78</td>
+													    <td>WALLAYS Jelle</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>TEAM KATUSHA / RUS</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeurs sportifs: SCHMIDT Torsten / MIKHAILOV Gennady</td>
+												      </tr>
+													  <tr>
+													    <td>81</td>
+													    <td>KRISTOFF Alexander</td>
+												      </tr>
+													  <tr>
+													    <td>82</td>
+													    <td>GUARNIERI Jacopo</td>
+												      </tr>
+													  <tr>
+													    <td>83</td>
+													    <td>HALLER Marco</td>
+												      </tr>
+													  <tr>
+													    <td>84</td>
+													    <td>ISAYCHEV Vladimir</td>
+												      </tr>
+													  <tr>
+													    <td>85</td>
+													    <td>KUZNETSOV Viacheslav</td>
+												      </tr>
+													  <tr>
+													    <td>86</td>
+													    <td>MORKOV Michael</td>
+												      </tr>
+													  <tr>
+													    <td>87</td>
+													    <td>POLITT Nils</td>
+												      </tr>
+													  <tr>
+													    <td>88</td>
+													    <td>PORSEV Alexander</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>TEAM LOTTO NL - JUMBO / NED</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: VERHOEVEN Nico </td>
+												      </tr>
+													  <tr>
+													    <td>91</td>
+													    <td>VANMARCKE Sep</td>
+												      </tr>
+													  <tr>
+													    <td>92</td>
+													    <td>CASTELIJNS Twan</td>
+												      </tr>
+													  <tr>
+													    <td>93</td>
+													    <td>ROOSEN Timo</td>
+												      </tr>
+													  <tr>
+													    <td>94</td>
+													    <td>TEUNISSEN Mike</td>
+												      </tr>
+													  <tr>
+													    <td>95</td>
+													    <td>TJALLINGII Maarten</td>
+												      </tr>
+													  <tr>
+													    <td>96</td>
+													    <td>VAN ASBROECK Tom</td>
+												      </tr>
+													  <tr>
+													    <td>97</td>
+													    <td>WAGNER Robert</td>
+												      </tr>
+													  <tr>
+													    <td>98</td>
+													    <td>WYNANTS Maarten</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>BORA-ARGON 18 / GER</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: SCHULZE Andre </td>
+												      </tr>
+													  <tr>
+													    <td>101</td>
+													    <td>SCHILLINGER Andreas</td>
+												      </tr>
+													  <tr>
+													    <td>102</td>
+													    <td>ARCHBOLD Shane</td>
+												      </tr>
+													  <tr>
+													    <td>103</td>
+													    <td>BARTA Jan</td>
+												      </tr>
+													  <tr>
+													    <td>104</td>
+													    <td>BENNETT Sam</td>
+												      </tr>
+													  <tr>
+													    <td>105</td>
+													    <td>DEMPSTER Zakkari</td>
+												      </tr>
+													  <tr>
+													    <td>107</td>
+													    <td>SELIG Rüdiger</td>
+												      </tr>
+													  <tr>
+													    <td>108</td>
+													    <td>THWAITES Scott</td>
+												      </tr>
+													  <tr>
+													    <td>110</td>
+													    <td>SCHWARZMANN Michael</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>TINKOFF / RUS</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: MICHAELSEN Lars</td>
+												      </tr>
+													  <tr>
+													    <td>111</td>
+													    <td>SAGAN Peter</td>
+												      </tr>
+													  <tr>
+													    <td>112</td>
+													    <td>BLYTHE Adam</td>
+												      </tr>
+													  <tr>
+													    <td>113</td>
+													    <td>BRUTT Pavel</td>
+												      </tr>
+													  <tr>
+													    <td>114</td>
+													    <td>GATTO Oscar</td>
+												      </tr>
+													  <tr>
+													    <td>115</td>
+													    <td>GOGL Michael</td>
+												      </tr>
+													  <tr>
+													    <td>116</td>
+													    <td>KOLAR Michael</td>
+												      </tr>
+													  <tr>
+													    <td>117</td>
+													    <td>SAGAN Juraj</td>
+												      </tr>
+													  <tr>
+													    <td>118</td>
+													    <td>TRUSOV Nikolay</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>COFIDIS, SOLUTIONS CREDITS / FRA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: GUIBERTEAU Christian</td>
+												      </tr>
+													  <tr>
+													    <td>121</td>
+													    <td>SENECHAL Florian</td>
+												      </tr>
+													  <tr>
+													    <td>122</td>
+													    <td>BOZIC Borut</td>
+												      </tr>
+													  <tr>
+													    <td>123</td>
+													    <td>HOFSTETTER Hugo</td>
+												      </tr>
+													  <tr>
+													    <td>124</td>
+													    <td>JOEAAR Gert</td>
+												      </tr>
+													  <tr>
+													    <td>125</td>
+													    <td>LAPORTE Christophe</td>
+												      </tr>
+													  <tr>
+													    <td>126</td>
+													    <td>LEMOINE Cyril</td>
+												      </tr>
+													  <tr>
+													    <td>127</td>
+													    <td>VANBILSEN KENNETH</td>
+												      </tr>
+													  <tr>
+													    <td>128</td>
+													    <td>VAN STAEYEN Michael</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>WANTY - GROUPE GOBERT / BEL</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: VAN DER SCHUEREN Hilaire</td>
+												      </tr>
+													  <tr>
+													    <td>131</td>
+													    <td>MARCATO Marco</td>
+												      </tr>
+													  <tr>
+													    <td>132</td>
+													    <td>BACKAERT Frederik</td>
+												      </tr>
+													  <tr>
+													    <td>133</td>
+													    <td>CLAEYS Dimitri</td>
+												      </tr>
+													  <tr>
+													    <td>134</td>
+													    <td>DE HAES Kenny</td>
+												      </tr>
+													  <tr>
+													    <td>135</td>
+													    <td>DEVRIENDT Tom</td>
+												      </tr>
+													  <tr>
+													    <td>136</td>
+													    <td>JANS Roy</td>
+												      </tr>
+													  <tr>
+													    <td>137</td>
+													    <td>STENUIT Robin</td>
+												      </tr>
+													  <tr>
+													    <td>138</td>
+													    <td>THURAU Bjorn</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>TREK - SEGAFREDO / USA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: DEMOL Dirk</td>
+												      </tr>
+													  <tr>
+													    <td>141</td>
+													    <td>CANCELLARA Fabian</td>
+												      </tr>
+													  <tr>
+													    <td>142</td>
+													    <td>COLEDAN Marco</td>
+												      </tr>
+													  <tr>
+													    <td>143</td>
+													    <td>DEVOLDER Stijn</td>
+												      </tr>
+													  <tr>
+													    <td>144</td>
+													    <td>IRIZAR ARRANBURU Markel</td>
+												      </tr>
+													  <tr>
+													    <td>145</td>
+													    <td>POPOVYCH Yaroslav</td>
+												      </tr>
+													  <tr>
+													    <td>146</td>
+													    <td>RAST Gregory</td>
+												      </tr>
+													  <tr>
+													    <td>147</td>
+													    <td>STUYVEN Jasper</td>
+												      </tr>
+													  <tr>
+													    <td>148</td>
+													    <td>VAN POPPEL Boy</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>AG2R LA MONDIALE / FRA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: JURDIE Julien</td>
+												      </tr>
+													  <tr>
+													    <td>151</td>
+													    <td>TURGOT Sébastien</td>
+												      </tr>
+													  <tr>
+													    <td>152</td>
+													    <td>BAGDONAS Gediminas</td>
+												      </tr>
+													  <tr>
+													    <td>153</td>
+													    <td>DANIEL MAXIME</td>
+												      </tr>
+													  <tr>
+													    <td>154</td>
+													    <td>DENZ Nico</td>
+												      </tr>
+													  <tr>
+													    <td>155</td>
+													    <td>GAUDIN Damien</td>
+												      </tr>
+													  <tr>
+													    <td>156</td>
+													    <td>HOULE Hugo</td>
+												      </tr>
+													  <tr>
+													    <td>157</td>
+													    <td>MINARD Sébastien</td>
+												      </tr>
+													  <tr>
+													    <td>158</td>
+													    <td>SERGENT Jesse</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>FDJ / FRA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: GUESDON Frédéric </td>
+												      </tr>
+													  <tr>
+													    <td>161</td>
+													    <td>LADAGNOUS Matthieu</td>
+												      </tr>
+													  <tr>
+													    <td>162</td>
+													    <td>DELAGE Mickaël</td>
+												      </tr>
+													  <tr>
+													    <td>163</td>
+													    <td>FISCHER Murilo Antonio</td>
+												      </tr>
+													  <tr>
+													    <td>164</td>
+													    <td>HOELGAARD Daniel</td>
+												      </tr>
+													  <tr>
+													    <td>165</td>
+													    <td>KONOVALOVAS Ignatas</td>
+												      </tr>
+													  <tr>
+													    <td>166</td>
+													    <td>LE BON Johan</td>
+												      </tr>
+													  <tr>
+													    <td>167</td>
+													    <td>LE GAC Olivier</td>
+												      </tr>
+													  <tr>
+													    <td>168</td>
+													    <td>SARREAU Marc</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>FORTUNEO - VITAL CONCEPT / FRA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: HINAULT Sébastien </td>
+												      </tr>
+													  <tr>
+													    <td>171</td>
+													    <td>TRONET Steven</td>
+												      </tr>
+													  <tr>
+													    <td>172</td>
+													    <td>BONNAMOUR Franck</td>
+												      </tr>
+													  <tr>
+													    <td>173</td>
+													    <td>BREEN Vegard</td>
+												      </tr>
+													  <tr>
+													    <td>174</td>
+													    <td>HUTAROVICH Yauheni</td>
+												      </tr>
+													  <tr>
+													    <td>175</td>
+													    <td>JARRIER Benoit</td>
+												      </tr>
+													  <tr>
+													    <td>176</td>
+													    <td>MC LAY DANIEL</td>
+												      </tr>
+													  <tr>
+													    <td>177</td>
+													    <td>MOUREY Francis</td>
+												      </tr>
+													  <tr>
+													    <td>178</td>
+													    <td>VALLEE Boris</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>DIRECT ENERGIE / FRA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: ARNOULD Dominique </td>
+												      </tr>
+													  <tr>
+													    <td>181</td>
+													    <td>CHAVANEL Sylvain</td>
+												      </tr>
+													  <tr>
+													    <td>182</td>
+													    <td>ANDERSON Ryan</td>
+												      </tr>
+													  <tr>
+													    <td>183</td>
+													    <td>DUCHESNE Antoine</td>
+												      </tr>
+													  <tr>
+													    <td>184</td>
+													    <td>GENE Yohann</td>
+												      </tr>
+													  <tr>
+													    <td>185</td>
+													    <td>GRELLIER Fabien</td>
+												      </tr>
+													  <tr>
+													    <td>186</td>
+													    <td>MORICE Julien</td>
+												      </tr>
+													  <tr>
+													    <td>187</td>
+													    <td>PETIT Adrien</td>
+												      </tr>
+													  <tr>
+													    <td>188</td>
+													    <td>PICHOT Alexandre</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>TOPSPORT VLAANDEREN-BALOISE / BEL</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: PLANCKAERT Walter </td>
+												      </tr>
+													  <tr>
+													    <td>191</td>
+													    <td>VAN HECKE Preben</td>
+												      </tr>
+													  <tr>
+													    <td>192</td>
+													    <td>DECLERCQ Tim</td>
+												      </tr>
+													  <tr>
+													    <td>193</td>
+													    <td>FARAZIJN Maxime</td>
+												      </tr>
+													  <tr>
+													    <td>194</td>
+													    <td>HELVEN Sander</td>
+												      </tr>
+													  <tr>
+													    <td>195</td>
+													    <td>RICKAERT Jonas</td>
+												      </tr>
+													  <tr>
+													    <td>196</td>
+													    <td>STEELS Stijn</td>
+												      </tr>
+													  <tr>
+													    <td>197</td>
+													    <td>VAN HOECKE Gijs</td>
+												      </tr>
+													  <tr>
+													    <td>198</td>
+													    <td>VAN LERBERGHE Bert</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>TEAM DIMENSION DATA / RSA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: HAMMOND Roger </td>
+												      </tr>
+													  <tr>
+													    <td>201</td>
+													    <td>CAVENDISH Mark</td>
+												      </tr>
+													  <tr>
+													    <td>202</td>
+													    <td>BOASSON HAGEN Edvald</td>
+												      </tr>
+													  <tr>
+													    <td>203</td>
+													    <td>BRAMMEIER Matthew</td>
+												      </tr>
+													  <tr>
+													    <td>204</td>
+													    <td>DOUGALL Nicolas</td>
+												      </tr>
+													  <tr>
+													    <td>205</td>
+													    <td>EISEL Bernhard</td>
+												      </tr>
+													  <tr>
+													    <td>206</td>
+													    <td>FARRAR Tyler</td>
+												      </tr>
+													  <tr>
+													    <td>207</td>
+													    <td>JANSE VAN RENSBURG Reinardt</td>
+												      </tr>
+													  <tr>
+													    <td>208</td>
+													    <td>THOMSON Jay Robert</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>LAMPRE - MERIDA / ITA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: SCIREA Mario </td>
+												      </tr>
+													  <tr>
+													    <td>211</td>
+													    <td>CIMOLAI Davide</td>
+												      </tr>
+													  <tr>
+													    <td>212</td>
+													    <td>FARIA DA COSTA Mario Jorge</td>
+												      </tr>
+													  <tr>
+													    <td>213</td>
+													    <td>FENG Chun Kai</td>
+												      </tr>
+													  <tr>
+													    <td>214</td>
+													    <td>FERRARI Roberto</td>
+												      </tr>
+													  <tr>
+													    <td>215</td>
+													    <td>KUMP Marko</td>
+												      </tr>
+													  <tr>
+													    <td>216</td>
+													    <td>PIBERNIK Luka</td>
+												      </tr>
+													  <tr>
+													    <td>217</td>
+													    <td>XU Gang</td>
+												      </tr>
+													  <tr>
+													    <td>218</td>
+													    <td>ZURLO Federico</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>MOVISTAR TEAM / ESP</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: GARCIA ACOSTA Vicente </td>
+												      </tr>
+													  <tr>
+													    <td>221</td>
+													    <td>ERVITI Imanol</td>
+												      </tr>
+													  <tr>
+													    <td>222</td>
+													    <td>ARCAS PEñA Jorge</td>
+												      </tr>
+													  <tr>
+													    <td>223</td>
+													    <td>LOBATO DEL VALLE Juan José</td>
+												      </tr>
+													  <tr>
+													    <td>224</td>
+													    <td>MORENO BAZAN Javier</td>
+												      </tr>
+													  <tr>
+													    <td>225</td>
+													    <td>OLIVEIRA Nelson</td>
+												      </tr>
+													  <tr>
+													    <td>226</td>
+													    <td>QUINTANA ROJAS Dayer Uberney</td>
+												      </tr>
+													  <tr>
+													    <td>227</td>
+													    <td>SÜTTERLIN Jasha</td>
+												      </tr>
+													  <tr>
+													    <td>228</td>
+													    <td>VENTOSO Francisco</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>CANNONDALE / USA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: KLIER Andreas </td>
+												      </tr>
+													  <tr>
+													    <td>231</td>
+													    <td>LANGEVELD Sebastian</td>
+												      </tr>
+													  <tr>
+													    <td>232</td>
+													    <td>BAUER Jack</td>
+												      </tr>
+													  <tr>
+													    <td>233</td>
+													    <td>GAIMON Phillip</td>
+												      </tr>
+													  <tr>
+													    <td>234</td>
+													    <td>KOREN Kristijan</td>
+												      </tr>
+													  <tr>
+													    <td>235</td>
+													    <td>MARANGONI Alan</td>
+												      </tr>
+													  <tr>
+													    <td>236</td>
+													    <td>MULLEN Ryan</td>
+												      </tr>
+													  <tr>
+													    <td>237</td>
+													    <td>VAN BAARLE Dylan</td>
+												      </tr>
+													  <tr>
+													    <td>238</td>
+													    <td>WIPPERT WOUTER</td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td><strong>DELKO MARSEILLE PROVENCE KTM / FRA</strong></td>
+												      </tr>
+													  <tr>
+													    <td></td>
+													    <td>Directeur sportif: PAUCHARD Gilles </td>
+												      </tr>
+													  <tr>
+													    <td>241</td>
+													    <td>ARISTI Mikel</td>
+												      </tr>
+													  <tr>
+													    <td>242</td>
+													    <td>COMBAUD Romain</td>
+												      </tr>
+													  <tr>
+													    <td>243</td>
+													    <td>GALTA Fredrik Strand</td>
+												      </tr>
+													  <tr>
+													    <td>244</td>
+													    <td>GIRAUD BENJAMIN</td>
+												      </tr>
+													  <tr>
+													    <td>245</td>
+													    <td>LAAS Martin</td>
+												      </tr>
+													  <tr>
+													    <td>246</td>
+													    <td>LABORIE Christophe</td>
+												      </tr>
+													  <tr>
+													    <td>247</td>
+													    <td>MARTINEZ Yannick</td>
+												      </tr>
+													  <tr>
+													    <td>248</td>
+													    <td>SISKEVICIUS Evaldas</td>
+												      </tr>
+												  </tbody></table>
+	</div>
+											<!-- InstanceEndEditable -->
+    <!-- end .content --></div>
+ 
+  <div class="footer">
+ <hr>  
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* large banner, created 11/13/09 */
+google_ad_slot = "0514310951";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="./pr2016_files/show_ads.js">
+</script><ins id="aswift_1_expand" style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent"><ins id="aswift_1_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent"><iframe width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;" src="./pr2016_files/saved_resource(1).html"></iframe></ins></ins>
+<p>&nbsp;</p>
+<p>
+  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2062310126166513";
+/* bottom text banner, created 2/9/09 */
+google_ad_slot = "0004268070";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+  </script>
+  <script type="text/javascript" src="./pr2016_files/show_ads.js">
+  </script><ins id="aswift_2_expand" style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent"><ins id="aswift_2_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent"><iframe width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_2" name="aswift_2" style="left:0;position:absolute;top:0;" src="./pr2016_files/saved_resource(2).html"></iframe></ins></ins>
+  </p><hr>
+  <table width="943" border="0">
+    <tbody><tr class="bottomenu1">
+      <td width="296" valign="top"><h3><a href="http://www.bikeraceinfo.com/index.html">Home</a></h3>
+        <h3>Racing Results &amp; Archives</h3>
+        <blockquote>
+          <p><a href="http://www.bikeraceinfo.com/tdf/tdfindex.html">Tour de France</a><br>
+            <a href="http://www.bikeraceinfo.com/bicycle-races.html">Other Races</a><br>
+            <a href="http://www.bikeraceinfo.com/annual/race2015.html">Year-to-Date Results</a><br>
+            <a href="http://www.bikeraceinfo.com/annual/yearly-bicycle-race-results.html">Year-by-Year Results            </a> (2001-2015)<br>
+            <a href="http://www.bikeraceinfo.com/news-and-opinion/news-index.html">News &amp; Opinion</a></p>
+        </blockquote></td>
+      <td width="307" valign="top"><h3>Bicycles &amp; Cycling Lifestyle</h3>
+        <blockquote>
+          <p><a href="http://www.bikeraceinfo.com/tech/bike-tech.html">Bike Tech Essays</a><br>
+            <a href="http://www.bikeraceinfo.com/training-fitness/training-fitness.html">Training &amp; Coaching</a><br>
+            <a href="http://www.bikeraceinfo.com/books/mcgann-publishing.html">The Bookstore</a><br>
+            <a href="http://www.bikeraceinfo.com/travel/bike-travels.html">Bikes &amp; Travel</a><br>
+            <a href="http://www.bikeraceinfo.com/kom/kom-index.html">KOM: A Guide to 
+            Paved Road Climbs</a><br>
+            <a href="http://www.bikeraceinfo.com/comix/bike-comics.html">Comix</a><br>
+            <a href="http://www.bikeraceinfo.com/food/biking-food.html">Food</a><br>
+            <a href="http://www.bikeraceinfo.com/preferences/stuff-we-like.html">Stuff We Like </a><br>
+          </p>
+        </blockquote></td>
+      <td width="281" valign="top"><h3>Cycling History</h3>
+        <blockquote>
+          <p><a href="http://www.bikeraceinfo.com/riderhistories/bicycle-rider-histories.html">Rider Histories</a><br>
+            <a href="http://www.bikeraceinfo.com/oral-history.html">Oral History Project</a><br>
+            <a href="http://www.bikeraceinfo.com/photo-galleries/bike-race-photos.html">Photo Galleries</a></p>
+        </blockquote>
+        <h3>Site Information</h3>
+        <blockquote>
+          <p><a href="http://www.bikeraceinfo.com/glossary.html">Glossary, Terms, Lists</a><br>
+            <a href="http://www.bikeraceinfo.com/about-us.html">About Us</a><br>
+            <a href="http://www.bikeraceinfo.com/contact-us.html">Contact </a><br>
+            <a href="http://www.bikeraceinfo.com/site-map.html">Site Map</a></p>
+        </blockquote></td>
+    </tr>
+  </tbody></table>
+  <p class="bottomenu1">© McGann Publishing LLC</p>
+  <!-- end .footer --></div>
+  
+</div>
+  <!-- end .container-center -->
+
+
+<!-- InstanceEnd -->
+<table cellspacing="0" cellpadding="0" class="gstl_50 gssb_c" style="width: 370px; display: none; top: 237px; left: 163px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>
