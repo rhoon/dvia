@@ -153,18 +153,18 @@ function cutoffs() {
         
         var ptsTot = getTotalPoints(allRiders[rider]);
         
-        
+        //got any points
         if (ptsTot > 0) {
             cutoff1Tot++;
             cutoff1[rider] = allRiders[rider];
         }
-        
-        if (ptsTot > 328) {
+        //top 10%
+        if (ptsTot > 275) {
             cutoff2Tot++;
             cutoff2[rider] = allRiders[rider];
         }
-        
-        if (ptsTot > 1800) {
+        //top 25 riders
+        if (ptsTot > 1625) {
             cutoff3Tot++;
             cutoff3[rider] = allRiders[rider];
         }
@@ -173,8 +173,8 @@ function cutoffs() {
     console.log('CUTOFFS');
     console.log('Total riders ranked: '+allRidersTot);
     console.log('Total riders scoring any points: '+cutoff1Tot);
-    console.log('Riders scoring 328+ points (Top 10%): '+cutoff2Tot);   
-    console.log('Top 25 Riders:'); 
+    console.log('Riders scoring 275 points (Top 10%): '+cutoff2Tot);   
+    console.log('Top ' +cutoff3Tot+ ' Riders:'); 
     for (rider in cutoff3) {
         console.log(cutoff3[rider]);
     }
