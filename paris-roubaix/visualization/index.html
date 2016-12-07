@@ -1,0 +1,218 @@
+<html>
+    
+    <head>
+      <title>Paris Roubaix</title>
+      <script src="https://d3js.org/d3.v4.min.js"></script>
+      <script src="https://d3js.org/d3-selection-multi.v0.4.min.js"></script>
+      <link href="https://fonts.googleapis.com/css?family=Roboto:400,900i" rel="stylesheet">
+      <link href="style.css" rel="stylesheet">
+    
+    <style>
+        
+    </style>
+    
+    </head>
+    
+    <body>
+        
+    <div id="allRaces">
+        <h1 class="offWhiteTitle">ALLEZ! ALLEZ!</h1>
+        <p class="offWhiteText">Over the roughly 115-year history of Paris-Roubaix, the races have nearly doubled in speed, 
+        with the pelotons grouping together in ever-tighter finishing sprints. 
+        <br /><br />
+        The speed of the fastest race, ridden at just over 45 km/hr (28 mph) in 1964, is largely attributed 
+        to a strong tailwind and changes to the route that took the racers over mostly well-paved roads, but 
+        the slowest might be more noteworthy: In 1919, the first riders to race Paris-Roubaix since the 
+        beginning of WWI fought through rubble and ruins for a bitter 12 hours.
+        </p>
+        
+        <div class="chart" id="allRacesChart"></div>
+        
+    </div>
+        
+    <script>
+        var margin = {  top: 20,  right: 10,  bottom: 5,  left: 45 };
+        
+        //finishers bar chart
+        var width = 300 - margin.left - margin.right,
+            height = 1100 - margin.top - margin.bottom;
+            
+        var wSpeed = 860 - margin.left - margin.right;
+            hSpeed = 1100 - margin.top - margin.bottom;
+    
+        var xScale = d3.scaleLinear()
+          .range([0, width])
+          .domain([0, 200]);
+          
+        var xScaleSpeeds = d3.scaleLinear()
+          .range([0, wSpeed])
+          .domain([0, 45]);
+          
+        var yScale = d3.scaleLinear()
+          .range([0, height])
+          .domain([1896, 2016]);
+    
+        var xAxis = d3.axisTop()
+          .ticks(9)
+          .tickSize(hSpeed)
+          .scale(xScaleSpeeds);
+    
+        // var yAxis = d3.axisRight()
+        //   .ticks(4)
+        //   .scale(yScale);
+          
+        var barHeight = 4;
+        
+         d3.json('data/parisRoubaix-fullv2.json', drawChart);
+         
+         function drawChart(data) {
+             
+            //organize data by year
+            data = d3.nest()
+                .key((d) => { return d.year})
+                .entries(data);
+            
+            //move finishers and starters up the tree
+            data.forEach((d) => {
+                d.finishers = d.values[0].finishers;
+                d.starters = d.values[0].starters;
+            });
+            
+            console.log(data);
+            
+            //finishers bar chart
+            bars = d3.select('#allRacesChart')
+                .append('svg')
+                .attr('class', 'bars')
+                .attr('width', width)
+                .attr('height', height);
+                
+            //labels
+            bars.append('text')
+                .attrs({
+                  y: 0,
+                  x: 0,
+                  class: 'liteGray label'
+                })
+                .text('YEAR');
+            
+            //append bars for racers who did not finish (womp womp)
+            bars.selectAll('rect.dnf')
+                .data(data)
+                .enter()
+                .append('rect')
+                    .attr('class', 'dnf')
+                    .attr('x', margin.left)
+                    .attr('y', (d) => {
+                      return yScale(d.key);
+                    })
+                    .attr('height', barHeight)
+                    .attr('width', (d) => {
+                      return (+d.starters)-(+d.finishers);
+                    });
+            
+            //append bars for racers who did finish (stacked)
+            bars.selectAll('rect.finishers')
+                .data(data)
+                .enter()
+                .append('rect')
+                    .attr('class', 'finishers')
+                    .attr('x', (d) => {
+                        var pos = (+d.starters)-(+d.finishers);
+                        if (!isNaN(pos)) {
+                            return pos+margin.left;
+                        } else {
+                            return margin.left;
+                        }
+                    })
+                    .attr('y', (d) => {
+                        return yScale(d.key);
+                    })
+                    .attr('height', barHeight)
+                    .attr('width', (d) => {
+                       return (+d.finishers) 
+                    });
+            
+            bars.selectAll('text.year')
+                .data(data)
+                .enter()
+                .append('text')
+                    .attr('class', 'year')
+                    .attr('x', 0)
+                    .attr('y', (d) => {
+                        return yScale(d.key)+barHeight;
+                    })
+                    .text( (d) => {
+                        if (d.key%5==0 || d.key==1896) {
+                            return d.key;
+                        } 
+                    })
+            
+                
+            //draw speeds chart
+            var speedsChart = d3.select('#allRacesChart')
+                .append('svg')
+                    .attr('class', 'speed')
+                    .attr('width', wSpeed)
+                    .attr('height', hSpeed);
+            
+            //draw labels
+            speedsChart.append('text')
+                .attr('x', 0)
+                .attr('y', 0)
+                .attr('class', 'liteGray label')
+                .text('Speed (km/hr)');
+                
+            speedsChart.append('text')
+                .attr('x', wSpeed)
+                .attr('y', 0)
+                .attr('class', 'red label')
+                .attr('text-anchor', 'END')
+                .text('EACH FINISHING RACER IS MARKED BY A SINGLE RED LINE');
+            
+            speedsChart.append('g')
+                .call(xAxis)
+                .attr('class', 'speeds x axis')
+                .attr('opacity', '.5')
+                .attr('transform', 'translate(0,'+hSpeed+')');   
+                
+            
+            //visualize data
+            var year = speedsChart.selectAll('g.sYear')
+                .data(data)
+                .enter()
+                .append('g')
+                .attr('class', 'sYear')
+                .attr('transform', function(d) {
+                  return 'translate(0,'+yScale(d.key)+')'  
+                })
+                .on('mouseup', speedsClick());
+                
+                
+            year.selectAll('rect.speeds') 
+                .data(function(d) {
+                    return d.values;
+                })
+                .enter()
+                .append('rect')
+                .attr('class', 'speeds')
+                .attr('x', function(d) {
+                    return xScaleSpeeds(d.kmPerSec*3600);
+                })
+                .attr('y', 0)
+                .attr('height', barHeight)
+                .attr('width', 1);
+            
+         }
+         
+         function speedsClick() {
+             return function(d) {
+                 
+             }
+         }
+         
+    </script>    
+        
+    </body>
+    
+</html>

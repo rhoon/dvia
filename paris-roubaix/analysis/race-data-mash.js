@@ -94,16 +94,13 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
     
     namesAndCountries();
     
-   
-
 // console.log(racesBRI);
-
 
 	fs.writeFile('parisRoubaix-fullv2.json', JSON.stringify(racesBRI), function(err) {
         if (err) {throw err;}
         console.log("done");
     });
-
+ 
 }); //end callback to read csv file
 
 
@@ -124,7 +121,7 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
                 if ( hasFirst && hasLast && racesPCS[racerPCS].lastName != 'Eo') { 
                     racesBRI[racerBRI].name = racesPCS[racerPCS].firstName +' '+ racesPCS[racerPCS].lastName;
                     racesBRI[racerBRI].country = racesPCS[racerPCS].country;
-                    console.log('N&C'+racesBRI[racerBRI].name);
+                    console.log('N&C '+racesBRI[racerBRI].name);
                     break;
                 }
             }

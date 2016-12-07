@@ -1,0 +1,93 @@
+    /*
+    BODY: Freight book 20pt
+    HEADLINE: Roboto black italic 30pt
+    LABELS: Roboto medium 10/11pt
+    */
+    
+    /* COLORS */
+    .red {
+        fill: #f78056;
+        color: #f78056;
+    }
+    
+    .liteGray {
+        fill: #b3b3b3;
+        color: #b3b3b3;
+    }
+    
+    .offWhiteText {
+        fill: #f2f2f2;
+        color: #f2f2f2;
+    }
+    
+    .offWhiteTitle {
+        fill: #e6e6e6;
+        color: #e6e6e6;
+    }
+    
+    
+    .finishers {
+        fill: #f78056;
+    }
+    
+    .dnf {
+        fill: #cccccc;
+    }
+    
+    .year {
+        fill: #b3b3b3;
+        font-size: 10;
+    }
+    
+    body {
+        font-family: Roboto, sans-serif;
+        background: #0f0f0f;
+    }
+    
+    svg {
+        overflow: visible;
+    }
+    
+    .sYear {
+        fill: #f78056;
+    }
+    
+    .speeds .tick line {
+        stroke: #404040;
+    }
+    
+    .speeds .tick text {
+        fill: #f2f2f2;
+    }
+    
+    h1 {
+      font-family : Roboto;
+      font-weight: 900;
+      font-style : italic;
+      font-size : 30px;
+      letter-spacing : 1.8px;
+      text-transform : uppercase;
+      width: 40%;
+      margin: 60px auto 40px auto;
+      text-align: center;
+    }
+    
+    p {
+      font-family: freight-text-pro, serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size : 20px;
+      line-height : 30px;
+      width: 40%;
+      margin: 0 auto 80px auto;
+    }
+    
+    #allRacesChart {
+      margin: 0 auto;
+    }
+    
+    #allRacesChart .label {
+      font-size: 10;
+      text-transform: uppercase;
+    }
+    
