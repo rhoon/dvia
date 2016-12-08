@@ -60,8 +60,12 @@
         // var yAxis = d3.axisRight()
         //   .ticks(4)
         //   .scale(yScale);
-          
+         
+        //vars for pos and size consistancy
         var barHeight = 4;
+        var chartLabelY = -20;
+        //animation durations
+        var dura = 100;
         
          d3.json('data/parisRoubaix-fullv2.json', drawChart);
          
@@ -90,11 +94,27 @@
             //labels
             bars.append('text')
                 .attrs({
-                  y: 0,
+                  y: chartLabelY,
                   x: 0,
                   class: 'liteGray label'
                 })
-                .text('YEAR');
+                .text('Year');
+                
+            bars.append('text')
+                .attrs({
+                  y: chartLabelY,
+                  x: margin.left,
+                  class: 'liteGray label'
+                })
+                .text('DNF');
+                
+            bars.append('text')
+                .attrs({
+                  y: chartLabelY,
+                  x: margin.left+30,
+                  class: 'red label'
+                })
+                .text('Finishers');
             
             //append bars for racers who did not finish (womp womp)
             bars.selectAll('rect.dnf')
@@ -152,23 +172,30 @@
             //draw speeds chart
             var speedsChart = d3.select('#allRacesChart')
                 .append('svg')
-                    .attr('class', 'speed')
-                    .attr('width', wSpeed)
-                    .attr('height', hSpeed);
+                    .attrs({
+                        class: 'speed',
+                        width: wSpeed,
+                        height: hSpeed
+                    });
             
             //draw labels
             speedsChart.append('text')
-                .attr('x', 0)
-                .attr('y', 0)
-                .attr('class', 'liteGray label')
+                .attrs({
+                    x: 0,
+                    y: chartLabelY,
+                    class: 'liteGray label'
+                })
                 .text('Speed (km/hr)');
                 
             speedsChart.append('text')
-                .attr('x', wSpeed)
-                .attr('y', 0)
-                .attr('class', 'red label')
-                .attr('text-anchor', 'END')
+                .attrs({
+                    x: wSpeed,
+                    y: chartLabelY,
+                    class: 'red label',
+                    'text-anchor': 'END'
+                })
                 .text('EACH FINISHING RACER IS MARKED BY A SINGLE RED LINE');
+                
             
             speedsChart.append('g')
                 .call(xAxis)
@@ -185,9 +212,36 @@
                 .attr('class', 'sYear')
                 .attr('transform', function(d) {
                   return 'translate(0,'+yScale(d.key)+')'  
+                });
+            
+            //rollover highlight
+            year.append('rect')
+                .attrs({
+                    x: 0,
+                    y: 0,
+                    width: wSpeed,
+                    height: barHeight,
+                    class: 'darkGray',
+                    opacity: 0
                 })
-                .on('mouseup', speedsClick());
+                .on('mouseover', raceOn())
+                .on('mouseout', raceOff())
+            
+            //rollover text
+            year.append('text')
+                .attrs({
+                    class: 'stats label liteGray',
+                    x: 0,
+                    y: 0,
+                    opacity: 0
+                })
+                .text(function(d) {
+                    return d.key + ' | Winner : ' + d.values[0].name + ', ' + d.values[0].country + ', ' + kmhr(d.values[0].speed);
+                });
                 
+            function kmhr(kmsec) {
+                return kmsec*3600;
+            }
                 
             year.selectAll('rect.speeds') 
                 .data(function(d) {
@@ -195,21 +249,43 @@
                 })
                 .enter()
                 .append('rect')
-                .attr('class', 'speeds')
-                .attr('x', function(d) {
-                    return xScaleSpeeds(d.kmPerSec*3600);
-                })
-                .attr('y', 0)
-                .attr('height', barHeight)
-                .attr('width', 1);
+                .attrs({
+                    class: 'speeds',
+                    x: function(d) { return xScaleSpeeds(d.kmPerSec*3600); },
+                    y: 0,
+                    height: barHeight,
+                    width: 1
+                });
+                
             
          }
          
-         function speedsClick() {
-             return function(d) {
-                 
-             }
-         }
+        function raceOn() {
+            return function(d) {
+                d3.select(this)
+                    .transition()
+                    .duration(dura)
+                    .attr('opacity', 1);
+                    
+                // var p = d3.select(this.parentNode);
+                
+                // p.selectAll(function() { return this.childNodes; })
+                //     .transition()
+                //     .duration(dura)
+                //     .attr('fill', '#ffffff');
+            }
+        }
+        
+        function raceOff() {
+            return function(d) {
+                d3.select(this)
+                    .transition()
+                    .duration(dura)
+                    .attr('opacity', 0);
+                    
+                
+            }
+        }
          
     </script>    
         

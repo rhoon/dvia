@@ -15,6 +15,11 @@
         color: #b3b3b3;
     }
     
+    .darkGray {
+        fill: #404040;
+        color: #404040;
+    }
+    
     .offWhiteText {
         fill: #f2f2f2;
         color: #f2f2f2;
@@ -25,19 +30,7 @@
         color: #e6e6e6;
     }
     
-    
-    .finishers {
-        fill: #f78056;
-    }
-    
-    .dnf {
-        fill: #cccccc;
-    }
-    
-    .year {
-        fill: #b3b3b3;
-        font-size: 10;
-    }
+    /* GLOBAL STYLES */
     
     body {
         font-family: Roboto, sans-serif;
@@ -46,18 +39,6 @@
     
     svg {
         overflow: visible;
-    }
-    
-    .sYear {
-        fill: #f78056;
-    }
-    
-    .speeds .tick line {
-        stroke: #404040;
-    }
-    
-    .speeds .tick text {
-        fill: #f2f2f2;
     }
     
     h1 {
@@ -82,8 +63,40 @@
       margin: 0 auto 80px auto;
     }
     
+    /* ALL RACES CHART */
+    
+    .finishers {
+        fill: #f78056;
+    }
+    
+    .dnf {
+        fill: #cccccc;
+    }
+    
+    .year {
+        fill: #b3b3b3;
+        font-size: 10;
+    }
+    
+    .sYear {
+        fill: #f78056;
+    }
+    
+    .speed svg {
+        float: right;
+    }
+    
+    .speeds .tick line {
+        stroke: #404040;
+    }
+    
+    .speeds .tick text {
+        fill: #f2f2f2;
+    }
+    
     #allRacesChart {
       margin: 0 auto;
+      width: 1200px;
     }
     
     #allRacesChart .label {
