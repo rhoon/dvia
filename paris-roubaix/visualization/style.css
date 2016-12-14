@@ -20,6 +20,11 @@
         color: #404040;
     }
     
+    .black {
+        fill: #0f0f0f;
+        color: #0f0f0f;
+    }
+    
     .offWhiteText {
         fill: #f2f2f2;
         color: #f2f2f2;
@@ -30,11 +35,23 @@
         color: #e6e6e6;
     }
     
+    .darkText {
+        fill: #0f0f0f;
+        color: #0f0f0f;
+    }
+    
+    .blackbg {
+        background: #0f0f0f;
+    }
+    
+    .whitebg {
+        background: #f2f2f2;
+    }
+    
     /* GLOBAL STYLES */
     
     body {
         font-family: Roboto, sans-serif;
-        background: #0f0f0f;
     }
     
     svg {
@@ -119,4 +136,30 @@
       text-transform: uppercase;
     }
     
+    /* 'THE GREATS' CHART */
     
+    #theGreatsChart {
+      margin: 0 auto 10em auto;
+      width: 1100px;
+      position: relative;
+    }
+    
+    .riderName {
+      font-size: 10;
+    }
+    
+    .line {
+      fill: none;
+      stroke: #f78056; /*#0f0f0f */
+      stroke-width: 1px;
+      opacity: .5;
+    }
+    
+    .arc {
+      opacity: .8;
+      cursor: pointer;
+    }
+    
+    #theGreatsChart .y.axis path {
+      display: none;
+    }

@@ -13,7 +13,7 @@
     
     </head>
     
-    <body>
+    <body class='blackbg'>
         
     <div id="allRaces">
         <h1 class="offWhiteTitle">ALLEZ! ALLEZ!</h1>
@@ -148,7 +148,9 @@
                         y: 0,
                         height: barHeight,
                         width: function(d) { return (+d.starters)-(+d.finishers); }
-                    });
+                    })
+                    .on('mouseover', raceOn())
+                    .on('mouseout', raceOff());
             
             //append bars for racers who did finish (stacked)
             bars.append('rect')
@@ -161,7 +163,9 @@
                         y: 0,
                         height: barHeight,
                         width: function(d) { return (+d.finishers) }
-                    });
+                    })
+                    .on('mouseover', raceOn())
+                    .on('mouseout', raceOff());
             
             
             bars.append('text')
