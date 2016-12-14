@@ -1,5 +1,7 @@
-// this compiles PCS' data (which is missing several years of finisher times in 
+// Race Data Mash compiles PCS' data (which is missing several years of finisher times in 
 // the 20's and 30's) into the more robust BRI data object
+
+// Adds in starter data
 
 var fs = require('fs');
 var cheerio = require('cheerio');
@@ -21,10 +23,17 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
     startersIn = d3.csvParse(startersIn);
     
     for (var yr in startersIn) {
-        startersBox[startersIn[yr].year] = startersIn[yr].starters;
-        // console.log(startersBox[startersIn[yr].year]);
+        if (!isNaN(startersIn[yr].starters)) {
+            startersBox[startersIn[yr].year] = startersIn[yr].starters;
+            startersBox[startersIn[yr].year+'est'] = false;
+        } else {
+            startersBox[startersIn[yr].year] = '123';
+            startersBox[startersIn[yr].year+'est'] = true;
+        }
+        console.log(startersBox[startersIn[yr].year]);
     }
 
+    console.log(startersBox);
 
     for (var racer = 0; racer < racesPCS.length; racer++) {
         
@@ -62,13 +71,11 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
         
         // use next closest time for missing data points, and mark 'est' true
         if (racesBRI[racer].time == undefined || racesBRI[racer].time == 'READ-ERR') {
-            // console.log('bad data: '+racesBRI[racer].name+' '+racesBRI[racer].time+' '+racesBRI[racer].year);
             racesBRI[racer].time = lastRealTime;
             racesBRI[racer].est = true;
         } else {
             lastRealTime = racesBRI[racer].time;
             racesBRI[racer].est = false;
-            // console.log('good data: '+racesBRI[racer].name+racesBRI[racer].time);
         }
         
         // calculate speed -- for some reason this misses some race winners (but not all)
@@ -111,10 +118,12 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
     function namesAndCountries() {
         
         for (var racerBRI in racesBRI) {
-            // problem - not catching all racers - are some added after this is run?
+            // 'Eo' Emile van Berendonck
+            
             for (var racerPCS in racesPCS) {
                 
-                // test to see if names are a match
+                // test to see if names are a match 
+                // not really sophisticated enough to handle edge cases, like missing first names...
                 var hasFirst = racesBRI[racerBRI].name.toLowerCase().includes(racesPCS[racerPCS].firstName.toLowerCase());
                 var hasLast = racesBRI[racerBRI].name.toLowerCase().includes(racesPCS[racerPCS].lastName.toLowerCase());
                 //kill the ghost of Eo
