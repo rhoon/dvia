@@ -1,91 +1,87 @@
 <html>
-    
+
     <head>
       <title>Paris Roubaix</title>
       <script src="https://d3js.org/d3.v4.min.js"></script>
       <script src="https://d3js.org/d3-selection-multi.v0.4.min.js"></script>
       <link href="https://fonts.googleapis.com/css?family=Roboto:400,900i" rel="stylesheet">
-      <link href="style.css" rel="stylesheet">
-    
+      <link href="style-min.css" rel="stylesheet">
+
     <style>
-        
-        
+
+
     </style>
-    
+
     </head>
-    
+
     <body class='whitebg'>
-        
+
     <div id="theGreats">
         <h1 class="darkText">The Greats</h1>
         <p class="darkText">
-        Paris-Roubaix is known for it’s wild and unpredictable wins, but an elite few have dominated the event. I’ve examined every racer 
-        and assigned them points per rank, per race (based on the UCI’s system, which assigns 3 – 500 points for ranks from 60th to 1st 
-        place, respectively) creating career arcs for the top 10% of the winning-est cyclist’s in the races’ history.
+        Paris-Roubaix is known for it's wild and unpredictable wins, but an elite few have dominated the event. I've examined every racer
+        and assigned them points per rank, per race (based on the UCI's system, which assigns 3-500 points for ranks from 60th to 1st
+        place, respectively) creating career arcs for the top 10% of the winning-est cyclist’s in the races' history.
         <br /><br />
-        Of those roughly 325 riders, you’ll see the names of the most successful 25 highlighted by name. Roger De Vlaeminck easily takes 
+        Of those roughly 325 riders, you'll see the names of the most successful 25 highlighted by name. Roger De Vlaeminck easily takes
         top spot, having won top ten positions for 13 years straight – a feat no other rider has ever achieved.
         <br /><br />
-        Tom Boonen currently has the greatest chance of unseating De Vlaeminck, but with 13 races under his belt already and likely in the 
-        twilight of his career, it’s difficult to say that he’ll be able to make up the nearly 1000 point deficiency. To do it in the next 
-        three years, he’d have to make podium finishes every time.
+        Tom Boonen currently has the greatest chance of unseating De Vlaeminck, but with 13 races under his belt already and likely in the twilight of his career, it's difficult to say that he'll be able to make up the nearly 1000 point deficiency. To do it in the next   three years, he’d have to make podium finishes every time.
         <br /><br />
-        One surprise: George Hincapie, a super-domestique for Lance Armstrong, makes the top 25 riders in points alone without having 
-        ever won the race: partially out of sheer longevity, as he raced 15 years, and partially from a slew of near-wins, making 
-        the top ten 7 of those 15 attempts.
+        George Hincapie, a super-domestique for Lance Armstrong, makes the top 25 riders in points alone without having ever won the race: partially out of sheer longevity, as he raced 15 years, and partially from a slew of near-wins, making the top ten 7 of those 15 attempts.
         </p>
-        
+
         <div class="chart" id="theGreatsChart"></div>
-        
+
     </div>
-        
+
     <script>
         var margin = {  top: 20,  right: 0,  bottom: 5,  left: 0 };
-        
+
         //finishers bar chart
         var width = 1100 - margin.left - margin.right,
             height = 600 - margin.top - margin.bottom;
-            
+
         var xScale = d3.scaleLinear()
           .range([0, width])
           .domain([1896, 2016]);
-          
+
         var yScale = d3.scaleLinear()
           .range([0, height])
           .domain([5000, 0]);
-    
+
         var xAxis = d3.axisBottom()
           .tickFormat(d3.format("d"))
           .tickValues([1896, 2016])
           .scale(xScale);
-    
+
         var yAxis = d3.axisRight()
           .tickValues([500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000])
           .scale(yScale);
-         
+
         // https://bl.ocks.org/mbostock/3883245
         var line = d3.line()
             .x(function(d) { return xScale(+d.key); })
             .y(function(d) { return yScale(d.value.ptsTot); });
-         
+
         //vars for pos and size consistancy
-        
+
         //animation durations
         var dura = 50;
-        
+
          d3.json('data/top10percent.json', drawChart);
-         
+
          function drawChart(data) {
-             
+
             data = d3.entries(data);
-             
+
             console.log(data);
-             
+
             var chart = d3.select('#theGreatsChart')
                 .append('svg')
                 .attr('width', width)
                 .attr('height', height);
-                
+
             var arc = chart.selectAll('g.arc')
                 .data(data)
                 .enter()
@@ -95,20 +91,20 @@
                 })
                 .on('mouseover', cyclistOn())
                 .on('mouseout', cyclistOff());
-                
+
             arc.append('path')
-                .datum(function(d) { 
+                .datum(function(d) {
                     years = d3.entries(d.value.years)
                     // console.log(years);
-                    return years; 
+                    return years;
                 })
                 .attr('class', 'line')
                 .attr('d', line);
-                
+
             var nameDots = arc.append('g')
                 .datum(function(d) {
                     //only append at point for last year
-                    var years = d3.entries(d.value.years)
+                    var years = d3.entries(d.value.years);
                     var lastYear = years[years.length-1];
                     var nyp = [d.value.name, lastYear];
                     return nyp;
@@ -118,77 +114,96 @@
                     var y = yScale(d[1].value.ptsTot);
                     return 'translate('+x+','+y+')';
                 });
-            
+
             nameDots.append('circle')
                 .attrs({
                     class: 'terminal black',
-                    cx : 0, 
-                    cy : 0, 
+                    cx : 0,
+                    cy : 0,
                     r : 2,
                 });
-                
+
             var txtM = { left: 6, top: 3 }
-                
+
             nameDots.append('text')
                 // .filter(function(d) { return d.value.ptsTot>1625 })
                 .attrs({
-                    class: function(d) { 
-                        if (d[1].value.ptsTot>1625) { return 'darkText riderName top25';
-                        } else { return 'darkText riderName hidden'; }
+                    class: function(d) {
+                        if (d[1].value.ptsTot>1625) {
+                          return 'darkText riderName top25';
+                        } else {
+                          return 'darkText riderName hidden'; }
                     },
                     x: txtM.left,
                     y: txtM.top
                 })
                 .text(function(d) { return d[0]; });
-            
-            // Rider Detail view - causes performance issues?
-            
+
+            // RIDER DETAIL VIEW
+            // ABS Divs
+
             // var col = [10,70,130];
-            
-            // var riderDetail = arc.append('g')
-            //     .classed('riderDetail', true);//add class hidden here;
-            
-            // riderDetail.append('rect')
+
+            // var riderDetail = d3.select('#theGreatsChart').selectAll('div.riderDetail')
+            //     .data(data)
+            //     .enter()
+            //     .append('div')
             //     .attrs({
-            //         class: 'offWhiteText',
-            //         width: '205',
-            //         height: '155',
-            //         x: 0,
-            //         y: 0
+            //       class: function(d) {
+            //         return d.key + ' riderDetail'; // hidden
+            //       }
+            //     })
+            //     .styles({
+            //       top: '100px',
+            //       left: '100px',
+            //       height: '100px'
             //     });
-                
-            // riderDetail.append('text.fName')
+            //
+            // riderDetail.append('p')
             //     .attrs({
             //         class: 'darkText, subtitle',
-            //         x: col[1],
-            //         y: 25
-            //     }).text(function(d) { 
+            //         // x: col[0],
+            //         // y: 25
+            //     }).text(function(d) {
             //         return d.value.name;
             //     });
-                
-                
+
+            // var medals = riderDetail.append('ul')
+            //     .selectAll('li')
+            //     .data( function(d) {
+            //       return d3.entries(d.value.years);
+            //     })
+            //     .enter()
+            //     .append('li')
+            //     .text(function(d) {
+            //       return 'year'+d.key +'rank'+ d.value.rank;
+            //     })
+
+
+
+
             // AXES
-                
+
             chart.append('g')
                 .call(xAxis)
                 .attr('class', 'x axis')
-                .attr('transform', 'translate(0,'+height+')'); 
-                
+                .attr('transform', 'translate(0,'+height+')');
+
             chart.append('g')
                 .call(yAxis)
                 .attr('class', 'y axis');
-                
+
          }
-         
+
          function cyclistOn() {
              return function(d) {
                  var group = d3.select(this);
-                 
+
                 d3.selectAll('g.arc')
                     .style('opacity', '.5');
-                 
+
                  group.style('opacity', 1);
-                 
+
                  group.select('.line')
                     .transition()
                     .duration(dura)
@@ -196,25 +211,25 @@
                         'stroke-width': '2px',
                         stroke: '#0f0f0f'
                     });
-                    
+
                 var rName = group.select('.riderName');
                 if (rName.classed('hidden')) {
                     rName.classed('hidden', false);
                 }
-                
-                 
+
+
              }
          }
-         
+
          function cyclistOff() {
              return function(d) {
                  var group = d3.select(this);
-                 
+
                  d3.selectAll('g.arc')
                     .style('opacity', '.8');
-                 
+
                  group.style('opacity', .8);
-                 
+
                  group.select('.line')
                     .transition()
                     .duration(dura)
@@ -222,7 +237,7 @@
                         'stroke-width': '1px',
                         stroke: '#f78056'
                     });
-                    
+
                 var rName = group.select('.riderName');
                 if (!rName.classed('hidden') && !rName.classed('top25')) {
                     rName.classed('hidden', true);
@@ -230,9 +245,9 @@
              }
          }
 
-         
-    </script>    
-        
+
+    </script>
+
     </body>
-    
+
 </html>
