@@ -130,17 +130,30 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
 
                 var fnPCS = racesPCS[racerPCS].firstName.toLowerCase();
                 var lnPCS = racesPCS[racerPCS].lastName.toLowerCase();
-
                 // test to see if names are a match
                 var hasFirst = racesBRI[racerBRI].name.toLowerCase().includes(fnPCS);
                 var hasLast = racesBRI[racerBRI].name.toLowerCase().includes(lnPCS);
 
-                /
-                if ( hasFirst && hasLast && racesPCS[racerPCS].lastName != 'Eo') {
-                    // do a better comparison here
-                    // PROBLEM: Some racers have 3 or 4 names. SOLUTION: Split the names into an array and check each one?
-                    racesBRI[racerBRI].name = racesPCS[racerPCS].firstName +' '+ racesPCS[racerPCS].lastName;
-                    racesBRI[racerBRI].country = racesPCS[racerPCS].country;
+                if ( hasFirst && hasLast) {
+                    var namesBRI = racesBRI[racerBRI].name.split(' ');
+                    var inPCSfn, inPCSln = false;
+
+                    // reverse check name
+                    for (var n in namesBRI) {
+                      if (fnPCS.includes(namesBRI[n].toLowerCase())) {
+                        inPCSfn = true;
+                      } else if(lnPCS.includes(namesBRI[n].toLowerCase())) {
+                        inPCSln = true;
+                      }
+                    }
+
+                    if (inPCSfn && inPCSln) {
+                    //   console.log('MATCH!');
+                    //   console.log(racesBRI[racerBRI].name);
+                    //   console.log(racesPCS[racerPCS].firstName +' '+ racesPCS[racerPCS].lastName);
+                      racesBRI[racerBRI].name = racesPCS[racerPCS].firstName +' '+ racesPCS[racerPCS].lastName;
+                      racesBRI[racerBRI].country = racesPCS[racerPCS].country;
+                    }
                     break;
                 }
             }
