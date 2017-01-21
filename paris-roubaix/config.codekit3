@@ -7,12 +7,18 @@
 		"uuidString": "6A445194-D150-4C42-81A2-B6779BE15D65"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
 	"\/analysis": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/build\/analysis",
+		"oF": 0
+		},
+	"\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/node_modules",
 		"oF": 0
 		},
 	"\/visualization\/data\/byRider.json": {
@@ -74,6 +80,16 @@
 		"oA": 2,
 		"oAP": "\/visualization\/index.html",
 		"oF": 0
+		},
+	"\/visualization\/style-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/visualization\/style-min-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/visualization\/style.css": {
 		"aP": 0,
@@ -754,6 +770,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -1293,6 +1313,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
