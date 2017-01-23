@@ -123,17 +123,25 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
     function namesAndCountries() {
 
         for (var racerBRI in racesBRI) {
-            // 'Eo' Emile van Berendonck
-            // console.log(racesBRI[racerBRI]);
+
+            // exceptions
+            var skip = false;
+            var exceptions = ['Louis Gauthier', 'Jo Planckaert', 'Pino Cerami'];
+            for (var i in exceptions) {
+              skip = (racesBRI[racerBRI].name === exceptions[i]) ? true : false;
+              console.log('exception: '+exceptions[i]);
+            }
+            if (skip) { break; }
 
             for (var racerPCS in racesPCS) {
-
+                // check 1
                 var fnPCS = racesPCS[racerPCS].firstName.toLowerCase();
                 var lnPCS = racesPCS[racerPCS].lastName.toLowerCase();
                 // test to see if names are a match
                 var hasFirst = racesBRI[racerBRI].name.toLowerCase().includes(fnPCS);
                 var hasLast = racesBRI[racerBRI].name.toLowerCase().includes(lnPCS);
 
+                // check 2
                 if ( hasFirst && hasLast) {
                     var namesBRI = racesBRI[racerBRI].name.split(' ');
                     var inPCSfn, inPCSln = false;
@@ -147,10 +155,8 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
                       }
                     }
 
+                    // log name
                     if (inPCSfn && inPCSln) {
-                    //   console.log('MATCH!');
-                    //   console.log(racesBRI[racerBRI].name);
-                    //   console.log(racesPCS[racerPCS].firstName +' '+ racesPCS[racerPCS].lastName);
                       racesBRI[racerBRI].name = racesPCS[racerPCS].firstName +' '+ racesPCS[racerPCS].lastName;
                       racesBRI[racerBRI].country = racesPCS[racerPCS].country;
                     }

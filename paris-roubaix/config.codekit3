@@ -21,10 +21,58 @@
 		"oAP": "\/build\/node_modules",
 		"oF": 0
 		},
+	"\/visualization\/data\/2-byRider.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/visualization\/data\/2-byRider-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/visualization\/data\/2-parisRoubaix-fullv2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/visualization\/data\/2-parisRoubaix-fullv2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/visualization\/data\/2-top10percent.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/visualization\/data\/2-top10percent-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/visualization\/data\/byRider.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/visualization\/data\/byRider-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/visualization\/data\/old-byRider.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/visualization\/data\/old-byRider-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/visualization\/data\/old-parisRoubaix-fullv2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/visualization\/data\/old-parisRoubaix-fullv2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/visualization\/data\/old-top10percent.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/visualization\/data\/old-top10percent-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
