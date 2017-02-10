@@ -8,20 +8,20 @@ var years = [1896,1897,1898,1899,1900,1901,1902,1903,1904,1905,1906,1907,1908,19
 
 
 function input() {
-	
+
 	//loops through array
     async.each(years, function(item, callback) {
-    	
-		var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+item;
-		
-		request(url, function(err, resp, body) {  
-    	    if (err) {throw err;}
-    	    // console.log(body);
-    	    	fs.writeFile('race-data/race'+item +'.txt', body, function(errWriting) {
-        			if (errWriting) {throw errWriting;}
-        			console.log("done");
-    			});
-		});
+
+			var url = 'http://www.procyclingstats.com/race/Paris_Roubaix_'+item;
+
+			request(url, function(err, resp, body) {
+	    	    if (err) {throw err;}
+	    	    // console.log(body);
+	    	    	fs.writeFile('race-data/race'+item +'.txt', body, function(errWriting) {
+	        			if (errWriting) {throw errWriting;}
+	        			console.log("done");
+	    			});
+			});
     });
-    
+
 }

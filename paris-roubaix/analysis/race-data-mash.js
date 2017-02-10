@@ -30,11 +30,12 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
             // marks 'estimated (est)' property of object 'false'
             startersBox[startersIn[yr].year+'est'] = false;
         } else {
-            // makes the number of starters the average
-            startersBox[startersIn[yr].year] = '123';
+            // estimates the starters based on line of best fit (calculated in R)
+            startersBox[startersIn[yr].year] = Math.ceil((1.034*startersIn[yr].year)-1880);
             startersBox[startersIn[yr].year+'est'] = true;
         }
-        // console.log(startersBox[startersIn[yr].year]);
+        console.log(startersBox[startersIn[yr].year]);
+        console.log(startersBox[startersIn[yr].year+'est']);
     }
 
     // console.log(startersBox);
@@ -129,7 +130,7 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
             var exceptions = ['Louis Gauthier', 'Jo Planckaert', 'Pino Cerami'];
             for (var i in exceptions) {
               skip = (racesBRI[racerBRI].name === exceptions[i]) ? true : false;
-              console.log('exception: '+exceptions[i]);
+              // console.log('exception: '+exceptions[i]);
             }
             if (skip) { break; }
 
