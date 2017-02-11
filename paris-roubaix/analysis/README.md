@@ -2,7 +2,7 @@
 
 These data files were gathered and compiled in several steps:
 
-First, all of the relevant html pages are downloaded from their respective sources, to avoid overwhelming servers with 115 nearly-simultaneous requests.
+First, all of the relevant html pages are downloaded from their respective sources, to avoid overwhelming servers with requests.
 (`race-downloads-bri.js` and `race-downloads-pcs.js`)
 
 The html files are scraped by `paris-roubaix-scraper-bri` and `paris-roubaix-scraper-pcs`, which output `races-bri.json` and `races-pcs.json`.
