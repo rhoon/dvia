@@ -7,7 +7,7 @@
 		"uuidString": "6A445194-D150-4C42-81A2-B6779BE15D65"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25704",
 "files": {
 	"\/analysis": {
 		"ft": 65536,
@@ -20,6 +20,36 @@
 		"oA": 2,
 		"oAP": "\/build\/node_modules",
 		"oF": 0
+		},
+	"\/visualization\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/visualization\/.htaccess",
+		"oF": 0
+		},
+	"\/visualization\/.htpassword": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/visualization\/.htpassword",
+		"oF": 0
+		},
+	"\/visualization\/allRaces-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/visualization\/allRaces-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/visualization\/allRaces.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/visualization\/allRaces-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/visualization\/data\/2-byRider.json": {
 		"ft": 524288,
@@ -93,6 +123,24 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/visualization\/greats-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/visualization\/greats-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/visualization\/greats.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/visualization\/greats-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/visualization\/images\/medal-01.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -155,11 +203,32 @@
 		"oAP": "\/visualization\/thegreats.html",
 		"oF": 0
 		},
-	"\/visualization\/Untitled": {
+	"\/visualization\/video\/pr-titlebg.mp4": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/visualization\/Untitled",
+		"oAP": "\/visualization\/video\/pr-titlebg.mp4",
 		"oF": 0
+		},
+	"\/visualization\/video\/pr-titleBG.webm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/visualization\/video\/pr-titleBG.webm",
+		"oF": 0
+		},
+	"\/visualization\/video\/pr-titleBG.xmp": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/visualization\/video\/pr-titleBG.xmp",
+		"oF": 0
+		},
+	"\/visualization\/video\/vid-standin.jpg": {
+		"ft": 16384,
+		"iS": 1010149,
+		"oA": 0,
+		"oAP": "\/visualization\/video\/vid-standin.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		}
 	},
 "hooks": [
@@ -842,6 +911,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -1039,6 +1112,10 @@
 			"optionString": "{'grouping': false, 'allowCall': false }"
 			},
 		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1318,6 +1395,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -1369,6 +1450,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -1463,6 +1548,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -1909,7 +1998,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -2002,7 +2092,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,

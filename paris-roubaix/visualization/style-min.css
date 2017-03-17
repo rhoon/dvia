@@ -26,13 +26,13 @@
     }
 
     .offWhiteText {
-        fill: #f2f2f2;
-        color: #f2f2f2;
+        fill: #b3b3b3;
+        color: #b3b3b3;
     }
 
     .offWhiteTitle {
-        fill: #e6e6e6;
-        color: #e6e6e6;
+        fill: #b3b3b3;
+        color: #b3b3b3;
     }
 
     .darkText {
@@ -48,6 +48,40 @@
         background: #f2f2f2;
     }
 
+    /* TITLE */
+    #bgvid {
+      width: 100%;
+      position: relative;
+    }
+
+    #titleBox {
+      /*width: 50%;*/
+      padding: 0;
+      margin: 0 auto;
+      position: relative;
+      width: 100%;
+    }
+
+    #title {
+      position: absolute;
+      z-index: 10;
+      left: 30%;
+      top: 30%;
+      width: 40%;
+    }
+
+    #title h1 {
+      padding: 0;
+      width: 100% !important;
+      height: 15px;
+    }
+
+    #title p {
+      text-align: center;
+      margin-top: 0;
+    }
+
+
     /* GLOBAL STYLES */
 
     body {
@@ -59,27 +93,36 @@
     }
 
     h1 {
-      font-family : Roboto;
-      font-weight: 900;
-      font-style : italic;
-      font-size : 30px;
-      letter-spacing : 1.8px;
+      font-family : 'Roboto Condensed';
+      font-weight: 700;
+      font-size : 40px;
+      letter-spacing : 1px;
       text-transform : uppercase;
       width: 40%;
       min-width: 400px;
       margin: 60px auto 40px auto;
       text-align: center;
+      font-style: italic;
+      /*border-bottom: 1px solid #b3b3b3;*/
+    }
+
+    h3 {
+      text-align: left;
+      margin: 0 auto;
+      padding: 0;
+      position: relative;
     }
 
     p {
-      font-family: freight-text-pro, serif;
+      font-family: 'Cardo', georgia, serif;
       font-style: normal;
       font-weight: 400;
-      font-size : 20px;
-      line-height : 30px;
+      font-size : 17px;
+      line-height : 148%;
       width: 40%;
       min-width: 400px;
       margin: 0 auto 80px auto;
+      text-align: justify;
     }
 
     .hidden {
@@ -106,9 +149,10 @@
     }
 
     svg.speed {
-        position: absolute;
+        position: relative;;
         top: 0;
-        right: 0;
+        left: 300px;
+        cursor: pointer;
     }
 
     svg.bars {
@@ -126,7 +170,7 @@
     }
 
     #allRacesChart {
-      margin: 0 auto;
+      margin: 140px auto;
       width: 1100px;
       position: relative;
     }
@@ -136,7 +180,15 @@
       text-transform: uppercase;
     }
 
+    #allRaces {
+      position: relative;
+      top: 40px;
+    }
+
     /* 'THE GREATS' CHART */
+    #theGreats {
+      padding: 50px 0px;
+    }
 
     #theGreatsChart {
       margin: 0 auto 10em auto;
@@ -170,4 +222,54 @@
 
     #theGreatsChart .y.axis path {
       display: none;
+    }
+
+    div.greats {
+      background-color: white;
+      height: auto;
+      position: absolute;
+      padding: 10px;
+      box-shadow: -3px 3px 0px #EEE;
+      /*top: 200px;
+      left: 200px;*/
+    }
+
+    h3 {
+      font-family: 'Cardo', georgia, serif;
+      /*font-style: normal;*/
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 120%;
+      padding: 0;
+      margin: 0 0 10px 0;
+      width: 70%;
+    }
+
+    div.yearRank {
+      font-family: Roboto, sans;
+      font-size: 10px;
+      line-height: 10px;
+      padding: 2% 1% 2% 1%;
+      margin: 2% 3% 0 0;
+      width: 45%;
+      float: left;
+      border-top: 1px solid #f2f2f2;
+    }
+
+    div.yearRank:hover {
+      background-color: #f2f2f2;
+    }
+
+    img.medal {
+      width: 12px;
+      height: 12px;
+      float: right;
+    }
+
+    span.rank {
+      float: right;
+      width: 12px;
+      height: 12px;
+      text-align: right;
+      font-weight: bold;
     }

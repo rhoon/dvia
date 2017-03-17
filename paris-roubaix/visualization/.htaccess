@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /home/rilhoo/rileyhoonan.com/pr/.htpasswd  
+require valid-user
