@@ -34,7 +34,7 @@ var chartLabelY = -20;
 //animation durations
 var dura = 200;
 
- d3.json('data/parisRoubaix-fullv2.json', drawChart);
+ d3.json('data/parisRoubaix-fullv3.json', drawChart);
 
  function drawChart(data) {
 

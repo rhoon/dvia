@@ -15,6 +15,12 @@
 		"oAP": "\/build\/analysis",
 		"oF": 0
 		},
+	"\/license\/license.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/license\/license.txt",
+		"oF": 0
+		},
 	"\/node_modules": {
 		"ft": 65536,
 		"oA": 2,
@@ -111,6 +117,14 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/visualization\/data\/parisRoubaix-fullv2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/visualization\/data\/parisRoubaix-fullv3.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/visualization\/data\/parisRoubaix-fullv3-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1

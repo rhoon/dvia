@@ -34,8 +34,8 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
             startersBox[startersIn[yr].year] = Math.ceil((1.034*startersIn[yr].year)-1880);
             startersBox[startersIn[yr].year+'est'] = true;
         }
-        console.log(startersBox[startersIn[yr].year]);
-        console.log(startersBox[startersIn[yr].year+'est']);
+        // console.log(startersBox[startersIn[yr].year]);
+        // console.log(startersBox[startersIn[yr].year+'est']);s
     }
 
     // console.log(startersBox);
@@ -71,7 +71,7 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
     Race2016.distKm = 257.5;
     races.push(Race2016);
 
-    // console.log(races);
+    console.log(races);
 
     for (var racer in racesBRI) {
 
@@ -109,7 +109,7 @@ fs.readFile("starters.csv", "utf8", function(error, startersIn) { // from http:/
 
 // console.log(racesBRI);
 
-	fs.writeFile('parisRoubaix-fullv2.json', JSON.stringify(racesBRI), function(err) {
+	fs.writeFile('parisRoubaix-fullv3.json', JSON.stringify(racesBRI), function(err) {
         if (err) {throw err;}
         console.log("done");
     });
