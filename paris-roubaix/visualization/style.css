@@ -86,6 +86,35 @@
       letter-spacing: -.5px;
     }
 
+    #footer {
+      width: 40%;
+      margin: 4em auto;
+      height: 300px;
+    }
+
+    .sources {
+      font-size: 10px;
+      letter-spacing: .2px;
+      width: 25%;
+      margin-right: 8%;
+      float: left;
+    }
+
+    .sources a {
+      color: #b3b3b3;
+    }
+
+    .sources a:hover {
+      opacity: .9;
+    }
+
+    #footer h3 {
+      width: 100%;
+      border-bottom: 1px solid #b3b3b3;
+      padding-bottom: 1em;
+      margin-bottom: 1em;
+    }
+
 
     /* GLOBAL STYLES */
 
@@ -99,6 +128,7 @@
         overflow: visible;
     }
 
+    /* MAIN TITLES */
     h1 {
       font-family : 'Roboto Condensed';
       font-weight: 700;
@@ -107,12 +137,21 @@
       text-transform : uppercase;
       width: 40%;
       min-width: 400px;
-      margin: 60px auto 40px auto;
+      margin: 30px auto 40px auto;
       text-align: center;
       font-style: italic;
       /*border-bottom: 1px solid #b3b3b3;*/
     }
 
+    /* CHART TITLES */
+    h2 {
+      font-family: 'Roboto Condensed';
+      font-size: 20px;
+      text-transform: uppercase;
+      /*font-weight: normal;*/
+    }
+
+     /* SMALL TITLES */
     h3 {
       text-align: left;
       margin: 0 auto;
@@ -149,6 +188,11 @@
         display: none;
     }
 
+    #intro {
+      padding-top: 120px;
+      padding-bottom: 20px;
+    }
+
     /* ALL RACES CHART */
 
     .finishers {
@@ -169,7 +213,7 @@
     }
 
     svg.speed {
-        position: relative;;
+        position: relative;
         top: 0;
         left: 300px;
         cursor: pointer;
@@ -200,9 +244,10 @@
       text-transform: uppercase;
     }
 
-    #intro {
-      padding-top: 120px;
-      padding-bottom: 20px;
+    #allRacesChart h2 {
+      position: absolute;
+      top: -80px;
+      left: 0;
     }
 
     #allRaces {
@@ -216,9 +261,13 @@
     }
 
     #theGreatsChart {
-      margin: 0 auto 10em auto;
+      margin: 0 auto 3em auto;
       width: 1100px;
       position: relative;
+    }
+
+    #theGreatsChart h2 {
+      position: absolute;
     }
 
     .riderName {
