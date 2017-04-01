@@ -1,349 +1,505 @@
-    /*
-    BODY: Freight book 20pt
-    HEADLINE: Roboto black italic 30pt
-    LABELS: Roboto medium 10/11pt
-    */
+/*
+BODY: Freight book 20pt
+HEADLINE: Roboto black italic 30pt
+LABELS: Roboto medium 10/11pt
+*/
 
-    /* COLORS */
-    .red {
-        fill: #f78056;
-        color: #f78056;
-    }
+/* COLORS */
+.red {
+    fill: #f78056;
+    color: #f78056;
+}
 
-    .liteGray {
-        fill: #b3b3b3;
-        color: #b3b3b3;
-    }
+.liteGray {
+    fill: #b3b3b3;
+    color: #b3b3b3;
+}
 
-    .darkGray {
-        fill: #404040;
-        color: #404040;
-    }
+.darkGray {
+    fill: #404040;
+    color: #404040;
+}
 
-    .black {
-        fill: #0f0f0f;
-        color: #0f0f0f;
-    }
+.black {
+    fill: #0f0f0f;
+    color: #0f0f0f;
+}
 
-    .offWhiteText {
-        fill: #b3b3b3;
-        color: #b3b3b3;
-    }
+.offWhiteText {
+    fill: #b3b3b3;
+    color: #b3b3b3;
+}
 
-    .offWhiteTitle {
-        fill: #b3b3b3;
-        color: #b3b3b3;
-    }
+.offWhiteText a {
+    fill: #b3b3b3;
+    color: #b3b3b3;
+}
 
-    .darkText {
-        fill: #0f0f0f;
-        color: #0f0f0f;
-    }
+.offWhiteTitle {
+    fill: #b3b3b3;
+    color: #b3b3b3;
+}
 
-    .blackbg {
-        background: #0f0f0f;
-    }
+.darkText {
+    fill: #0f0f0f;
+    color: #0f0f0f;
+}
 
-    .whitebg {
-        background: #f2f2f2;
-    }
+.darkText a {
+    fill: #0f0f0f;
+    color: #0f0f0f;
+}
 
-    /* TITLE */
-    #bgvid {
-      width: 100%;
-      position: relative;
-    }
+.blackbg {
+    background: #0f0f0f;
+}
 
-    #titleBox {
-      /*width: 50%;*/
-      padding: 0;
-      margin: 0 auto;
-      position: relative;
-      width: 100%;
-    }
+.whitebg {
+    background: #f2f2f2;
+}
 
-    #title {
-      position: absolute;
-      z-index: 10;
-      left: 30%;
-      top: 30%;
-      width: 40%;
-    }
+/* TITLE */
+#bgvid {
+  width: 100%;
+  position: relative;
+}
 
-    #title h1 {
-      padding: 0;
-      width: 100% !important;
-      height: 24px;
-      font-size: 52px;
-      /*letter-spacing: -.5px;*/
-    }
+#titleBox {
+  /*width: 50%;*/
+  padding: 0;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+}
 
-    #title p {
-      text-align: center;
-      margin-top: 0;
-      font-weight: bold;
-      font-size: 22px;
-      letter-spacing: -.5px;
-    }
+#title {
+  position: absolute;
+  z-index: 10;
+  left: 10%;
+  top: 35%;
+  width: 80%;
+}
 
-    #footer {
-      width: 40%;
-      margin: 4em auto;
-      height: 300px;
-    }
+#title h1 {
+  padding: 0;
+  width: 100% !important;
+  height: 24px;
+  font-size: 52px;
+  /*letter-spacing: -.5px;*/
+}
 
-    .sources {
-      font-size: 10px;
-      letter-spacing: .2px;
-      width: 25%;
-      margin-right: 8%;
-      float: left;
-    }
+#title p {
+  text-align: center;
+  /*margin-top: 0;*/
+  font-weight: bold;
+  font-size: 22px;
+  letter-spacing: -.5px;
+}
 
-    .sources a {
-      color: #b3b3b3;
-    }
+#footer {
+  width: 40%;
+  margin: 4em auto;
+  height: 300px;
+}
 
-    .sources a:hover {
-      opacity: .9;
-    }
+.sources {
+  font-size: 10px;
+  letter-spacing: .2px;
+  width: 25%;
+  margin-right: 8%;
+  float: left;
+}
 
-    #footer h3 {
-      width: 100%;
-      border-bottom: 1px solid #b3b3b3;
-      padding-bottom: 1em;
-      margin-bottom: 1em;
-    }
+.sources a {
+  color: #b3b3b3;
+}
+
+.sources a:hover {
+  opacity: .9;
+}
+
+#footer h3 {
+  width: 100%;
+  border-bottom: 1px solid #b3b3b3;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
 
 
-    /* GLOBAL STYLES */
+/* GLOBAL STYLES */
 
-    body {
-        font-family: Roboto, sans-serif;
-        padding: 0;
-        margin: 0;
-    }
+body {
+    font-family: Roboto, sans-serif;
+    padding: 0;
+    margin: 0;
+}
 
-    svg {
-        overflow: visible;
-    }
+svg {
+    overflow: visible;
+}
 
-    /* MAIN TITLES */
-    h1 {
-      font-family : 'Roboto Condensed';
-      font-weight: 700;
-      font-size : 40px;
-      letter-spacing : 1px;
-      text-transform : uppercase;
-      width: 40%;
-      min-width: 400px;
-      margin: 30px auto 40px auto;
-      text-align: center;
-      font-style: italic;
-      /*border-bottom: 1px solid #b3b3b3;*/
-    }
+/* MAIN TITLES */
+h1 {
+  font-family : 'Roboto Condensed';
+  font-weight: 700;
+  font-size : 40px;
+  letter-spacing : 1px;
+  text-transform : uppercase;
+  width: 40%;
+  min-width: 400px;
+  margin: 30px auto 40px auto;
+  text-align: center;
+  font-style: italic;
+  /*border-bottom: 1px solid #b3b3b3;*/
+}
 
-    /* CHART TITLES */
-    h2 {
-      font-family: 'Roboto Condensed';
-      font-size: 20px;
-      text-transform: uppercase;
-      /*font-weight: normal;*/
-    }
+/* CHART TITLES */
+h2 {
+  font-family: 'Roboto Condensed';
+  font-size: 20px;
+  text-transform: uppercase;
+  /*font-weight: normal;*/
+}
 
-     /* SMALL TITLES */
-    h3 {
-      text-align: left;
-      margin: 0 auto;
-      padding: 0;
-      position: relative;
-    }
+ /* SMALL TITLES */
+h3 {
+  text-align: left;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+}
 
-    p {
-      font-family: 'Cardo', georgia, serif;
-      font-style: normal;
-      font-weight: 400;
-      font-size : 17px;
-      line-height : 148%;
-      width: 40%;
-      min-width: 400px;
-      margin: 0 auto 80px auto;
-      text-align: justify;
-    }
+p {
+  font-family: 'Cardo', georgia, serif;
+  font-size : 17px;
+  line-height : 148%;
+  width: 40%;
+  min-width: 450px;
+  max-width: 600px;
+  margin: 0 auto 80px auto;
+  text-align: justify;
+}
 
-    p.bigQuote {
-      font-size: 60px;
-      width: 75%;
-      line-height: 120%;
-      text-align: center;
-    }
+p.bigQuote {
+  font-size: 60px;
+  width: 75%;
+  line-height: 120%;
+  max-width: 1100px;
+  text-align: center;
+}
 
-    span.quoteAttr {
-      font-size: 10px;
-      text-transform: uppercase;
-      font-family: Roboto, sans;
-    }
+span.quoteAttr {
+  font-size: 10px;
+  text-transform: uppercase;
+  font-family: Roboto, sans;
+}
 
-    .hidden {
-        display: none;
-    }
+.hidden {
+    display: none;
+}
 
-    #intro {
-      padding-top: 120px;
-      padding-bottom: 20px;
-    }
+#intro {
+  padding-top: 120px;
+  padding-bottom: 20px;
+}
 
-    /* ALL RACES CHART */
+/* ALL RACES CHART */
 
-    .finishers {
-        fill: #f78056;
-    }
+.finishers {
+    fill: #f78056;
+}
 
-    .dnf {
-        fill: #cccccc;
-    }
+.dnf {
+    fill: #cccccc;
+}
 
-    .year {
-        fill: #b3b3b3;
-        font-size: 10;
-    }
+.year {
+    fill: #b3b3b3;
+    font-size: 10;
+}
 
-    .sYear {
-        fill: #f78056;
-    }
+.sYear {
+    fill: #f78056;
+}
 
-    svg.speed {
-        position: relative;
-        top: 0;
-        left: 300px;
-        cursor: pointer;
-    }
+svg.speed {
+    position: relative;
+    top: 0;
+    left: 300px;
+    cursor: pointer;
+}
 
-    svg.bars {
-        position: absolute;
-        top: 0;
-        left: 0;
-    }
+svg.bars {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
 
-    .speeds .tick line {
-        stroke: #404040;
-    }
+.speeds .tick line {
+    stroke: #404040;
+}
 
-    .speeds .tick text {
-        fill: #f2f2f2;
-    }
+.speeds .tick text {
+    fill: #f2f2f2;
+}
 
-    #allRacesChart {
-      margin: 140px auto;
-      width: 1100px;
-      position: relative;
-    }
+#allRacesChart {
+  margin: 140px auto;
+  width: 1100px;
+  position: relative;
+}
 
-    #allRacesChart .label {
-      font-size: 10;
-      text-transform: uppercase;
-    }
+#allRacesChart .label {
+  font-size: 10;
+  text-transform: uppercase;
+}
 
-    #allRacesChart h2 {
-      position: absolute;
-      top: -80px;
-      left: 0;
-    }
+#allRacesChart h2 {
+  position: absolute;
+  top: -80px;
+  left: 0;
+}
 
-    #allRaces {
-      position: relative;
-      top: 40px;
-    }
+#allRaces {
+  position: relative;
+  top: 40px;
+}
 
-    /* 'THE GREATS' CHART */
-    #theGreats {
-      padding: 50px 0px;
-    }
+/* 'THE GREATS' CHART */
+#theGreats {
+  padding: 50px 0px;
+}
 
-    #theGreatsChart {
-      margin: 0 auto 3em auto;
-      width: 1100px;
-      position: relative;
-    }
+#theGreatsChart {
+  margin: 0 auto 3em auto;
+  width: 1100px;
+  position: relative;
+}
 
-    #theGreatsChart h2 {
-      position: absolute;
-    }
+#theGreatsChart h2 {
+  position: absolute;
+}
 
-    .riderName {
-      font-size: 10;
-    }
+.riderName {
+  font-size: 10;
+}
 
-    .line {
-      fill: none;
-      stroke: #f78056; /*#0f0f0f */
-      stroke-width: 1px;
-      opacity: .5;
-    }
+.line {
+  fill: none;
+  stroke: #f78056; /*#0f0f0f */
+  stroke-width: 1px;
+  opacity: .5;
+}
 
-    .arc {
-      opacity: .8;
-      cursor: pointer;
-    }
+.arc {
+  opacity: .8;
+  cursor: pointer;
+}
 
-    .riderDetail {
-      width: 205px;
-      height: auto;
-      position: absolute;
-      background-color: white;
-      padding: 10px;
-    }
+.riderDetail {
+  width: 205px;
+  height: auto;
+  position: absolute;
+  background-color: white;
+  padding: 10px;
+}
 
-    #theGreatsChart .y.axis path {
-      display: none;
-    }
+#theGreatsChart .y.axis path {
+  display: none;
+}
 
-    div.greats {
-      background-color: white;
-      height: auto;
-      position: absolute;
-      padding: 10px;
-      box-shadow: -3px 3px 0px #EEE;
-      /*top: 200px;
-      left: 200px;*/
-    }
+div.greats {
+  background-color: white;
+  height: auto;
+  position: absolute;
+  padding: 10px;
+  box-shadow: -3px 3px 0px #EEE;
+}
 
-    h3 {
-      font-family: 'Cardo', georgia, serif;
-      /*font-style: normal;*/
-      font-weight: 400;
-      font-size: 18px;
-      line-height: 120%;
-      padding: 0;
-      margin: 0 0 10px 0;
-      width: 70%;
-    }
+h3 {
+  font-family: 'Cardo', georgia, serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  padding: 0;
+  margin: 0 0 10px 0;
+  width: 70%;
+}
 
-    .yearRank {
-      font-family: Roboto, sans;
-      font-size: 10px;
-      line-height: 10px;
-      padding: 2% 1% 2% 1%;
-      margin: 2% 3% 0 0;
-      width: 45%;
-      float: left;
-      border-top: 1px solid #f2f2f2;
-    }
+.yearRank {
+  font-family: Roboto, sans;
+  font-size: 10px;
+  line-height: 10px;
+  padding: 2% 1% 2% 1%;
+  margin: 2% 3% 0 0;
+  width: 45%;
+  float: left;
+  border-top: 1px solid #f2f2f2;
+}
 
-    div.yearRank:hover {
-      background-color: #f2f2f2;
-    }
+img.medal {
+  width: 12px;
+  height: 12px;
+  float: right;
+}
 
-    img.medal {
-      width: 12px;
-      height: 12px;
-      float: right;
-    }
+span.rank {
+  float: right;
+  width: 12px;
+  height: 12px;
+  text-align: right;
+  font-weight: bold;
+}
 
-    span.rank {
-      float: right;
-      width: 12px;
-      height: 12px;
-      text-align: right;
-      font-weight: bold;
-    }
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) and (orientation : portrait) {
+
+  #bgvid {
+    /*width: 150%;*/
+    /*overflow: hidden;*/
+    position: relative;
+  }
+
+  p {
+    font-size : 2.5em;
+    line-height: 1.5em;
+    /*line-height : 148%;*/
+    width: 80%;
+    min-width: 80%;
+    max-width: 80%;
+    margin: 0 auto 15% auto;
+  }
+
+  /* MAIN TITLES */
+  h1 {
+    font-size : 4.5em;
+    width: 80%;
+    min-width: 80%;
+    margin: .8em auto 1em auto;
+  }
+
+  /* CHART TITLES */
+  h2 {
+    font-size: 2.25em;
+  }
+
+  #title {
+    top: 35%;
+  }
+
+  #title h1 {
+    font-size: 8em;
+    line-height: 100%;
+    position: relative;
+  }
+
+  #title p {
+    font-size: 2em;
+    line-height: 100%;
+    position: relative;
+    top: 3.5em;
+  }
+
+  p.bigQuote {
+    font-size: 4.5em;
+  }
+
+  div#theGreatsChart {
+    width: 100%;
+    overflow: scroll;
+  }
+
+  div#theGreatsChart svg {
+    margin-left: 10%;
+    margin-right: 20%;
+  }
+
+  div#theGreatsChart h2 {
+    margin-left: 10%;
+  }
+
+  div.greats {
+    position: absolute;
+    padding: 20px;
+    box-shadow: -3px 3px 0px #EEE;
+    width: 80%;
+    left: 10%;
+  }
+
+  h3 {
+    font-family: 'Cardo', georgia, serif;
+    font-weight: 400;
+    font-size: 36px;
+    margin: 0 0 20px 0;
+    width: 100%;
+  }
+
+  .yearRank {
+    font-size: 24px;
+    line-height: 24px;
+    border-top: 2px solid #f2f2f2;
+  }
+
+  img.medal {
+    width: 24px;
+    height: 24px;
+    margin: 0;
+    float: right;
+  }
+
+  div#allRacesChart {
+    width: 80%;
+    margin: 25% 0 20% 10%;
+  }
+
+  div#allRacesChart h2 {
+    /*width: 80%;*/
+    margin-top: -3%;
+    /*padding: 0;*/
+  }
+
+  #allRacesChart .label {
+    font-size: 20;
+    text-transform: uppercase;
+  }
+
+  svg.speed {
+    left: 0;
+  }
+
+  #footer {
+    width: 80%;
+  }
+
+  #footer h3 {
+    font-size: 2em;
+    border-bottom: 2px solid #b3b3b3;
+  }
+
+  .sources {
+    font-size: 1.5em;
+    letter-spacing: .2px;
+    width: 100%;
+    /*margin-right: 8%;*/
+    /*float: left;*/
+  }
+
+  .riderName {
+    font-size: 1.2em;
+  }
+
+  span.quoteAttr {
+    font-size: 20px;
+  }
+
+  .line {
+    stroke-width: 2px;
+  }
+
+  .speeds .tick line {
+    stroke-width: 2px;
+  }
+
+  .speeds .tick text {
+    font-size: 16;
+  }

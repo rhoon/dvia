@@ -1,11 +1,27 @@
 var margin = {  top: 20,  right: 10,  bottom: 5,  left: 45 };
 
-//finishers bar chart
-var width = 300 - margin.left - margin.right,
+var width, height, wSpeed, hSpeed;
+
+if (!smScreen) {
+    //finishers bar chart
+    width = 300 - margin.left - margin.right;
     height = 1200 - margin.top - margin.bottom;
 
-var wSpeed = 860 - margin.left - margin.right;
+    wSpeed = 860 - margin.left - margin.right;
     hSpeed = 1200 - margin.top - margin.bottom;
+
+    var barHeight = 6;
+
+  } else {
+
+    // width = .2*winWidth - margin.left - margin.right;
+    height = 1800 - margin.top - margin.bottom;
+
+    wSpeed = .85*winWidth - margin.left - margin.right;
+    hSpeed = 1800 - margin.top - margin.bottom;
+
+    var barHeight = 9;
+  }
 
 var xScale = d3.scaleLinear()
   .range([0, width])
@@ -29,7 +45,6 @@ var xAxis = d3.axisTop()
 //   .scale(yScale);
 
 //vars for pos and size consistancy
-var barHeight = 6;
 var chartLabelY = -20;
 //animation durations
 var dura = 200;
@@ -49,103 +64,104 @@ var dura = 200;
         d.starters = d.values[0].starters;
     });
 
-    console.log(data);
+    if (!smScreen) {
+        //finishers bar chart
+        barchart = d3.select('#allRacesChart')
+            .append('svg')
+            .attr('class', 'bars')
+            .attr('width', width)
+            .attr('height', height);
 
-    //finishers bar chart
-    barchart = d3.select('#allRacesChart')
-        .append('svg')
-        .attr('class', 'bars')
-        .attr('width', width)
-        .attr('height', height);
-
-    //labels
-    barchart.append('text')
-        .attrs({
-          y: chartLabelY,
-          x: 0,
-          class: 'liteGray label'
-        })
-        .text('Year');
-
-    barchart.append('text')
-        .attrs({
-          y: chartLabelY,
-          x: margin.left,
-          class: 'liteGray label'
-        })
-        .text('DNF');
-
-    barchart.append('text')
-        .attrs({
-          y: chartLabelY,
-          x: margin.left+30,
-          class: 'red label'
-        })
-        .text('Finishers');
-
-    //bar groups
-    bars = barchart.selectAll('g')
-        .data(data)
-        .enter()
-        .append('g')
-        .attr('transform', function(d) {
-            return 'translate(0,'+yScale(d.key)+')';
-        });
-
-    //mouse over effect
-    bars.append('rect')
-        .attrs({
-            x: margin.left,
-            y: 0,
-            width: width+margin.right,
-            height: barHeight,
-            class: function(d) { return 'y'+d.key+' darkGray' },
-            opacity: 0
-        })
-        .on('mouseover', raceOn())
-        .on('mouseout', raceOff())
-
-    var est;
-
-    //append bars for racers who did not finish (womp womp)
-    bars.append('rect')
+        //labels
+        barchart.append('text')
             .attrs({
-                class: 'dnf',
+              y: chartLabelY,
+              x: 0,
+              class: 'liteGray label'
+            })
+            .text('Year');
+
+        barchart.append('text')
+            .attrs({
+              y: chartLabelY,
+              x: margin.left,
+              class: 'liteGray label'
+            })
+            .text('DNF');
+
+        barchart.append('text')
+            .attrs({
+              y: chartLabelY,
+              x: margin.left+30,
+              class: 'red label'
+            })
+            .text('Finishers');
+
+        //bar groups
+        bars = barchart.selectAll('g')
+            .data(data)
+            .enter()
+            .append('g')
+            .attr('transform', function(d) {
+                return 'translate(0,'+yScale(d.key)+')';
+            });
+
+        //mouse over effect
+        bars.append('rect')
+            .attrs({
                 x: margin.left,
                 y: 0,
+                width: width+margin.right,
                 height: barHeight,
-                width: function(d) { return (+d.starters)-(+d.finishers); }
+                class: function(d) { return 'y'+d.key+' darkGray' },
+                opacity: 0
             })
             .on('mouseover', raceOn())
-            .on('mouseout', raceOff());
+            .on('mouseout', raceOff())
 
-    //append bars for racers who did finish (stacked)
-    bars.append('rect')
-            .attrs({
-                class: 'finishers',
-                x: function(d) {
-                    var pos = (+d.starters)-(+d.finishers);
-                    if (!isNaN(pos)) { return pos+margin.left; } else { return margin.left; }
-                },
-                y: 0,
-                height: barHeight,
-                width: function(d) { return (+d.finishers) }
-            })
-            .on('mouseover', raceOn())
-            .on('mouseout', raceOff());
+        var est;
+
+        //append bars for racers who did not finish (womp womp)
+        bars.append('rect')
+                .attrs({
+                    class: 'dnf',
+                    x: margin.left,
+                    y: 0,
+                    height: barHeight,
+                    width: function(d) { return (+d.starters)-(+d.finishers); }
+                })
+                .on('mouseover', raceOn())
+                .on('mouseout', raceOff());
+
+        //append bars for racers who did finish (stacked)
+        bars.append('rect')
+                .attrs({
+                    class: 'finishers',
+                    x: function(d) {
+                        var pos = (+d.starters)-(+d.finishers);
+                        if (!isNaN(pos)) { return pos+margin.left; } else { return margin.left; }
+                    },
+                    y: 0,
+                    height: barHeight,
+                    width: function(d) { return (+d.finishers) }
+                })
+                .on('mouseover', raceOn())
+                .on('mouseout', raceOff());
 
 
-    bars.append('text')
-            .attrs({
-                class: 'year',
-                x: 0,
-                y: barHeight,
-            })
-            .text( function(d) {
-                if (d.key%5==0 || d.key==1896) {
-                    return d.key;
-                }
-            })
+        bars.append('text')
+                .attrs({
+                    class: 'year',
+                    x: 0,
+                    y: barHeight,
+                })
+                .text( function(d) {
+                    if (d.key%5==0 || d.key==1896) {
+                        return d.key;
+                    }
+                })
+
+    }
 
 
     //draw speeds chart
@@ -166,14 +182,16 @@ var dura = 200;
         })
         .text('Speed (km/hr)');
 
-    speedsChart.append('text')
-        .attrs({
-            x: wSpeed,
-            y: chartLabelY,
-            class: 'red label',
-            'text-anchor': 'END'
-        })
-        .text('EACH FINISHING RACER IS MARKED BY A SINGLE RED LINE');
+    if (!smScreen) {
+      speedsChart.append('text')
+          .attrs({
+              x: wSpeed,
+              y: chartLabelY,
+              class: 'red label',
+              'text-anchor': 'END'
+          })
+          .text('EACH FINISHING RACER IS MARKED BY A SINGLE RED LINE');
+    }
 
     //groups for finishers
     speedsChart.append('g')

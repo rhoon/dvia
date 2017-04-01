@@ -1,8 +1,16 @@
-var gmargin = {  top: 20,  right: 0,  bottom: 5,  left: 0 };
+var widthB, heightB, gmargin;
 
-//finishers bar chart
-var widthB = 1100 - gmargin.left - gmargin.right,
+if (!smScreen) {
+    gmargin = {  top: 20,  right: 0,  bottom: 5,  left: 0 };
+    widthB = 1100 - gmargin.left - gmargin.right;
     heightB = 600 - gmargin.top - gmargin.bottom;
+
+  } else {
+    gmargin = {  top: 40,  right: 0,  bottom: 20,  left: 0 };
+    widthB = 2200 - gmargin.left - gmargin.right;
+    heightB = 1000 - gmargin.top - gmargin.bottom;
+
+  }
 
 var xScaleB = d3.scaleLinear()
   .range([0, widthB])
@@ -36,8 +44,6 @@ var dura = 50;
  function drawChart(data) {
 
     data = d3.entries(data);
-
-    console.log(data);
     // rider detail view
 
     var detailWidth = 200;
@@ -51,22 +57,26 @@ var dura = 50;
           class: function(d) {
             return d.key+' greats hidden';
           },
-        })
-        .styles({
-          left: function(d) {
-            var years = d3.entries(d.value.years);
-            var lastYear = years[years.length-1];
-            var x = xScaleB(parseFloat(lastYear.key))-detailWidth-100;
-            return x+'px';
-          },
-          top: function(d) {
-            var years = d3.entries(d.value.years);
-            var lastYear = years[years.length-1];
-            var y = yScaleB(parseFloat(lastYear.value.ptsTot))-75;
-            return y+'px';
-          },
-          width: detailWidth+'px',
         });
+
+      if(!smScreen) {
+          riderSelect.styles({
+            left: function(d) {
+              var years = d3.entries(d.value.years);
+              var lastYear = years[years.length-1];
+              var modx = (lastYear.key>1930 ? -1*(detailWidth+100) : 100);
+              var x = xScaleB(parseFloat(lastYear.key))+modx;
+              return x+'px';
+            },
+            top: function(d) {
+              var years = d3.entries(d.value.years);
+              var lastYear = years[years.length-1];
+              var y = yScaleB(parseFloat(lastYear.value.ptsTot))-75;
+              return y+'px';
+            },
+            width: detailWidth+'px',
+          });
+      } 
 
     riderSelect.append('h3')
         .text( function(d) {
@@ -111,24 +121,10 @@ var dura = 50;
     arc.append('path')
         .datum(function(d) {
             years = d3.entries(d.value.years)
-            // console.log(years);
             return years;
         })
         .attr('class', 'line')
         .attr('d', line);
-
-    //year highlight circles
-    arc.append('circle')
-        .datum(function(d) {
-          years = d3.entries(d.value.years);
-          return years;
-          console.log(years);
-        })
-        .attrs({
-          class: function(d){
-            return d.key+' yrCircID';
-          }
-        });
 
     var nameDots = arc.append('g')
         .datum(function(d) {
@@ -149,10 +145,11 @@ var dura = 50;
             class: 'terminal black',
             cx : 0,
             cy : 0,
-            r : 2,
+            r : function() { if (smScreen) { return 4; } else { return 2; }}
         });
 
-    var txtM = { left: 6, top: 3 }
+    var txtD = { left: 6, top: 3 }
+    var txtM = { left: 12, top: 6 }
 
     nameDots.append('text')
         // .filter(function(d) { return d.value.ptsTot>1625 })
@@ -163,8 +160,8 @@ var dura = 50;
                 } else {
                   return 'darkText riderName hidden'; }
             },
-            x: txtM.left,
-            y: txtM.top
+            x: function() { if (smScreen) { return txtM.left } else { return txtD.left } },
+            y: function() { if (smScreen) { return txtM.top } else { return txtD.top } }
         })
         .text(function(d) { return d[0]; });
 
@@ -192,7 +189,6 @@ var dura = 50;
 //toggle clicked status, clear styles
  function greatsClick() {
    if (clickedB) {
-     console.log(clickedB)
     clearClick();
     clickedB = false;
    } else { clickedB = true; }

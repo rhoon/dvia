@@ -4,12 +4,18 @@
       <title>Paris-Roubaix</title>
       <script src="https://d3js.org/d3.v4.min.js"></script>
       <script src="https://d3js.org/d3-selection-multi.v0.4.min.js"></script>
-      <link href="https://fonts.googleapis.com/css?family=Roboto:400,Roboto+Condensed:700,EB+Garamond" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Cardo:400,400i|Roboto|Roboto+Condensed:700,700i" rel="stylesheet">
       <link href="style.css" rel="stylesheet">
 
-    <style>
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-    </style>
+        ga('create', 'UA-94102160-1', 'auto');
+        ga('send', 'pageview');
+      </script>
 
     </head>
 
@@ -22,20 +28,20 @@
           </div>
 
           <video id="bgvid" poster="video/vid-standin.jpg" playsinline autoplay muted loop>
-            <source src="video/pr-titlebg.webm" type="video/webm">
-            <source src="video/pr-titlebg.mp4" type="video/mp4">
+            <!-- <source src="video/pr-titlebg.webm" type="video/webm">
+            <source src="video/pr-titlebg.mp4" type="video/mp4"> -->
           </video>
       </div>
 
       <div id="intro" class="whitebg">
-        <p>The cobbles of Paris-Roubaix arch between infamy and legend. Riders, caked in mud, overcoming flats and crashes and eager to hold position, sprint for each section of cobble only to ride straight into the jagged stones that barely pass for roadway. If bike races are story generators, Paris-Roubaix is Shakespeare, subjecting it&rsquo;s characters to brutal pain; underdog victories; the rise, and inevitable fall, of cycling dynasties.
+        <p>Paris-Roubaix archs between infamy and legend. Riders, caked in mud, overcoming flats and crashes and eager to hold position, sprint for each section of cobble only to ride straight into the jagged stones that barely pass for roadway. If bike races are story generators, The Hell of the North is nearly Shakespeare, subjecting it&rsquo;s actors to brutal pain, underdog victories... the rise, and inevitable fall, of cycling dynasties.
         <br /><br />
-        Bernaurd Hinault crashing into a dog still somehow winning the race in pure rage. Lemond&rsquo;s face, unrecognizable behind the dirt and dust. Philippe Gaumont&rsquo;s broken femur. Coppi and Mahe: officially tied, unofficially feuding for decades over who really took first. Hayman, a 37-year-old career domestique, out sprinting four-time winner Tom Boonen, unable to believe he had actually won.
+        Bernaurd Hinault crashing into a dog, and somehow winning the race in pure rage. Lemond&rsquo;s face, unrecognizable behind the dirt and dust. Fausto Coppi and Andr&eacute; Mah&eacute;: officially tied, unofficially feuding for decades over who really took first. Hayman, a 37-year-old career domestique, out-sprinting the race favorites, unable to believe he had actually won.
         </p>
 
         <p class="bigQuote red">Paris-Roubaix is the last test of madness that the sport of cycling puts before its participants&#8230;A hardship approaching the threshold of cruelty.
           <br />
-          <span class="quoteAttr darkText">— Jacques Goddet, Race Director 1968</span>
+          <span class="quoteAttr darkText">&ndash; Jacques Goddet, Race Director (1968)</span>
         </p>
 
       </div>
@@ -45,32 +51,61 @@
    window.onscroll = function() { fadeVid() };
 
     function fadeVid() {
-        //console.log(document.body.scrollTop);
+
         var s = document.body.scrollTop;
-        console.log(s);
         //intro fade out
         var o = 1-(s/500);
 
-        d3.select('video#bgvid').style('opacity', o);
+        var vid = d3.select('video#bgvid');
+
+        vid.style('opacity', o);
+
     }
+
+    smScreen = false;
+
+
+    if (window.matchMedia("(min-device-width : 375px) and (max-device-width : 667px)").matches) {
+      smScreen = true;
+
+      d3.select('video#bgvid')
+        .append('source')
+        .attrs({
+          src:'video/pr-mobile.mp4',
+          type: 'video/mp4'
+        });
+
+      var winWidth = window.innerWidth;
+
+    } else {
+
+      d3.select('video#bgvid')
+        .append('source')
+        .attrs({
+          src:'video/pr-titlebg.mp4',
+          type: 'video/mp4'
+        });
+
+    }
+
    </script>
 
     <div id="allRaces">
         <h1 class="offWhiteTitle">ALLEZ! ALLEZ!</h1>
         <p class="offWhiteText">
-        The 115 year evolution of Paris-Roubaix tracks along with the sport: the bikes get lighter, the riders stronger, and accordingly the races trend faster. But, it also tacks along the history of Europe&ndash;no races during the World Wars. In 1919 the still-recovering competition reaches it&rsquo;s slowest. The course destroyed, and previous winners (Octave Lapize and Francois Faber) lost to the war, a pre-race recon of the route bestows Paris-Roubaix with it&rsquo;s nickname, The Hell of the North.
+        The 115 year evolution of Paris-Roubaix tracks along with the sport: the bikes get lighter, the riders stronger, and accordingly the races trend faster. But, it also tacks along the history of Europe&ndash;no races during the World Wars. In 1919 the still-recovering competition reaches its slowest. The course destroyed, and previous winners (Octave Lapize and Francois Faber) lost to the war, a pre-race recon of the route bestows Paris-Roubaix with it&rsquo;s nickname, The Hell of the North.
         <br /><br />
-        <i>“We enter into the center of the battlefield. There’s not a tree. Everything is flattened! There’s not a square metre that has not been hurled upside down. There’s one shell hole after another. The only things standing out in the churned earth are the crosses with their ribbons in blue, white and red. It is hell!”
+        <i>&ldquo;We enter into the center of the battlefield. There&rsquo;s not a tree. Everything is flattened! There&rsquo;s not a square metre that has not been hurled upside down. There&rsquo;s one shell hole after another. The only things standing out in the churned earth are the crosses with their ribbons in blue, white and red. It is hell!&rdquo;
         </i>
         <br />
-        <span class="quoteAttr">– Victor Breyer, L’Auto</span>
+        <span class="quoteAttr">&ndash; Victor Breyer, L&rsquo;Auto</span>
         <br /><br />
-        It may have been the beginning of what would become a celebration of struggle. The fastest ride, Peter Post’s victory in 1964, is largely attributed to changes in the course that took it over mostly fresh paved roads. Race organizers were quick to correct the mistake and retain the cobbles, Paris-Roubaix’s infamous source of pain and character.
+        It may have been the beginning of what would become a celebration of struggle. The fastest ride, Peter Post&rsquo;s victory in 1964, is largely attributed to changes in the course that took it over mostly fresh paved roads. Race organizers were quick to correct the mistake and retain the cobbles, Paris-Roubaix&rsquo;s notorious source of pain and character.
         </p>
 
 
         <div class="chart" id="allRacesChart">
-          <h2 class="offWhiteText">Paris-Roubaix STARTERS And AVERAGE SPEEDS, 1886-2016</h2>
+          <h2 class="offWhiteText">Paris-Roubaix AVERAGE SPEEDS, 1886-2016</h2>
         </div>
 
     </div>
@@ -84,11 +119,11 @@
         <br /><br />
         Below, you&rsquo;ll find the top 10% winningest riders, according to <a href="http://www.uci.ch/mm/Document/News/Rulesandregulation/17/73/59/2-ROA-20161108-E_English.PDF">the UCI&rsquo;s point system.</a> Of the 325 professionals charted, the top twenty-five are highlighted by name.
         <br /><br />
-        While Merckx is still the undisputed master of the monuments, De Vlaeminck (or Monsieur Paris-Roubaix) is the king of this classic. A cyclocross champion, he had a true edge over his competition and came to every race believing he would win. Of 13 attempts, De Vlaeminck never finished below 7th place, a feat no other rider comes close to achieving. Boonen, a legend in his own right and nearest to De Vlaeminck with four first-place finishes, can&rsquo;t quite match his consistency, with a single 24th-place finish in 2003...but perhaps Boonen will tighten the gap this year, in what he&rsquo;s said will be the last race of his career.
+        While Merckx is still the undisputed master of the monuments, De Vlaeminck (or Monsieur Paris-Roubaix) is the king of this classic. A cyclocross champion, he had a true edge over his competition and came to every race believing he would win. Of 13 attempts, De Vlaeminck never finished below 7th place, a feat no other rider comes close to achieving. Boonen, a legend in his own right and nearest to De Vlaeminck with four first-place finishes, can&rsquo;t quite match his consistency, with a single 24th-place finish in 2003...but perhaps Boonen will tighten the gap this year, in what he claims will be the last race of his career.
         </p>
 
         <div class="chart" id="theGreatsChart" onclick="greatsClick()">
-          <h2 class="darkText">THE TOP 10% OF PARIS-ROUBAIX RIDERS</h2>
+          <h2 class="darkText">The Top 10% Paris-Roubaix Cyclists</h2>
         </div>
 
     </div>
@@ -102,21 +137,22 @@
       <h3>Sources &amp; Acknowledgements</h3>
 
       <div class="sources">
-        Visualizations and words by: <br />
+        Visualizations and words by:
         Riley Hoonan <br />
         <br />
-        Video editing by: <br />
+        Video editing by:
         David Drori <br />
         <br />
-        Special thanks to <br />
-        Professor William Bevington <br />
+        Special thanks to
+        Professor William Bevington
         for his insight &amp; enthusiasm <br />
+         <br />
       </div>
 
       <div class="sources">
         Data:<br />
-        <a href="http://www.procyclingstats.com/">ProCyclingStats.com</a><br />
-        <a href="http://bikeraceinfo.com/">BikeRaceInfo.com</a><br />
+        <a href="http://www.procyclingstats.com/">ProCyclingStats.com</a> |
+        <a href="http://bikeraceinfo.com/">BikeRaceInfo.com</a> |
         <a href="http://www.letour.com/paris-roubaix/">LeTour.com/Paris-Roubaix/</a><br />
         <br />
         <a href="https://github.com/rhoon/dvia/tree/master/paris-roubaix/analysis">Dataset available</a> on Github under the MIT license.<br />
@@ -124,23 +160,26 @@
         Articles &amp; Books:<br />
         <a href="http://pages.rapha.cc/racing-2/monumental-cobbles-paris-roubaix-in-the-words-of-others">Rapha | Monumental Cobbles: Paris-Roubaix, In The Words of Others</a><br />
         <br />
-        <a href="https://play.google.com/store/books/details?pcampaignid=books_read_action&id=667fAgAAQBAJ">The Monuments: The Grit and the Glory of Cycling’s Greatest One-day Races</a>
+        <a href="https://play.google.com/store/books/details?pcampaignid=books_read_action&id=667fAgAAQBAJ">The Monuments: The Grit and the Glory of Cycling&rsquo;s Greatest One-day Races</a>
+        <br /><br />
+
       </div>
 
       <div class="sources">
         Footage and additional research:<br />
-        <a href="https://www.youtube.com/watch?v=p0ewL8iuQG8">Paris-Roubaix La Legende</a><br />
-        <a href="https://www.youtube.com/watch?v=YJiZWXzet_M&t=54s">Paris Roubaix 1977</a><br />
-        <a href="https://www.youtube.com/watch?v=5GXL8hVXmeY">Paris Roubaix 1981</a><br />
-        <a href="https://www.youtube.com/watch?v=DPbUz3jSA7g">Paris-Roubaix 1984 (CBS)</a><br />
-        <a href="https://www.youtube.com/watch?v=QvAdfqo43s0">Paris Roubaix 1985 (Finish)</a><br />
-        <a href="https://www.youtube.com/watch?v=uVH6dvRDDtg">Paris-Roubaix 1988</a><br />
-        <a href="https://www.youtube.com/watch?v=kQsJK81rZ4E">Paris-Roubaix 1988 (CBS)</a><br />
-        <a href="https://www.youtube.com/watch?v=c7t5SFiknMM">Paris-Roubaix 1992</a><br />
-        <a href="https://www.youtube.com/watch?v=LTZkWuP07qA">Paris-Roubaix 2001</a><br />
-        <a href="https://www.youtube.com/watch?v=ZI-4pIpMFtU">Paris-Rouabix 2009</a><br />
-        <a href="https://www.youtube.com/watch?v=VQtyg2ewjcQ&t=10656s">Paris-Roubaix 2014</a><br />
-        <a href="https://www.youtube.com/watch?v=8zxnA4asj44">Backstage Pass 2016</a><br />
+        <a href="https://www.youtube.com/watch?v=p0ewL8iuQG8">Paris-Roubaix La Legende</a> |
+        <a href="https://www.youtube.com/watch?v=YJiZWXzet_M&t=54s">Paris Roubaix 1977</a> |
+        <a href="https://www.youtube.com/watch?v=5GXL8hVXmeY">Paris Roubaix 1981</a> |
+        <a href="https://www.youtube.com/watch?v=DPbUz3jSA7g">Paris-Roubaix 1984 (CBS)</a> |
+        <a href="https://www.youtube.com/watch?v=QvAdfqo43s0">Paris Roubaix 1985 (Finish)</a> |
+        <a href="https://www.youtube.com/watch?v=uVH6dvRDDtg">Paris-Roubaix 1988</a> |
+        <a href="https://www.youtube.com/watch?v=kQsJK81rZ4E">Paris-Roubaix 1988 (CBS)</a> |
+        <a href="https://www.youtube.com/watch?v=c7t5SFiknMM">Paris-Roubaix 1992</a> |
+        <a href="https://www.youtube.com/watch?v=LTZkWuP07qA">Paris-Roubaix 2001</a> |
+        <a href="https://www.youtube.com/watch?v=ZI-4pIpMFtU">Paris-Rouabix 2009</a> |
+        <a href="https://www.youtube.com/watch?v=VQtyg2ewjcQ&t=10656s">Paris-Roubaix 2014</a> |
+        <a href="https://www.youtube.com/watch?v=8zxnA4asj44">Backstage Pass 2016</a>
+         <br />
       </div>
 
     </div>
